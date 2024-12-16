@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/DD-MMMM",
+  "autorun": true,
+  "template": "Templates/Daily"
+}
