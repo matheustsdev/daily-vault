@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "obsidian-icon-folder",
+  "obsidian-minimal-settings",
+  "buttons"
 ]
