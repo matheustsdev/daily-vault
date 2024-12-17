@@ -1,0 +1,15 @@
+- [x] Ajuste do timezone
+- [x] Ajuste dos pontos do Luiz
+	- [x] Funcionamento em bomba
+	- [x] Filtro de central
+	- [x] Considerar novo tempo: tempo de preparando
+	- [x] Testar com os dados reais
+- [ ] Aniversário do Welder
+- [ ] Documentação da tarefa
+- [ ] Quebra técnica da nova tarefa
+- [ ] Criar entidades
+- [ ] Adicionar parametro de "ter o fleet"
+- [ ] Adicionar ícone de nota emitidad e preparando
+
+---- 
+- [-] Ajustar exibição de praça
