@@ -7,7 +7,7 @@
 - [x] Ajustar painel de indicadores para tamanhos menores de tela
 - [x] Reunião "Vamos Celebrar"
 --- 
-- [ ] Adicionar atualização do último changelog visto no usuário
+- [x] Adicionar atualização do último changelog visto no usuário
 # Pessoal
 
 - [ ] 
