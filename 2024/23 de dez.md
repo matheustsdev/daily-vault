@@ -9,7 +9,8 @@
 - [x] Logar horas no dia e não no dia seguinte
 - [x] Corrigir linha de horário atual passando do z index vertical
 --- 
-- [/] Pedir permissão de acesso ao ambiente de dev para verificar funcionalidade da tarefa
+- [x] Pedir permissão de acesso ao ambiente de dev para verificar funcionalidade da tarefa
+- [/] Adicionar múltipla seleção de filtro de "tipo de leilão"
 # Pessoal
 
 - [!] Não morrer da cabeça e ombro
