@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/24 de dez.md",
+                "file": "2025/02 de jan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 de dez"
+              "title": "02 de jan"
             }
           },
           {
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -107,8 +108,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -201,8 +202,10 @@
   },
   "active": "e4911877277e26e7",
   "lastOpenFiles": [
-    "2024/23 de dez.md",
     "2024/24 de dez.md",
+    "2025/02 de jan.md",
+    "2025",
+    "2024/23 de dez.md",
     "2024/19 de dez.md",
     "2024/20 de dez.md",
     "2024/18 de dez.md",
