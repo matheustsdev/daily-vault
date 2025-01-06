@@ -8,51 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "141128aa69ae3015",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/06 de jan.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "06 de jan"
-            }
-          },
-          {
-            "id": "2f4ce10085fc4787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tickets/474178 - Não está trazendo a idade dos CPs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "474178 - Não está trazendo a idade dos CPs"
-            }
-          },
-          {
-            "id": "9d77a0e6e1c82e6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tickets/472914 - NF sem invoice_key.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "472914 - NF sem invoice_key"
-            }
-          },
-          {
-            "id": "14bfcae8b3bcb572",
+            "id": "e4911877277e26e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Helper"
             }
+          },
+          {
+            "id": "297d7e3e5cf5d81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/19 de dez.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19 de dez"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,8 +107,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -230,28 +199,27 @@
       "task-status:Change Checkbox Status": false
     }
   },
-  "active": "14bfcae8b3bcb572",
+  "active": "e4911877277e26e7",
   "lastOpenFiles": [
-    "Tickets/472914 - NF sem invoice_key.md",
-    "Helper.md",
-    "Tickets/474178 - Não está trazendo a idade dos CPs.md",
-    "2025/03 de jan.md",
-    "2025/06 de jan.md",
+    "2024/24 de dez.md",
     "Tickets/475707 - Tela de expedição atualizando a cada 2 segundos.md",
-    "Templates/Daily.md",
+    "Tickets/474178 - Não está trazendo a idade dos CPs.md",
+    "Tickets/472914 - NF sem invoice_key.md",
+    "Tickets",
     "Templates/Ticket.md",
     "Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
-    "Tarefas/Melhoria de visualização de dados no gantt.md",
-    "2025/2025-01-06.md",
-    "Data inválida.md",
+    "Helper.md",
+    "2025/06 de jan.md",
+    "2025/03 de jan.md",
     "2025/02 de jan.md",
-    "Tickets",
-    "2024/24 de dez.md",
     "2025",
     "2024/23 de dez.md",
     "2024/19 de dez.md",
     "2024/20 de dez.md",
     "2024/18 de dez.md",
+    "Templates/Daily.md",
+    "Tarefas/Melhoria de visualização de dados no gantt.md",
+    "Untitled.md",
     "Tarefas",
     "2024/17 de dez.md",
     "2024/17 do 12.md",
@@ -261,6 +229,7 @@
     "2024/Test.md",
     "2024/16-December.md",
     "2024-W51.md",
+    "conflict-files-obsidian-git.md",
     "Templates",
     "2024"
   ]
