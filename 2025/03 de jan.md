@@ -23,7 +23,7 @@ Foi definido que, até homologação das features, toda bugfix deve entrar em HM
 	release 13 -> HML
 
 ---
-- [ ] Reunião de alinhamento
+- [>] Reunião de alinhamento
 - [ ] 
 # Pessoal
 
@@ -43,5 +43,5 @@ Foi definido que, até homologação das features, toda bugfix deve entrar em HM
 			- Delícia de abacaxi para 8 pessoas
 			- ⁠Charlotte para 8 pessoas
 - [x] Falar com o Márcio para arrumar torneira e porta
-- [ ] Arrumar a mala
+- [x] Arrumar a mala
 - [ ] Enviar contas ENEL seu Reinaldo

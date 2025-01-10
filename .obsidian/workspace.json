@@ -8,31 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4911877277e26e7",
+            "id": "ff7392fc2af6e52b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helper.md",
+                "file": "2025/10 de jan.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Helper"
+              "title": "10 de jan"
             }
           },
           {
-            "id": "297d7e3e5cf5d81b",
+            "id": "9989a7e514638124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/19 de dez.md",
+                "file": "Tickets/476522 - Remessa sem chave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 de dez"
+              "title": "476522 - Remessa sem chave"
+            }
+          },
+          {
+            "id": "0de165b292726843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/476522 - Remessa sem chave.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "476522 - Remessa sem chave"
+            }
+          },
+          {
+            "id": "d8161356ba1ee9c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tickets/476819 - Inconsistencias base DISPATCH Supremo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "476819 - Inconsistencias base DISPATCH Supremo"
             }
           }
         ]
@@ -107,8 +137,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -199,37 +229,38 @@
       "task-status:Change Checkbox Status": false
     }
   },
-  "active": "e4911877277e26e7",
+  "active": "ff7392fc2af6e52b",
   "lastOpenFiles": [
-    "2024/24 de dez.md",
-    "Tickets/475707 - Tela de expedição atualizando a cada 2 segundos.md",
-    "Tickets/474178 - Não está trazendo a idade dos CPs.md",
+    "Tickets/476522 - Remessa sem chave.md",
+    "Tickets/476819 - Inconsistencias base DISPATCH Supremo.md",
+    "2025/10 de jan.md",
+    "2025/08 de jan.md",
     "Tickets/472914 - NF sem invoice_key.md",
-    "Tickets",
-    "Templates/Ticket.md",
-    "Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
-    "Helper.md",
+    "2025/07 de jan.md",
     "2025/06 de jan.md",
     "2025/03 de jan.md",
+    "Tickets/475711 - Moldagem de cp não considerando o parâmetro da central.md",
+    "Tickets/474178 - Não está trazendo a idade dos CPs.md",
+    "Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
+    "Tarefas/Melhoria de visualização de dados no gantt.md",
+    "Helper.md",
+    "Pasted image 20250106115031.png",
+    "Tickets/475707 - Tela de expedição atualizando a cada 2 segundos.md",
+    "Templates/Daily.md",
+    "Templates/Ticket.md",
+    "2025/2025-01-06.md",
+    "Data inválida.md",
     "2025/02 de jan.md",
+    "Tickets",
+    "2024/24 de dez.md",
     "2025",
     "2024/23 de dez.md",
     "2024/19 de dez.md",
     "2024/20 de dez.md",
     "2024/18 de dez.md",
-    "Templates/Daily.md",
-    "Tarefas/Melhoria de visualização de dados no gantt.md",
-    "Untitled.md",
     "Tarefas",
     "2024/17 de dez.md",
     "2024/17 do 12.md",
-    "2024/2024-12-17.md",
-    "2024/pt-br.md",
-    "2024/en-gb.md",
-    "2024/Test.md",
-    "2024/16-December.md",
-    "2024-W51.md",
-    "conflict-files-obsidian-git.md",
     "Templates",
     "2024"
   ]
