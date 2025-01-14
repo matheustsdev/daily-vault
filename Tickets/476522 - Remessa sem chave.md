@@ -1,8 +1,8 @@
 ---
 Ticket: 476522
-Status: Em análise
+Status: Concluído
 Data de início: 2025-01-08
-Data de fim:
+Data de fim: 2025-01-13
 ---
 - Forçar integração da nota 2463 de Blumenau
 - Estudar se o session id nas mensagens do service bus é suficiente para garantir o processamento em série

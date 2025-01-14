@@ -1,0 +1,14 @@
+
+# Trabalho
+
+- [x] Ticket [[476819 - Inconsistencias base DISPATCH Supremo]]
+- [x] Ticket [[477049 - Sincronização dos dados da base de homologação da Max Mohr]]
+- [x] Ticket [[475222 - Problema na Geração de Faturamento]]
+- [ ] Ticket
+- [ ] Fazer o restore do Fleet
+---
+- [ ] Reunião com Leo
+
+# Pessoal
+
+- [ ] 

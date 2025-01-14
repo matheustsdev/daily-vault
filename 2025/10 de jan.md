@@ -7,7 +7,7 @@
 - [x] Devolver notebook
 - [/] Adicionar tooltip de alerta 
 ---
-- [ ] Reunião devs + Leo
+- [x] Reunião devs + Leo
 # Pessoal
 
-- [ ] Dormir bem
+- [>] Dormir bem
