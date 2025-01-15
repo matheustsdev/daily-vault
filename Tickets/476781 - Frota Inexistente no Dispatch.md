@@ -7,6 +7,8 @@ Data de fim:
 Deletar veículo de código 375M. 
 Muitos vínculos com o veículo, quando removi quebrou o gantt por que tinha alocação.
 
+CONTRATO - CLIENTE - DATA (PROG e NOTA)
+
 --- 
 
 
