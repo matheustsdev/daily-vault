@@ -1,6 +1,6 @@
 ---
 Ticket: 474178
-Status: Em análise
+Status: Concluído
 Data de início: 2025-01-02
 Data de fim: 2025-01-07
 ---
