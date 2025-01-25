@@ -1,6 +1,6 @@
 
 ```dataview
-TABLE Ticket, Status FROM "Tickets" SORT Ticket WHERE Status = "Concluído" AND
+TABLE Ticket, Status FROM "Tickets" SORT Ticket WHERE Status = "Concluído"
 ```
 
 # Em análise
