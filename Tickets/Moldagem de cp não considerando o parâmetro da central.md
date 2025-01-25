@@ -1,6 +1,6 @@
 ---
 Ticket: 475711
-Status: Em análise
+Status: Concluído
 Data de início: 2025-01-06
 Data de fim: 2025-01-07
 ---

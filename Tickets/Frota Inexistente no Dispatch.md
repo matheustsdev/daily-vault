@@ -1,8 +1,8 @@
 ---
 Ticket: 476781
-Status: Em análise
+Status: Concluído
 Data de início: 2025-01-14
-Data de fim:
+Data de fim: 2025-01-16
 ---
 Deletar veículo de código 375M. 
 Muitos vínculos com o veículo, quando removi quebrou o gantt por que tinha alocação.
@@ -11,7 +11,9 @@ CONTRATO - CLIENTE - DATA (PROG e NOTA)
 
 --- 
 
-
+Cliente informou que pode ser utilizado o veículo 375A para substituição.
+# Respostas
+## Interna 1
 Boa tarde.  
    
 Após deletar o veículo e abrir a aplicação para verificar a solução foi observado uma quebra da aplicação devido outros vínculos já existentes desse veículo no DISPATCH (**O veículo foi restaurado para evitar a quebra da aplicação**). Segue os vínculos encontrados:  

@@ -1,8 +1,8 @@
 
 # Trabalho
 
-- [/] Ticket [[474178 - Não está trazendo a idade dos CPs]]
-- [x] Ticket [[475707 - Tela de expedição atualizando a cada 2 segundos]]
+- [/] Ticket [[Não está trazendo a idade dos CPs]]
+- [x] Ticket [[Tela de expedição atualizando a cada 2 segundos]]
 - [x] Reintegrar notas fiscais solicitadas pelo Luiz
 	- 376
 	- 2371

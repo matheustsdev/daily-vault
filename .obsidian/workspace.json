@@ -4,43 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "caa5808a68815c22",
+        "id": "822d17904c165725",
         "type": "tabs",
         "children": [
           {
-            "id": "9863844c652414ce",
+            "id": "077324abc7993e96",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/15 de jan.md",
+                "file": "2025/20 de jan.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "15 de jan"
-            }
-          },
-          {
-            "id": "697811afe8dcba2e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reuniões/Buscaaii/15 de jan - 19h30 - Alinhamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "15 de jan - 19h30 - Alinhamento"
+              "title": "20 de jan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,36 +197,37 @@
       "task-status:Change Checkbox Status": false
     }
   },
-  "active": "697811afe8dcba2e",
+  "active": "080f873b6b5f13e8",
   "lastOpenFiles": [
-    "Reuniões/Buscaaii",
-    "2025/15 de jan.md",
+    "conflict-files-obsidian-git.md",
+    "2025/20 de jan.md",
     "Reuniões/Buscaaii/15 de jan - 19h30 - Alinhamento.md",
+    "2025/15 de jan.md",
+    "Reuniões/Buscaaii/Untitled.md",
+    "Tickets/Tela de expedição atualizando a cada 2 segundos.md",
+    "Tickets/Taxas de bombeamento para o mesmo cliente.md",
+    "Tickets/Sincronização dos dados da base de homologação da Max Mohr.md",
+    "Tickets/Remessa sem chave.md",
+    "Tickets/Problema na Geração de Faturamento.md",
+    "Tickets/Não está trazendo a idade dos CPs.md",
+    "Tickets/NF sem invoice_key.md",
+    "Tickets/Moldagem de cp não considerando o parâmetro da central.md",
+    "Tickets/Instalação agente em máquina Backup.md",
+    "Tickets/Inconsistencias base DISPATCH Supremo.md",
+    "Tickets/Frota Inexistente no Dispatch.md",
+    "Tickets/Erros ambiente HML.md",
+    "Tickets/Erro no Topcon Engenharia.md",
+    "Tickets/Erro Cobrança M3 Faltante.md",
+    "Tickets/Concreserv - Novo cliente.md",
+    "Tickets.md",
+    "2025/17 de jan.md",
+    "2025/16 de jan.md",
+    "Reuniões/Buscaaii",
     "Reuniões",
     "Tickets/477049 - Sincronização dos dados da base de homologação da Max Mohr.md",
     "Tickets/476781 - Frota Inexistente no Dispatch.md",
     "Tickets/475763 - Erro no Topcon Engenharia.md",
-    "Tickets/466065 - Concreserv - Novo cliente.md",
     "Pasted image 20250115180513.png",
-    "Tickets/475222 - Problema na Geração de Faturamento.md",
-    "477049 - Sincronização dos dados da base de homologação da Max Mohr.md",
-    "476781 - Frota Inexistente no Dispatch.md",
-    "2025/14 de jan.md",
-    "2025/13 de jan.md",
-    "2025/11 de jan.md",
-    "2025/10 de jan.md",
-    "Tickets/476522 - Remessa sem chave.md",
-    "Tickets/476819 - Inconsistencias base DISPATCH Supremo.md",
-    "2025/08 de jan.md",
-    "Tickets/472914 - NF sem invoice_key.md",
-    "2025/07 de jan.md",
-    "2025/06 de jan.md",
-    "2025/03 de jan.md",
-    "Tickets/475711 - Moldagem de cp não considerando o parâmetro da central.md",
-    "Tickets/474178 - Não está trazendo a idade dos CPs.md",
-    "Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
-    "Tarefas/Melhoria de visualização de dados no gantt.md",
-    "Helper.md",
     "Pasted image 20250106115031.png",
     "Tickets",
     "2025",
