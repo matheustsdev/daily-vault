@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "822d17904c165725",
+        "id": "2a68c54f7ea9f092",
         "type": "tabs",
         "children": [
           {
-            "id": "077324abc7993e96",
+            "id": "66df5eed4d78601a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/20 de jan.md",
+                "file": "Tickets/Ajustes para expedição do cliente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 de jan"
+              "title": "Ajustes para expedição do cliente"
             }
           }
         ]
@@ -30,6 +30,28 @@
     "id": "71c1bbd392f49e2b",
     "type": "split",
     "children": [
+      {
+        "id": "cf2ead9cbbfedccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97bc2dc595b12419",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/27 de jan.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "27 de jan"
+            }
+          }
+        ]
+      },
       {
         "id": "6f14aecf559f4df0",
         "type": "tabs",
@@ -77,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 324.5
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -87,16 +109,6 @@
         "id": "5caf6c92dd624a50",
         "type": "tabs",
         "children": [
-          {
-            "id": "155929a011882c0a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "080f873b6b5f13e8",
             "type": "leaf",
@@ -108,12 +120,12 @@
             }
           },
           {
-            "id": "87c74fde82584dc7",
+            "id": "5895b550f58216fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Tickets/466065 - Concreserv - Novo cliente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,25 +135,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 de dez"
+              "title": "Backlinks for 466065 - Concreserv - Novo cliente"
             }
           },
           {
-            "id": "7036a91f401a2d22",
+            "id": "cd098908e8053ff6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Tickets/466065 - Concreserv - Novo cliente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 de dez"
+              "title": "Outgoing links from 466065 - Concreserv - Novo cliente"
             }
           },
           {
-            "id": "ff19de66dd06a945",
+            "id": "ee183e0b2c5cc0ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,19 +166,29 @@
             }
           },
           {
-            "id": "7e14212bd7f7de14",
+            "id": "d8d9a34c80a5183c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/18 de dez.md"
+                "file": "Tickets/466065 - Concreserv - Novo cliente.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 de dez"
+              "title": "Outline of 466065 - Concreserv - Novo cliente"
             }
           },
           {
-            "id": "74b7b31ca09c9ae5",
+            "id": "43a720dc03ecbf88",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "c0ee1fe8b9284efd",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -175,17 +197,14 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,40 +213,46 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "task-status:Change Checkbox Status": false
+      "task-status:Change Checkbox Status": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "080f873b6b5f13e8",
+  "active": "66df5eed4d78601a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "2025/20 de jan.md",
-    "Reuniões/Buscaaii/15 de jan - 19h30 - Alinhamento.md",
-    "2025/15 de jan.md",
-    "Reuniões/Buscaaii/Untitled.md",
-    "Tickets/Tela de expedição atualizando a cada 2 segundos.md",
-    "Tickets/Taxas de bombeamento para o mesmo cliente.md",
-    "Tickets/Sincronização dos dados da base de homologação da Max Mohr.md",
-    "Tickets/Remessa sem chave.md",
-    "Tickets/Problema na Geração de Faturamento.md",
-    "Tickets/Não está trazendo a idade dos CPs.md",
-    "Tickets/NF sem invoice_key.md",
-    "Tickets/Moldagem de cp não considerando o parâmetro da central.md",
-    "Tickets/Instalação agente em máquina Backup.md",
+    "2025/27 de jan.md",
+    "Tickets/Ajustes para expedição do cliente.md",
+    "Tickets/Erro ao gerar a remessa base SUPREMO.md",
     "Tickets/Inconsistencias base DISPATCH Supremo.md",
-    "Tickets/Frota Inexistente no Dispatch.md",
-    "Tickets/Erros ambiente HML.md",
-    "Tickets/Erro no Topcon Engenharia.md",
-    "Tickets/Erro Cobrança M3 Faltante.md",
-    "Tickets/Concreserv - Novo cliente.md",
-    "Tickets.md",
-    "2025/17 de jan.md",
-    "2025/16 de jan.md",
+    "Pasted image 20250127103948.png",
+    "Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
+    "2025/24 de jan.md",
+    "Reuniões/Buscaaii/Untitled.md",
+    "Reuniões/Buscaaii/15 de jan - 19h30 - Alinhamento.md",
     "Reuniões/Buscaaii",
     "Reuniões",
-    "Tickets/477049 - Sincronização dos dados da base de homologação da Max Mohr.md",
-    "Tickets/476781 - Frota Inexistente no Dispatch.md",
-    "Tickets/475763 - Erro no Topcon Engenharia.md",
-    "Pasted image 20250115180513.png",
+    "2025/15 de jan.md",
+    "2025/17 de jan.md",
+    "2025/21 de jan.md",
+    "Anexos",
+    "Anexos/Pasted image 20250124100507.png",
+    "Templates/Ticket.md",
+    "Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
+    "Tickets.md",
+    "2025/20 de jan.md",
+    "Tickets/Taxas de bombeamento para o mesmo cliente.md",
+    "Tickets/Erros ambiente HML.md",
+    "Tickets/Moldagem de cp não considerando o parâmetro da central.md",
+    "Tickets/Não está trazendo a idade dos CPs.md",
+    "Tickets/Instalação agente em máquina Backup.md",
+    "Tickets/Erro Cobrança M3 Faltante.md",
+    "Tickets/Sincronização dos dados da base de homologação da Max Mohr.md",
+    "Tickets/Frota Inexistente no Dispatch.md",
+    "Tickets/Remessa sem chave.md",
+    "Tickets/Erro no Topcon Engenharia.md",
+    "Tickets/Tela de expedição atualizando a cada 2 segundos.md",
+    "Pasted image 20250115180407.png",
+    "Anexos/Pasted image 20250115180513.png",
     "Pasted image 20250106115031.png",
     "Tickets",
     "2025",

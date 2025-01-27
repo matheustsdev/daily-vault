@@ -2,11 +2,9 @@
 # Trabalho
 
 - [/] Ticket - [[Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega]]
-
----
-- [x] Criar entidade para armazenar solicitações de análises
-- [ ] 
-
+- [x] Ticket - [[Erro ao gerar a remessa base SUPREMO]]
+- [x] Reunião Supremo
+- [/] Ticket [[Ajustes para expedição do cliente]]
 # Pessoal
 
 - [ ] 
