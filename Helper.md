@@ -35,3 +35,5 @@
 | Aplicação | Cliente    | Key                              |
 | --------- | ---------- | -------------------------------- |
 | TECH      | Concreserv | c6e465a0a75241d283cb3eb9341f669f |
+
+# Checar usuários do IDENTITY no DISPATCH

@@ -1,8 +1,8 @@
 ---
 Ticket: 480284
-Status: Em análise
+Status: Concluído
 Data de início: 2025-01-27
-Data de fim:
+Data de fim: 2025-01-29
 ---
 
 # Análise
