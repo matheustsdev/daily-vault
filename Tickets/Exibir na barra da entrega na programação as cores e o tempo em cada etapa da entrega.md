@@ -12,9 +12,14 @@ Caio viu que as viagens intermediárias de argamassa estão vindo: a caminho -> 
 
 ![[Pasted image 20250124100507.png]]
 
+## 2. Tratativa da argamassa nos processor não considera a campo novo e nem as peculiaridades da mesma
+
+Necessário fazer algumas tratativas para lidar com os estados em ordem que não funcionam para concreto e o campo novo
 # Solução
 
-## Adição do campo LeaveConstruction
+## 1. Adição do campo LeaveConstruction
 Vai ser adicionado o campo LeaveConstruction na DeliveryTicketConcrete para registrar o momento em que o veículo sai da obra, dessa forma podemos utilizar o ultimo "a caminho" das viagens intermediárias de argamassa para atualizar o status para "Entregue". 
 
 Além disso esse campo será utilizado para calcular a taxa de permanência para argamassa.
+
+## 2. Fazer a tratativa no Travel e no VehicleState processor
