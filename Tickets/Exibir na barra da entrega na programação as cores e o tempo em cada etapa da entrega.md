@@ -1,8 +1,8 @@
 ---
 Ticket: 462262
-Status: Em análise
+Status: Concluído
 Data de início: 2025-01-23
-Data de fim:
+Data de fim: 2025-02-06
 ---
 # Análise
 
