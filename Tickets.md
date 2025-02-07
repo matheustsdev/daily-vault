@@ -1,6 +1,6 @@
 # Hoje
 ```dataview
-TABLE Ticket, Status, date(today) FROM "Tickets" SORT Ticket WHERE row["Data de início"] = date(today) OR row["Data de fim"] = date(today)
+TABLE Ticket, Status FROM "Tickets" SORT Ticket WHERE row["Data de início"] = date(today) OR row["Data de fim"] = date(today)
 ```
 
 # Ontem

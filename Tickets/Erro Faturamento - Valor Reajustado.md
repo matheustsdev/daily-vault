@@ -1,12 +1,10 @@
 ---
-Ticket: 
+Ticket: 482005
 Status: Em análise
-Data de início: 
+Data de início: 2025-02-07
 Data de fim:
 ---
-<%* 
-await tp.file.move("Tickets/Novo ticket");
-%>
+
 # Análises
 ## 1.
 
