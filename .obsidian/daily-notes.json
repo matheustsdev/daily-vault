@@ -1,5 +1,6 @@
 {
-  "format": "YYYY/MMMM/YYYY-MM-DD",
+  "format": "YYYY/MM/YYYY-MM-DD",
   "autorun": false,
-  "template": "Templates/Daily"
+  "template": "Templates/Daily",
+  "folder": "Agenda"
 }
