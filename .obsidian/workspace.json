@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "63feafe45d5617aa",
+        "id": "1043e2e40d307ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0473ee24fef628",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Dashboard de Tickets.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Dashboard de Tickets"
-            }
-          },
-          {
-            "id": "1a6968c9e52e5769",
+            "id": "b5d15616593106d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Erro POST API Item Product.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Erro POST API Item Product"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,13 +27,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cf2ead9cbbfedccf",
+        "id": "6f14aecf559f4df0",
         "type": "tabs",
         "children": [
           {
-            "id": "8c8b3953fb45fb44",
+            "id": "4e8fe2675980291d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -62,7 +40,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "10 de fev"
             }
@@ -70,7 +47,7 @@
         ]
       },
       {
-        "id": "6f14aecf559f4df0",
+        "id": "c37c7040f36960f1",
         "type": "tabs",
         "children": [
           {
@@ -117,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 300
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -127,6 +104,16 @@
         "id": "5caf6c92dd624a50",
         "type": "tabs",
         "children": [
+          {
+            "id": "155929a011882c0a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
           {
             "id": "080f873b6b5f13e8",
             "type": "leaf",
@@ -138,12 +125,12 @@
             }
           },
           {
-            "id": "5895b550f58216fb",
+            "id": "87c74fde82584dc7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tickets/466065 - Concreserv - Novo cliente.md",
+                "file": "2024/18 de dez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,25 +140,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 466065 - Concreserv - Novo cliente"
+              "title": "Backlinks for 18 de dez"
             }
           },
           {
-            "id": "cd098908e8053ff6",
+            "id": "7036a91f401a2d22",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tickets/466065 - Concreserv - Novo cliente.md",
+                "file": "2024/18 de dez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 466065 - Concreserv - Novo cliente"
+              "title": "Outgoing links from 18 de dez"
             }
           },
           {
-            "id": "ee183e0b2c5cc0ba",
+            "id": "ff19de66dd06a945",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,29 +171,19 @@
             }
           },
           {
-            "id": "d8d9a34c80a5183c",
+            "id": "7e14212bd7f7de14",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tickets/466065 - Concreserv - Novo cliente.md"
+                "file": "2024/18 de dez.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 466065 - Concreserv - Novo cliente"
+              "title": "Outline of 18 de dez"
             }
           },
           {
-            "id": "43a720dc03ecbf88",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "c0ee1fe8b9284efd",
+            "id": "74b7b31ca09c9ae5",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -215,14 +192,17 @@
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,53 +211,51 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "task-status:Change Checkbox Status": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "task-status:Change Checkbox Status": false
     }
   },
   "active": "080f873b6b5f13e8",
   "lastOpenFiles": [
-    "Topcon/Tickets/Erro POST API Item Product.md",
     "Agenda/2025/02/10 de fev.md",
-    "[Erro POST API Item Product.md",
+    "Buscaaii/Tarefas/Histórico de análise do usuário.md",
+    "Topcon/Tickets/Erro POST API Item Product.md",
     "Topcon/Dashboard de Tickets.md",
-    "Templates/Ticket.md",
-    "Topcon/Tickets/Remessas Duplicadas - Urgente.md",
-    "Topcon/Tickets/Erro Faturamento - Valor Reajustado.md",
-    "Agenda/2025/02/07 de fev.md",
     "Agenda/2025/02/09 de fev.md",
-    "Agenda/2025/02/08 de fev.md",
-    "Topcon/Tickets/Tela de expedição atualizando a cada 2 segundos.md",
-    "Topcon/Tickets/Taxas de bombeamento para o mesmo cliente.md",
-    "Topcon/Tickets/Sincronização dos dados da base de homologação da Max Mohr.md",
-    "Topcon/Tickets/Remessa sem chave.md",
-    "Topcon/Tickets/Problema na Geração de Faturamento.md",
-    "Topcon/Tickets/Não está trazendo a idade dos CPs.md",
-    "Topcon/Tickets/Nova consulta para api Delivery e Delivery Ticket.md",
-    "Topcon/Tickets/NF sem invoice_key.md",
-    "Topcon/Tickets/Moldagem de cp não considerando o parâmetro da central.md",
-    "Topcon/Tickets/LoadTicket sem informação veiculo.md",
-    "Topcon/Tickets/Instalação agente em máquina Backup.md",
-    "Topcon/Tickets/Inconsistencias base DISPATCH Supremo.md",
-    "Topcon/Tickets/Frota Inexistente no Dispatch.md",
-    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
-    "Topcon/Tickets/Excluir peça a Concretar padrão da Base.md",
-    "Topcon/Tickets/Erros ambiente HML.md",
-    "Topcon/Tickets",
-    "Topcon/Tarefas",
-    "Topcon",
     "Buscaaii/Tarefas",
-    "Buscaaii/Reuniões",
+    "Buscaaii/Reuniões/15 de jan - 19h30 - Alinhamento.md",
+    "Reuniões/Buscaaii/Untitled.md",
+    "Agenda/2025/01/02 de jan.md",
+    "Topcon",
     "Buscaaii",
-    "Agenda/2025/02",
+    "Agenda",
+    "Agenda/2025/02/04 de fev.md",
     "Agenda/2025/01",
-    "Agenda/2025",
-    "Agenda/2024",
+    "Agenda/2025/02/08 de fev.md",
+    "Agenda/2025/02",
+    "Topcon/Tickets/Remessas Duplicadas - Urgente.md",
+    "Topcon/Tickets/Nova consulta para api Delivery e Delivery Ticket.md",
+    "Topcon/Tickets/LoadTicket sem informação veiculo.md",
+    "Topcon/Tickets/Excluir peça a Concretar padrão da Base.md",
+    "Topcon/Tickets/Erro na API de Veiculos - Supertex.md",
+    "Topcon/Tickets/Erro ao validação limite de crédito.md",
+    "Topcon/Tickets/Erro ao incluir redosagem.md",
+    "Topcon/Tickets/Erro ao gerar a remessa base SUPREMO.md",
+    "Topcon/Tickets/Erro ao alterar parametrizações em central.md",
+    "Topcon/Tickets/Erro Faturamento - Valor Reajustado.md",
+    "Topcon/Tickets/Erro - Ao clicar no mapa de expedição.md",
+    "Topcon/Tickets/Ajustes para expedição do cliente.md",
     "Anexos/Pasted image 20250127103948.png",
+    "Agenda/2025/02/07 de fev.md",
+    "Agenda/2025/02/06 de fev.md",
+    "Agenda/2025/02/05 de fev.md",
+    "2025/February",
+    "Agenda/2025/01/31 de jan.md",
     "Anexos/Pasted image 20250124100507.png",
-    "Pasted image 20250115180407.png",
     "Anexos/Pasted image 20250115180513.png",
+    "Anexos",
+    "Buscaaii/Reuniões/Buscaaii",
+    "Buscaaii/Reuniões",
+    "Pasted image 20250115180513.png",
     "Pasted image 20250106115031.png"
   ]
 }
