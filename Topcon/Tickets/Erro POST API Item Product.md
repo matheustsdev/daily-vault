@@ -1,8 +1,8 @@
 ---
 Ticket: 482620
-Status: Em análise
+Status: Concluído
 Data de início: 2025-02-10
-Data de fim:
+Data de fim: 2025-02-11
 ---
 
 # Análises
