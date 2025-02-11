@@ -13,6 +13,4 @@ O erro se deu devido ao item já ter sido inserido, fazendo com que a tentativa 
 
 # Soluções
 
-
-
-# Processo de teste
+## 1. Adicionar erro mais claro ao já existir external id

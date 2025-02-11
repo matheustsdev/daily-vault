@@ -1,0 +1,14 @@
+---
+Local: "[[Ilha das sombras]]"
+Facção: 
+Descrição: Mago que lidera a ilha
+---
+
+
+Zanin é foi um órfão que por muito tempo buscou seus pais. Quando criança, aos 6 anos, foi adotado por um bruxo que ensinou e motivou o jovem a buscar poder através da magia pois ela era a única capaz de dar poder ilimitado e moldar a realidade ao redor dele e isso mexeu com aquela criança órfã que por tanto tempo se sentiu diminuído e abandonado.
+
+Então durante anos ele estudou por conta própria e com seu pai adotivo. Já mais velho, aos 18 anos, seu pai lhe contou sobre um plano em que ele abriria uma fenda na trama da magia para tocá-la e extrair poder diretamente dela e, para isso, seria necessária a ajuda do seu filho para abrir essa fenda. Porém Zanin já havia lido sobre esse tipo de tentativas, de tocar a trama, e que sempre acabava de formas trágicas e tentou convencer o pai não fazer isso mas ele era persistente e explicou detalhadamente o plano e como funcionaria para que Zanin ajudasse e ao perceber que não conseguiria evitar decidiu se juntar ao pai na tentativa de ter sucesso. 
+
+Zanin passou os próximos dias estudando tudo que podia a respeito e finalmente achou que seria possível ter sucesso nesse plano. Quando o momento chegou o ritual começou funcionando bem e isso animou bastante os dois porém o ritual estava causando tremores de terra pela cidade, além de oscilar a própria magia na região iniciando um caos na mesma o que levou os guardas da cidade até o ritual e infelizmente atacaram os dois e apesar da tentativa de continuar concentrado no ritual e tentar alertar aos guardas que ataca-los poderia ocasionar problemas ainda maiores mas os avisos não foram suficientes. Zanin conseguiu manter a concentração, porém não seu pai. O ritual saiu do controle e uma fenda foi aberta, uma não muito grande, mas o suficiente para criar um campo gravitacional tão forte que atraiu todos os guardas e o pai de Zanin, essa perda deu força suficiente à ele para que fechasse a fenda, mas neste momento Zanin sentiu. Sentiu que aquele ritual havia afetado o equilíbrio da magia naquele mundo e principalmente naquelas terras. Zanin então decidiu tentar corrigir essas fendas e também procurar seus pais biológicos, agora que era uma mago poderoso e poderia moldar a realidade.
+
+Agora Zanin vive nessas [[Ilha das sombras|ilhas]], onde acredita ter sido o ultimo destino dos seus pais, ilhas que na verdade não são o que parecem mas são como ele deseja. Essa ilha teve muito efeito do ritual que ficou conhecido como A primeira Fenda.

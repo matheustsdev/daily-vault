@@ -1,0 +1,7 @@
+---
+Tipo: Cidade
+Estado: "[[Thundralis]]"
+---
+
+
+
