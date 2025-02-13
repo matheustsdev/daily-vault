@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
+                "file": "Topcon/Tickets/Traço Inativo disponível para carregamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise de dados em tempo real para tomada de decisões estratégicas na expedição"
+              "title": "Traço Inativo disponível para carregamento"
             }
           }
         ],
@@ -52,19 +52,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4ff98c9e47fb8c0",
+            "id": "e6e91d6ad007f30c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/02/11 de fev.md",
+                "file": "Agenda/2025/02/13 de fev.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "11 de fev"
+              "title": "13 de fev"
             }
           }
         ]
@@ -238,12 +238,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "080f873b6b5f13e8",
+  "active": "a7183f52d2419368",
   "lastOpenFiles": [
-    "Agenda/2025/02/11 de fev.md",
+    "Agenda/2025/02/13 de fev.md",
+    "Topcon/Tickets/Traço Inativo disponível para carregamento.md",
     "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
+    "Agenda/2025/02/12 de fev.md",
     "Topcon/Tickets/Programação aguardando analise de limite de crédito.md",
     "Topcon/Dashboard de Tickets.md",
+    "Agenda/2025/02/11 de fev.md",
     "Topcon/Tickets/Erro POST API Item Product.md",
     "Anexos/Procedimento Básico para Hexcrawl.pdf",
     "Estudo/Dicas de como montar campanha.md",
@@ -268,9 +271,6 @@
     "Agenda/2025/02/09 de fev.md",
     "Agenda/2025/02/08 de fev.md",
     "Topcon/Tickets/Tela de expedição atualizando a cada 2 segundos.md",
-    "Topcon/Tickets/Taxas de bombeamento para o mesmo cliente.md",
-    "Topcon/Tickets/Sincronização dos dados da base de homologação da Max Mohr.md",
-    "Topcon/Tickets/Remessa sem chave.md",
     "Topcon/Tickets",
     "Topcon/Tarefas",
     "Topcon",
