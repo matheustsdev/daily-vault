@@ -18,4 +18,3 @@ TABLE Ticket, Status FROM "Tickets" SORT Ticket WHERE Status != "Concluído"
 ```dataview
 TABLE Ticket, Status FROM "Tickets" SORT "Data de início" DESC WHERE Status = "Concluído"
 ```
-999-25-24

@@ -24,20 +24,35 @@
             }
           },
           {
-            "id": "2e8bba61c79f8317",
+            "id": "5caf21bcfc77bcbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Erro ao validação limite de crédito.md",
+                "file": "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erro ao validação limite de crédito"
+              "title": "Análise de dados em tempo real para tomada de decisões estratégicas na expedição"
+            }
+          },
+          {
+            "id": "ce2631cb14e730bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análise de dados em tempo real para tomada de decisões estratégicas na expedição"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,19 +66,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7183f52d2419368",
+            "id": "4788387ceb44d6db",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/02/14 de fev.md",
+                "file": "Agenda/2025/02/17 de fev.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "14 de fev"
+              "title": "17 de fev"
             }
           }
         ]
@@ -237,19 +252,22 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "080f873b6b5f13e8",
+  "active": "ce2631cb14e730bf",
   "lastOpenFiles": [
-    "Topcon/Tickets/Erro ao validação limite de crédito.md",
-    "Agenda/2025/02/14 de fev.md",
+    "Pasted image 20250217184137.png",
+    "Pasted image 20250217183759.png",
+    "Agenda/2025/02/17 de fev.md",
     "Topcon/Dashboard de Tickets.md",
+    "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
+    "Topcon/Tickets/Erro ao validação limite de crédito.md",
+    "Topcon/Tickets/Programação aguardando analise de limite de crédito.md",
+    "Agenda/2025/02/14 de fev.md",
     "Agenda/2025/02/13 de fev.md",
     "Topcon/Tickets/Novo ticket.md",
     "Agenda/2024/18 de dez.md",
     "Agenda/2025/02/09 de fev.md",
     "Topcon/Tickets/Traço Inativo disponível para carregamento.md",
-    "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
     "Agenda/2025/02/12 de fev.md",
-    "Topcon/Tickets/Programação aguardando analise de limite de crédito.md",
     "Agenda/2025/02/11 de fev.md",
     "Topcon/Tickets/Erro POST API Item Product.md",
     "Anexos/Procedimento Básico para Hexcrawl.pdf",
@@ -268,8 +286,6 @@
     "Livros",
     "Agenda/2025/02/10 de fev.md",
     "[Erro POST API Item Product.md",
-    "Templates/Ticket.md",
-    "Topcon/Tickets/Remessas Duplicadas - Urgente.md",
     "Topcon/Tickets",
     "Topcon/Tarefas",
     "Topcon",
