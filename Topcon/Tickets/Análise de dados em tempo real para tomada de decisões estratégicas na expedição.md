@@ -13,9 +13,9 @@ Data de fim:
 # Soluções
 
 1. Será convertido parte do script SQL para código, para facilitar manutenção e o agrupamento 
-	Tempo de execução para novo formato funcional:
-	![[Pasted image 20250217183759.png]]
-	
-	Tempo de execução anterior:
-	![[Pasted image 20250217184137.png]]
-	
+	Tempo de execução para novo formato funcional: (15s)
+		![[Ticket 478213 - 1.png]]
+		![[Ticket 478213 - 3.png]]
+	Tempo de execução anterior: (20s)
+		![[Ticket 478213 - 2.png]]
+

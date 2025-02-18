@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "Dashboard de Tickets"
             }
-          },
-          {
-            "id": "5caf21bcfc77bcbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análise de dados em tempo real para tomada de decisões estratégicas na expedição"
-            }
-          },
-          {
-            "id": "ce2631cb14e730bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análise de dados em tempo real para tomada de decisões estratégicas na expedição"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,19 +37,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4788387ceb44d6db",
+            "id": "ce2631cb14e730bf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/02/17 de fev.md",
+                "file": "Agenda/2025/02/18 de fev.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "17 de fev"
+              "title": "18 de fev"
             }
           }
         ]
@@ -157,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tickets/466065 - Concreserv - Novo cliente.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 466065 - Concreserv - Novo cliente"
+              "title": "Backlinks for Dashboard de Tickets"
             }
           },
           {
@@ -176,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tickets/466065 - Concreserv - Novo cliente.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 466065 - Concreserv - Novo cliente"
+              "title": "Outgoing links from Dashboard de Tickets"
             }
           },
           {
@@ -218,16 +189,6 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "0fd537f98a8caefc",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
           }
         ]
       }
@@ -252,13 +213,31 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ce2631cb14e730bf",
+  "active": "080f873b6b5f13e8",
   "lastOpenFiles": [
-    "Pasted image 20250217184137.png",
-    "Pasted image 20250217183759.png",
-    "Agenda/2025/02/17 de fev.md",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
+    "Anexos/Procedimento Básico para Hexcrawl.pdf",
+    "Estudo/Dicas de como montar campanha.md",
     "Topcon/Dashboard de Tickets.md",
+    "Untitled.md",
     "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
+    "Topcon/Tickets/Anexos/Pasted image 20250218155540.png",
+    "Topcon/Tickets/Anexos",
+    "Agenda/2025/02/18 de fev.md",
+    "Anexos/Pasted image 20250115180513.png",
+    "Anexos/Pasted image 20250124100507.png",
+    "Anexos/Pasted image 20250127103948.png",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 2.png",
+    "Anexos/Pasted image 20250217183759.png",
+    "Anexos/Pasted image 20250217184137.png",
+    "Anexos/Pasted image 20250218100535.png",
+    "RPG/Soleia - World/Brainstorm.md",
+    "RPG/Soleia - World/Ideias gerais do mundo.md",
+    "RPG/Soleia - World/Próximos passos.md",
+    "Helper.md",
+    "RPG/index.md",
+    "Agenda/2025/02/17 de fev.md",
     "Topcon/Tickets/Erro ao validação limite de crédito.md",
     "Topcon/Tickets/Programação aguardando analise de limite de crédito.md",
     "Agenda/2025/02/14 de fev.md",
@@ -270,31 +249,16 @@
     "Agenda/2025/02/12 de fev.md",
     "Agenda/2025/02/11 de fev.md",
     "Topcon/Tickets/Erro POST API Item Product.md",
-    "Anexos/Procedimento Básico para Hexcrawl.pdf",
-    "Estudo/Dicas de como montar campanha.md",
     "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
     "Estudo",
     "Livros/Trono de Vidro 3 - Herdeira do Fogo.md",
     "RPG/Soleia - World/Locais/Vilas/Valandra.md",
     "RPG/Soleia - World/Definições básicas do cenário.md",
-    "RPG/Soleia - World/Próximos passos.md",
-    "RPG/Soleia - World/Mapa.md",
-    "RPG/Templates/Deus.md",
-    "RPG/Templates/Facção.md",
-    "RPG/Templates/Aventura.md",
     "RPG",
     "Livros",
-    "Agenda/2025/02/10 de fev.md",
-    "[Erro POST API Item Product.md",
     "Topcon/Tickets",
     "Topcon/Tarefas",
     "Topcon",
-    "Buscaaii/Tarefas",
-    "Buscaaii/Reuniões",
-    "Anexos/Pasted image 20250127103948.png",
-    "Anexos/Pasted image 20250124100507.png",
-    "Pasted image 20250115180407.png",
-    "Anexos/Pasted image 20250115180513.png",
-    "Pasted image 20250106115031.png"
+    "Buscaaii/Tarefas"
   ]
 }

@@ -1,8 +1,8 @@
 
 # Trabalho
 
-- [ ] Ticket [[Análise de dados em tempo real para tomada de decisões estratégicas na expedição]]
+- [/] Ticket [[Análise de dados em tempo real para tomada de decisões estratégicas na expedição]]
 
 # Pessoal
 
-- [ ] Experimental de volei
+- [x] Experimental de volei

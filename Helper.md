@@ -37,3 +37,46 @@
 | TECH      | Concreserv | c6e465a0a75241d283cb3eb9341f669f |
 
 # Checar usuários do IDENTITY no DISPATCH
+
+# Scripts SQL
+## Adição de usuário DISPATCH/IDENTITY
+
+```sql
+DO $$
+DECLARE
+    user_id UUID := 'User id'; -- Atualizar ID do usuário
+    email TEXT := 'Email minusculo'; -- Atualizar Email do usuário
+    tenant_id UUID := '8d4b8d26-c6dd-4270-baff-840d11fc1c52'; -- Atualizar ID do Tenant
+    full_name TEXT := 'Nome'; -- Nome completo pode ser extraído do email se necessário
+    is_admin BOOLEAN := true; -- Atualizar status de administrador
+BEGIN
+
+    -- Inserção na tabela topcon_identity.reg_users
+    INSERT INTO topcon_identity.reg_users (
+        id_user, id_tenant, deleted, created_at, updated_at, deleted_at,
+        id_b2c, full_name, active, activated_at, last_activity_at, last_data_share_accept, 
+        "admin", user_name, normalized_user_name, email, normalized_email, email_confirmed, 
+        password_hash, security_stamp, concurrency_stamp, phone_number, phone_number_confirmed, 
+        two_factor_enabled, lockout_end, lockout_enabled, access_failed_count
+    )
+    VALUES (
+        user_id, tenant_id, false, NOW(), NOW(), NULL,
+        user_id, full_name, true, NULL, NULL, NULL, 
+        is_admin, email, UPPER(email), email, UPPER(email), true, 
+        'AQAAAAEAACcQAAAAEBaQqocNWc/AIQvuaFdm3fDTZUVQ9p6lbl6gyaiYvpYFmeZ2johbZlz2i3ck8AC3EA==', 
+        'UHFPAWBV5MWTDMYO2VVHOBEE2RZG56X3', 'dc10933f-bed1-47cc-9567-a14929a855a1', 
+        NULL, false, false, NULL, false, 0
+    );
+
+    -- Inserção na tabela topcon_dispatch.reg_users
+    INSERT INTO topcon_dispatch.reg_users (
+        id_user, id_b2c, full_name, active, "admin", id_tenant, deleted, created_at, updated_at, deleted_at
+    )
+    VALUES (
+        user_id, user_id, full_name, true, is_admin, tenant_id, false, NOW(), NULL, NULL
+    );
+
+END $$;
+```
+
+
