@@ -1,8 +1,8 @@
 ---
 Ticket: 478213
-Status: Em análise
+Status: Concluído
 Data de início: 2025-02-11
-Data de fim:
+Data de fim: 2025-02-18
 ---
 
 # Análises
