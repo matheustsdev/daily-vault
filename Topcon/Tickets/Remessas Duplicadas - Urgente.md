@@ -2,7 +2,7 @@
 Ticket: 482037
 Status: Em análise
 Data de início: 2025-02-07
-Data de fim: ""
+Data de fim: 2025-02-21
 ---
 
 # Análise
@@ -16,3 +16,4 @@ Data de fim: ""
 # Solução
 
 1. Luiz repassou para o Filipe ver com cliente como proceder
+2. Xela deu ideia de só adicionar uma nova camada de filtro sem interveniente para verificar nota apenas
