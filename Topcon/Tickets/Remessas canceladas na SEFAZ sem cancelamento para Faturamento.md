@@ -1,12 +1,13 @@
 ---
 Ticket: 485633
-Status: Concluído
+Status: Em análise
 Data de início: 2025-02-25
-Data de fim: 2025-02-25
+Data de fim: ""
 ---
 
 # Análises
 1. Notas foram canceladas sem cancelar remessa.
+2. Ao tentar cancelar remessa pela expedição está dando erro
 
 
 # Soluções
