@@ -38,23 +38,8 @@
               "icon": "lucide-file",
               "title": "Inconsistências em emissão e cancelamento de remessas"
             }
-          },
-          {
-            "id": "e0caa47340b7e448",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divergencia custo dos insumos"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 382.5
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -241,18 +226,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e0caa47340b7e448",
+  "active": "fb0473ee24fef628",
   "lastOpenFiles": [
-    "Agenda/2025/02/28 de fev.md",
-    "Topcon/Dashboard de Tickets.md",
     "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
+    "Topcon/Dashboard de Tickets.md",
     "Agenda/2025/03/04 de mar.md",
+    "Agenda/2025/02/28 de fev.md",
     "Agenda/2025/03/01 de mar.md",
     "Agenda/2025/03",
-    "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
     "Agenda/2025/02/27 de fev.md",
-    "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
     "Topcon/Tickets/Contrato Pendente - EM ANÁLISE.md",
     "Topcon/Tickets/BO do Tech.md",
     "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",

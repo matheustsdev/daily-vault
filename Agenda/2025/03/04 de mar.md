@@ -5,4 +5,4 @@
 
 # Pessoal
 
-- [ ] Correr com Pri
+- [x] Correr com Pri
