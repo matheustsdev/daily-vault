@@ -19,6 +19,7 @@ Necessário fazer algumas tratativas para lidar com os estados em ordem que não
 ## 3. Envio dos dados pelo FLEET
 
 Algumas atualizações do FLEET não enviavam o id da viagem ou do estado, o que fazia a mensagem não chegar até o DISPATCH
+## 4. Retornou com um problema que ocorreu devido o FLEET não gerar as viagens
 # Soluções
 
 ## 1. Adição do campo LeaveConstruction

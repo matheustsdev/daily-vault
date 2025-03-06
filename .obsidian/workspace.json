@@ -24,22 +24,21 @@
             }
           },
           {
-            "id": "34904837f0e3e29f",
+            "id": "ea48e19a5b1f86ce",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
+                "file": "Agenda/2025/02/27 de fev.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Inconsistências em emissão e cancelamento de remessas"
+              "title": "27 de fev"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,19 +52,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d514cb974ae1ca8f",
+            "id": "9b70fa4233848c68",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/04 de mar.md",
+                "file": "Agenda/2025/03/06 de mar.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "04 de mar"
+              "title": "06 de mar"
             }
           }
         ]
@@ -226,24 +223,28 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fb0473ee24fef628",
+  "active": "080f873b6b5f13e8",
   "lastOpenFiles": [
+    "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
+    "Agenda/2025/02/17 de fev.md",
+    "Agenda/2025/02/27 de fev.md",
+    "Agenda/2025/02/26 de fev.md",
+    "Agenda/2025/02/28 de fev.md",
+    "Agenda/2025/03/06 de mar.md",
+    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
+    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
+    "Topcon/Dashboard de Tickets.md",
     "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
+    "Agenda/2025/03/04 de mar.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
-    "Topcon/Dashboard de Tickets.md",
-    "Agenda/2025/03/04 de mar.md",
-    "Agenda/2025/02/28 de fev.md",
     "Agenda/2025/03/01 de mar.md",
     "Agenda/2025/03",
     "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
-    "Agenda/2025/02/27 de fev.md",
     "Topcon/Tickets/Contrato Pendente - EM ANÁLISE.md",
     "Topcon/Tickets/BO do Tech.md",
     "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
-    "Agenda/2025/02/26 de fev.md",
     "Topcon/Tickets/Anexos/Pasted image 20250226143657.png",
-    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
     "Agenda/2025/02/25 de fev.md",
     "Topcon/Tickets/Erro ao emitir DANFE na base de homologação..md",
     "Topcon/Tickets/Erro Faturamento - NF sem dados de autorização no topnfe.md",
@@ -254,10 +255,6 @@
     "Topcon/Tickets/Não está trazendo a idade dos CPs.md",
     "Topcon/Tickets/NF sem invoice_key.md",
     "Topcon/Tickets/Nova consulta para api Delivery e Delivery Ticket.md",
-    "Topcon/Tickets/Problema na Geração de Faturamento.md",
-    "Topcon/Tickets/Programação aguardando analise de limite de crédito.md",
-    "Topcon/Tickets/Remessa sem chave.md",
-    "Topcon/Tickets/Remessas Duplicadas - Urgente.md",
     "Topcon/Tickets/Anexos/Pasted image 20250224140537.png",
     "Topcon/Tickets/Anexos/Pasted image 20250224140534.png",
     "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",

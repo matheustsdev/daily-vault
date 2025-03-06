@@ -6,3 +6,6 @@
 # Pessoal
 
 - [x] Correr com Pri
+0,08
+12,15
+4702,07
