@@ -1,0 +1,19 @@
+- [ ] Ticket [[Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega]]
+- [ ] Ticket [[Expedição de Argamassa gerou duas remessas de cada cliente]]
+- [x] Code review tarefa do Jonatha (TDP - 1478)
+	- 7465abb5
+		- Texto em português
+	- 3816d0b3
+		- O texto do nome do campo não ficou claro o suficiente, incoerente com o nome da variável e das versões em outras linguas
+		- O enum EScheduleConcreteBatchingPlantMethod foi adicionado no arquivo EVolumeControlMethod, mas o padrão é cada enum possuir seu próprio arquivo a não ser que tratem do mesmo objeto (como exemplo temos o ESegmentationTypeId, que apesar de não ser 2 enums, mosta que para estar no mesmo arquivo precisam estar diretamente relacionados)
+	- ac52cac4
+		- Migration vazia
+	- 666361f9
+		- Na linha 98 do arquivo molecules/AutocompleteConcreteBatchingPlants faltou um espaço entre o if e o parentese como feito nos demais.
+		- Não foi adicionado o regionalId como dependência do useEffect que faz a busca pela centrais, assim a query nunca considera a regional já que a primeira fez que é executada ainda não existe regional
+		- No geral optamos por criar uma função assincrona na region de callbacks e chama-la na useEffect invés de criar e chama-la no escopo dele.
+		- No arquivo organisms/MainAndSupportConcreteBatchingPlantPicker as importações ficaram depois do import Styled, sendo que nosso eslint não permite. O ideal seria separar cada import dentro das respectivas regions
+		- Um erro de funcionamento ocorre aqui também. A query do parâmetro está filtrando por id, o que faz sentido, e por chave, o que não faz sentido. Com esse filtro de chave você só terá retorno se o valor do parâmetro for o de "apenas central do contrato", dessa forma você não consegue validar se será necessário informar o regionalId para o autocomplete ou não já que você não obteria uma chave diferente que no momento está sendo sempre enviado.
+		- O regional id está sempre vazio pois o regional id inicial vem ao selecionar contrato que possui sua própria query. É necessário adicionar o regional id para retornar na query do contrato.
+	- 42f7a10f
+		- Com essa troca para utilizar o selectedConcreteBatchingPlant, caso eu remova a seleção, por um segundo aparece outras centrais o que pode resultar em seleções erradas
