@@ -1,5 +1,8 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }

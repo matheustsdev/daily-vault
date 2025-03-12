@@ -1,5 +1,5 @@
 ---
-Ticket: 
+Ticket: 485100
 Status: Em análise
 Data de início: 
 Data de fim:
@@ -11,7 +11,7 @@ Data de fim:
 		- Por que não tá sendo enviado pelo TECH
 		- Não existe implementação de processor dele na FUNCTION
 2. Erro ao adicionar FamilyVersion
-	- Está enviando com o SupplyId zerado no ConcreteRecipeFamilyVersionSupplyCharacteristics
+		- Está enviando com o SupplyId zerado no ConcreteRecipeFamilyVersionSupplyCharacteristics
 
 # Soluções
 

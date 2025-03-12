@@ -6,34 +6,30 @@ Data de fim: 2025-02-06
 ---
 # Análises
 
-## 1. Status a caminho como "final" das viagens intermediárias de argamassa
+ 1. Status a caminho como "final" das viagens intermediárias de argamassa
 
 Caio viu que as viagens intermediárias de argamassa estão vindo: a caminho -> descarregando -> a caminho. Porém como está a tratativa de status, o DISPATCH forçava o status para descarregando.
 
 ![[Pasted image 20250124100507.png]]
 
-## 2. Tratativa da argamassa nos processor não considera a campo novo e nem as peculiaridades da mesma
+2. Tratativa da argamassa nos processor não considera a campo novo e nem as peculiaridades da mesma
 
 Necessário fazer algumas tratativas para lidar com os estados em ordem que não funcionam para concreto e o campo novo
 
-## 3. Envio dos dados pelo FLEET
+ 3. Envio dos dados pelo FLEET
 
 Algumas atualizações do FLEET não enviavam o id da viagem ou do estado, o que fazia a mensagem não chegar até o DISPATCH
-## 4. Retornou com um problema que ocorreu devido o FLEET não gerar as viagens
+ 4. Retornou com um problema que ocorreu devido o FLEET não gerar as viagens
+ 5. Argamassa finalizando todas juntas. Tratativa já após a correção
 # Soluções
-
-## 1. Adição do campo LeaveConstruction
-Vai ser adicionado o campo LeaveConstruction na DeliveryTicketConcrete para registrar o momento em que o veículo sai da obra, dessa forma podemos utilizar o ultimo "a caminho" das viagens intermediárias de argamassa para atualizar o status para "Entregue". 
-
-Além disso esse campo será utilizado para calcular a taxa de permanência para argamassa.
-
-## 2. Fazer a tratativa no Travel e no VehicleState processor
-
-## 3. Adicionar ID em alguns update/insert do FLEET
-
-## 4. Enviar todos os estados da viagem ao atualizar um estado
-
-Para garantir a validação de todos os estados, o estado que vem na raiz do objeto VehicleState é injetado na lista de estados dentro da Travel. Isso se faz necessário pois o evento é enviado antes da atualização do estado que o gerou.
+ 1. Adição do campo LeaveConstruction
+	Vai ser adicionado o campo LeaveConstruction na DeliveryTicketConcrete para registrar o momento em que o veículo sai da obra, dessa forma podemos utilizar o ultimo "a caminho" das viagens intermediárias de argamassa para atualizar o status para "Entregue". 
+	
+	Além disso esse campo será utilizado para calcular a taxa de permanência para argamassa.
+2. Fazer a tratativa no Travel e no VehicleState processor
+3. Adicionar ID em alguns update/insert do FLEET
+4. Enviar todos os estados da viagem ao atualizar um estado
+	Para garantir a validação de todos os estados, o estado que vem na raiz do objeto VehicleState é injetado na lista de estados dentro da Travel. Isso se faz necessário pois o evento é enviado antes da atualização do estado que o gerou.
 
 ---
 # Processo de teste
@@ -45,6 +41,7 @@ Para resetar viagem no FLEET e tentar utilizar o simulador novamente:
 4. Adicionar essa travel como current do veículo
 
 ## FLEET
+
 ```sql
 ----- Get vehicle data -----
 

@@ -1,6 +1,6 @@
 ---
 Ticket: 482037
-Status: Em análise
+Status: Concluído
 Data de início: 2025-02-07
 Data de fim: 2025-02-21
 ---
