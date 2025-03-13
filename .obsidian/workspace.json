@@ -43,16 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "file": "Topcon/Tickets/Nenhuma versão da tabela de traço ativa..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divergencia custo dos insumos"
+              "title": "Nenhuma versão da tabela de traço ativa."
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,19 +66,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "790a21d6ecf37764",
+            "id": "3cb9e9cdbd9e1fce",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/12 de mar.md",
+                "file": "Agenda/2025/03/13 de mar.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "12 de mar"
+              "title": "13 de mar"
             }
           }
         ]
@@ -239,8 +239,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "32461369109c2007",
+  "active": "3cb9e9cdbd9e1fce",
   "lastOpenFiles": [
+    "Topcon/Tickets/Nenhuma versão da tabela de traço ativa..md",
+    "Agenda/2025/03/13 de mar.md",
+    "Topcon/Tickets/Reaproveitamento gerado no DISPATCH não gerou na con_reaprov.md",
     "Agenda/2025/03/12 de mar.md",
     "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
@@ -264,9 +267,6 @@
     "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
     "Agenda/2025/02/17 de fev.md",
     "Agenda/2025/02/26 de fev.md",
-    "Agenda/2025/02/28 de fev.md",
-    "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
-    "Agenda/2025/03/01 de mar.md",
     "Agenda/2025/03",
     "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
     "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
