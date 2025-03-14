@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "aa7d71338d74452b",
+            "id": "3af94724b862413a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,19 +66,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cb9e9cdbd9e1fce",
+            "id": "aa7d71338d74452b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/13 de mar.md",
+                "file": "Agenda/2025/03/14 de mar.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "13 de mar"
+              "title": "14 de mar"
             }
           }
         ]
@@ -239,13 +239,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3cb9e9cdbd9e1fce",
+  "active": "3af94724b862413a",
   "lastOpenFiles": [
+    "Agenda/2025/03/14 de mar.md",
     "Topcon/Tickets/Nenhuma versão da tabela de traço ativa..md",
+    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
     "Agenda/2025/03/13 de mar.md",
     "Topcon/Tickets/Reaproveitamento gerado no DISPATCH não gerou na con_reaprov.md",
     "Agenda/2025/03/12 de mar.md",
-    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Topcon/Dashboard de Tickets.md",
     "Templates/Ticket.md",
@@ -266,7 +267,6 @@
     "Agenda/2025/02/27 de fev.md",
     "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
     "Agenda/2025/02/17 de fev.md",
-    "Agenda/2025/02/26 de fev.md",
     "Agenda/2025/03",
     "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
     "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",

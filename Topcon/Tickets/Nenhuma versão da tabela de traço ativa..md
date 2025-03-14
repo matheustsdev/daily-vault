@@ -1,8 +1,8 @@
 ---
 Ticket: 488327
-Status: Em análise
+Status: Concluído
 Data de início: 2025-03-13
-Data de fim:
+Data de fim: 2025-03-13
 ---
 
 # Análises
