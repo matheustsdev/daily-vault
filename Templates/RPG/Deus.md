@@ -3,7 +3,7 @@ Local:
 Descrição: 
 Facção: Deus
 ---
-<% await tp.file.move("/Soleia - World/Panteão/" + tp.file.title) %>
+<% await tp.file.move("/RPG/Soleia - World/Panteão/" + tp.file.title) %>
 <%*
 const title = await tp.system.prompt("Título");
 await tp.file.rename(title);

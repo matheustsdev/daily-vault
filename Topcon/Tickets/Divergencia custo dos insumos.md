@@ -98,3 +98,10 @@ AND rdts.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
 	INNER JOIN reg_concrete_batching_plants rcbp ON rcbp.id_concrete_batching_plant = rs.id_concrete_batching_plant_fk
 	WHERE rdtd.cancelled = TRUE AND rdt.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52' AND rdtc.status <> 'CANCELED';
 	```
+5. No dia 18/03, a partir das 19:40 foi forçado a integração da remessas e produção. Foram forçados 14152 registros em que 962 foram para a fila morta, resultando assertividade de 93,2%.
+6. Foi feito uma atualização no DISPATCH e na integração atualizando o cálculo do material por m³ e o material total para ser o somatório dos valores dos insumos na con_item_nf/DeliveryTicketSupply
+```sql
+select filial, serie, num_nf, material_m3, material_total, qtde_m3_bt from con_nf where num_nf = 2428 and filial=1911 and serie=3;
+
+select filial, ser, num_nf, SUM(preco_un), SUM(preco_un * qt) from con_item_nf where num_nf = 2428 and filial=1911 and ser=3 group by num_nf, filial, ser;
+```

@@ -24,65 +24,21 @@
             }
           },
           {
-            "id": "916f79bea6abd57c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Validar volume maximo do veiculo ao expedir.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Validar volume maximo do veiculo ao expedir"
-            }
-          },
-          {
-            "id": "985ad21b5bae3e6f",
+            "id": "b418e7bf17691f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tarefas/TDP 1668 - Selecionar a frente de obra na inclusão da programação.md",
+                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDP 1668 - Selecionar a frente de obra na inclusão da programação"
-            }
-          },
-          {
-            "id": "d1872648c2a1986f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inconsistências em emissão e cancelamento de remessas"
-            }
-          },
-          {
-            "id": "e051315584a8a07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expedição de Argamassa gerou duas remessas de cada cliente"
+              "title": "Divergencia custo dos insumos"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,39 +52,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3af94724b862413a",
+            "id": "4721fd4fc08da714",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/17 de mar.md",
+                "file": "Agenda/2025/03/19 de mar.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "17 de mar"
-            }
-          },
-          {
-            "id": "a8a2b52a48bb3f82",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/03/18 de mar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "18 de mar"
+              "title": "19 de mar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f14aecf559f4df0",
@@ -286,34 +225,37 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a8a2b52a48bb3f82",
+  "active": "4721fd4fc08da714",
   "lastOpenFiles": [
-    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Topcon/Dashboard de Tickets.md",
-    "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
-    "Agenda/2025/03/18 de mar.md",
+    "Agenda/2025/03/19 de mar.md",
+    "Templates/Topcon/Code review.md",
+    "RPG/Soleia - World/NPCs/Teste.md",
+    "Templates/RPG/Cidade.md",
+    "Templates/Topcon",
+    "Templates/RPG/Taverna.md",
+    "Templates/RPG/Oneshot.md",
+    "Templates/RPG/NPC.md",
+    "Templates/RPG/Floresta.md",
+    "Templates/RPG/Facção.md",
+    "Templates/RPG/Deus.md",
+    "Templates/RPG/Vila.md",
+    "Templates/RPG",
+    "Templates/Topcon/Ticket.md",
+    "Templates/Topcon/Daily.md",
+    "Templates/RPG/Aventura.md",
+    "RPG/Attachments/Caelum Thornfield.png",
     "Topcon/Tarefas/TDP 1668 - Selecionar a frente de obra na inclusão da programação.md",
-    "Templates/Code review.md",
-    "Templates/Ticket.md",
-    "Templates/Daily.md",
-    "Topcon/Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
     "Topcon/Tickets/Validar volume maximo do veiculo ao expedir.md",
+    "Agenda/2025/03/18 de mar.md",
+    "Agenda/2025/03/17 de mar.md",
+    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
+    "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
+    "Topcon/Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
     "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
     "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
     "Topcon/Tickets/Reaproveitamento gerado no DISPATCH não gerou na con_reaprov.md",
-    "Agenda/2025/03/17 de mar.md",
-    "Topcon/Tickets/Inserir dados no arquivo Shipment.xml.md",
-    "Agenda/2025/03/13 de mar.md",
-    "Agenda/2025/03/14 de mar.md",
-    "Agenda/2025/02/25 de fev.md",
-    "Agenda/2025/02/24 de fev.md",
-    "Agenda/2025/02/28 de fev.md",
-    "Agenda/2025/02/27 de fev.md",
-    "Agenda/2025/02/26 de fev.md",
-    "Topcon/Tickets/Nenhuma versão da tabela de traço ativa..md",
-    "Agenda/2025/03/12 de mar.md",
-    "Topcon/Tickets/Divergencia custo dos insumos.md",
-    "Erro Faturamento - Remessas com valor total zerados.md",
     "Agenda/2025/03",
     "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
     "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
@@ -326,13 +268,10 @@
     "Topcon/Tickets/Anexos/Pasted image 20250218155540.png",
     "Topcon/Tickets/Anexos",
     "Anexos/Pasted image 20250115180513.png",
-    "Anexos/Pasted image 20250124100507.png",
     "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
     "Estudo",
     "RPG",
     "Livros",
-    "Topcon/Tickets",
-    "Topcon/Tarefas",
-    "Topcon"
+    "Topcon/Tickets"
   ]
 }

@@ -3,7 +3,7 @@ Influência:
 Local do quartel:
 ---
 
-<% await tp.file.move("/Soleia - World/Grupos e Facções/" + tp.file.title) %>
+<% await tp.file.move("/RPG/Soleia - World/Grupos e Facções/" + tp.file.title) %>
 <%*
 const title = await tp.system.prompt("Título");
 await tp.file.rename(title);

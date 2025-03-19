@@ -2,7 +2,7 @@
 Tipo: Cidade
 Estado:
 ---
-<% await tp.file.move("/Soleia - World/Locais/Cidades/" + tp.file.title) %>
+<% await tp.file.move("/RPG/Soleia - World/Locais/Cidades/" + tp.file.title) %>
 <%*
 const title = await tp.system.prompt("Título");
 await tp.file.rename(title);

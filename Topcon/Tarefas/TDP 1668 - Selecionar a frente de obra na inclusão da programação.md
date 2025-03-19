@@ -25,3 +25,15 @@ Data de fim:
 	2. Selecionei o contrato B para prosseguir com a programação
 	3. Inclui a programação com o contrato B
 	4. No Gantt, clicando no ícone na barra lateral, é exibido os dados da programação e é possível ver que a frente de obra foi inserida mesmo não possuindo vínculo com a obra do contrato B
+
+# Code review 3 (19/03)
+**Boas práticas**
+- No arquivo organisms/DialogConstructionFrontsSelect, a propriedade "selectedConstructionFront" do componente não está sendo utilizada, então pode ser removida.
+- No arquivo organisms/DialogConstructionFrontsSelect, foi utilizado || como validação de valor e não o ?? (nullish coalescing) como utilizado no setValues do formulário mais acima no código.
+**Problemas de funcionalidade**
+- No arquivo organisms/DialogConstructionFrontsSelect, ao resetar os campos do formulário, não é resetado a frente de obra selecionada
+- O erro de gerar uma programação com frente de obra de outro contrato se mantém. Para reproduzir o problema fiz:
+	1. Selecionei a frente de obra do contrato A
+	2. Selecionei o contrato B para prosseguir com a programação
+	3. Inclui a programação com o contrato B
+	4. No Gantt, clicando no ícone na barra lateral, é exibido os dados da programação e é possível ver que a frente de obra foi inserida mesmo não possuindo vínculo com a obra do contrato B

@@ -1,8 +1,8 @@
 ---
 Ticket: 488981
-Status: Em análise
+Status: Concluído
 Data de início: 2025-03-18
-Data de fim:
+Data de fim: 2025-03-18
 ---
 
 # Análises
