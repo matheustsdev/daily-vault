@@ -4,39 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "1043e2e40d307ce8",
+        "id": "63feafe45d5617aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d15616593106d1",
+            "id": "fb0473ee24fef628",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buscaaii/Reuniões/Alinhamento com Fábio - 20 de fev.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Alinhamento com Fábio - 20 de fev"
+              "title": "Dashboard de Tickets"
             }
           },
           {
-            "id": "b26fa60a04768349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/Soleia - World/Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brainstorm"
-            }
-          },
-          {
-            "id": "eae75e9878f072cf",
+            "id": "e748ca1e166446b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,6 +35,20 @@
               },
               "icon": "lucide-file",
               "title": "Aurélia"
+            }
+          },
+          {
+            "id": "e2868d123b117e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Soleia - World/Locais/Aeglíria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeglíria"
             }
           }
         ],
@@ -60,42 +62,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6f14aecf559f4df0",
+        "id": "e9bf03013b6811cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8fe2675980291d",
+            "id": "4721fd4fc08da714",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/02/10 de fev.md",
+                "file": "Agenda/2025/03/19 de mar.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "10 de fev"
+              "title": "19 de mar"
             }
           },
           {
-            "id": "8d50918762bca0e8",
+            "id": "b418e7bf17691f08",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/02/20 de fev.md",
+                "file": "Agenda/2025/03/20 de mar.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "20 de fev"
+              "title": "20 de mar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "c37c7040f36960f1",
+        "id": "6f14aecf559f4df0",
         "type": "tabs",
         "children": [
           {
@@ -142,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -152,16 +157,6 @@
         "id": "5caf6c92dd624a50",
         "type": "tabs",
         "children": [
-          {
-            "id": "155929a011882c0a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "080f873b6b5f13e8",
             "type": "leaf",
@@ -173,12 +168,12 @@
             }
           },
           {
-            "id": "87c74fde82584dc7",
+            "id": "5895b550f58216fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,25 +183,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 de dez"
+              "title": "Backlinks for Dashboard de Tickets"
             }
           },
           {
-            "id": "7036a91f401a2d22",
+            "id": "cd098908e8053ff6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 de dez"
+              "title": "Outgoing links from Dashboard de Tickets"
             }
           },
           {
-            "id": "ff19de66dd06a945",
+            "id": "ee183e0b2c5cc0ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -219,38 +214,35 @@
             }
           },
           {
-            "id": "7e14212bd7f7de14",
+            "id": "d8d9a34c80a5183c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/18 de dez.md"
+                "file": "Tickets/466065 - Concreserv - Novo cliente.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 de dez"
+              "title": "Outline of 466065 - Concreserv - Novo cliente"
             }
           },
           {
-            "id": "74b7b31ca09c9ae5",
+            "id": "348b295337a8bfcd",
             "type": "leaf",
             "state": {
-              "type": "planner-timeline",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -258,56 +250,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eae75e9878f072cf",
+  "active": "e2868d123b117e1e",
   "lastOpenFiles": [
-    "RPG/Soleia - World/Brainstorm.md",
+    "Topcon/Dashboard de Tickets.md",
     "RPG/Soleia - World/Locais/Aurélia.md",
-    "Buscaaii/Reuniões/Alinhamento com Fábio - 20 de fev.md",
     "RPG/Soleia - World/Locais/Aeglíria.md",
-    "conflict-files-obsidian-git.md",
-    "Topcon/Tickets/Validar volume maximo do veiculo ao expedir.md",
-    "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
-    "Topcon/Tickets/Reaproveitamento gerado no DISPATCH não gerou na con_reaprov.md",
-    "Topcon/Tickets/Nenhuma versão da tabela de traço ativa..md",
-    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
-    "Topcon/Tickets/Inserir dados no arquivo Shipment.xml.md",
-    "Templates/Topcon/Ticket.md",
-    "Templates/Topcon/Daily.md",
-    "Templates/Topcon/Code review.md",
-    "Templates/Topcon",
-    "Templates/RPG/Vila.md",
-    "Templates/RPG/Oneshot.md",
-    "Templates/RPG/Taverna.md",
-    "Templates/RPG/NPC.md",
+    "RPG/Soleia - World/Brainstorm.md",
+    "Templates/RPG/Masmorra.md",
+    "Agenda/2025/03/19 de mar.md",
     "Templates/RPG/Floresta.md",
+    "Templates/RPG/Cidade.md",
+    "Agenda/2025/03/20 de mar.md",
+    "Topcon/Tickets/Não conclui programação NewDispatch - Concreserv.md",
+    "Início.md",
+    "Não con.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Templates/Topcon/Code review.md",
+    "RPG/Soleia - World/NPCs/Teste.md",
+    "Templates/Topcon",
+    "Templates/RPG/Taverna.md",
+    "Templates/RPG/Oneshot.md",
+    "Templates/RPG/NPC.md",
     "Templates/RPG/Facção.md",
     "Templates/RPG/Deus.md",
-    "Templates/RPG/Cidade.md",
-    "Templates/RPG/Aventura.md",
+    "Templates/RPG/Vila.md",
     "Templates/RPG",
-    "RPG/Attachments/Livro do Jogador 2024.md",
+    "Templates/Topcon/Ticket.md",
+    "Templates/Daily.md",
+    "Templates/RPG/Aventura.md",
     "RPG/Attachments/Caelum Thornfield.png",
-    "Agenda/2025/03/19 de mar.md",
-    "Agenda/2025/03/18 de mar.md",
+    "Topcon/Tarefas/TDP 1668 - Selecionar a frente de obra na inclusão da programação.md",
+    "Topcon/Tickets/Validar volume maximo do veiculo ao expedir.md",
     "Agenda/2025/03",
-    "RPG/Tables",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 2.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250226143657.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250224140537.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250224140534.png",
     "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
+    "Anexos/Procedimento Básico para Hexcrawl.pdf",
+    "Topcon/Tickets/Anexos/Pasted image 20250218155540.png",
     "Topcon/Tickets/Anexos",
-    "RPG/Templates",
-    "RPG/Soleia - World/Locais/Vilas",
-    "RPG/Soleia - World/Locais/Tavernas",
-    "RPG/Soleia - World/Locais/Rios",
-    "RPG/Soleia - World/Locais/Outros",
-    "RPG/Attachments/valandra.png",
-    "RPG/Attachments/pena_dourada (1).png",
-    "RPG/Attachments/lysander.png",
-    "RPG/Attachments/Yara Feldspar.png",
-    "RPG/Attachments/Soleia atualizado.png",
-    "RPG/Attachments/Rota Lysander-Raventor.png"
+    "Anexos/Pasted image 20250115180513.png",
+    "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
+    "Estudo",
+    "RPG",
+    "Livros",
+    "Topcon/Tickets"
   ]
 }
