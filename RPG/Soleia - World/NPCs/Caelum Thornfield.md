@@ -7,7 +7,7 @@ Facção: "[[Sombras de ébano]]"
 
 Meio-elfo esguio e reservado, Caelum possui cabelos prateados e olhos verdes penetrantes. Sua expressão fria e calculista combina com sua habilidade inigualável em se mover sem ser notado, um talento que aprimorou durante anos de prática em espionagem e subterfúgio. Caelum é o especialista em coleta de informações do núcleo de Valandra e é conhecido por conseguir informações até dos alvos mais sigilosos.
 
-![[CAelum Thornfield.png]]
+![[Caelum Thornfield.png]]
 # Objetivo
 
 Permanecer na organização e crescer nas fileiras dos Sombras de Ébano para garantir proteção e segurança em meio ao caos das facções

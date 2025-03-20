@@ -6,6 +6,9 @@
     "Status": "text",
     "Data de início": "date",
     "Data de fim": "date",
-    "Ticket": "number"
+    "Ticket": "number",
+    "Tarefa": "text",
+    "Método": "multitext",
+    "Responsabilidade": "multitext"
   }
 }

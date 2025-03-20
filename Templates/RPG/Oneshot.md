@@ -2,7 +2,7 @@
 Origem: 
 Tipo: Oneshot
 ---
-<% await tp.file.move("/Soleia - World/Aventuras/" + tp.file.title) %>
+<% await tp.file.move("/RPG/Soleia - World/Aventuras/" + tp.file.title) %>
 <%*
 const title = await tp.system.prompt("Título");
 await tp.file.rename(title);

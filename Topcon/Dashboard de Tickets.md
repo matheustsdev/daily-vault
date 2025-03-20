@@ -16,5 +16,6 @@ TABLE Ticket, Status FROM "Tickets" SORT Ticket WHERE Status != "Concluído"
 
 # Concluídos
 ```dataview
-TABLE Ticket, Status FROM "Tickets" SORT "Data de início" DESC WHERE Status = "Concluído"
+TABLE Ticket, Status FROM "Topcon/Tickets" SORT Ticket WHERE 
+date(row["Data de fim"]).month = 3
 ```

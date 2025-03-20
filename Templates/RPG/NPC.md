@@ -3,7 +3,7 @@ Local:
 Descrição: 
 Facção:
 ---
-<% await tp.file.move("/Soleia - World/NPCs/" + tp.file.title) %>
+<% await tp.file.move("/RPG/Soleia - World/NPCs/" + tp.file.title) %>
 <%*
 const title = await tp.system.prompt("Título");
 await tp.file.rename(title);

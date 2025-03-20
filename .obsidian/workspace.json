@@ -4,51 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "1043e2e40d307ce8",
+        "id": "63feafe45d5617aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b5d15616593106d1",
+            "id": "fb0473ee24fef628",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Dashboard de Tickets.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard de Tickets"
+            }
+          },
+          {
+            "id": "b418e7bf17691f08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buscaaii/Reuniões/Alinhamento com Fábio - 20 de fev.md",
+                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alinhamento com Fábio - 20 de fev"
-            }
-          },
-          {
-            "id": "b26fa60a04768349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPG/Soleia - World/Brainstorm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brainstorm"
-            }
-          },
-          {
-            "id": "eae75e9878f072cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Divergencia custo dos insumos"
             }
           }
         ],
         "currentTab": 2
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,42 +50,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6f14aecf559f4df0",
+        "id": "e9bf03013b6811cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4e8fe2675980291d",
+            "id": "4721fd4fc08da714",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/02/10 de fev.md",
+                "file": "Agenda/2025/03/19 de mar.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "10 de fev"
-            }
-          },
-          {
-            "id": "8d50918762bca0e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/02/20 de fev.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20 de fev"
+              "title": "19 de mar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "c37c7040f36960f1",
+        "id": "6f14aecf559f4df0",
         "type": "tabs",
         "children": [
           {
@@ -140,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -150,16 +129,6 @@
         "id": "5caf6c92dd624a50",
         "type": "tabs",
         "children": [
-          {
-            "id": "155929a011882c0a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "080f873b6b5f13e8",
             "type": "leaf",
@@ -171,12 +140,12 @@
             }
           },
           {
-            "id": "87c74fde82584dc7",
+            "id": "5895b550f58216fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,25 +155,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 de dez"
+              "title": "Backlinks for Dashboard de Tickets"
             }
           },
           {
-            "id": "7036a91f401a2d22",
+            "id": "cd098908e8053ff6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 de dez"
+              "title": "Outgoing links from Dashboard de Tickets"
             }
           },
           {
-            "id": "ff19de66dd06a945",
+            "id": "ee183e0b2c5cc0ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -217,33 +186,34 @@
             }
           },
           {
-            "id": "7e14212bd7f7de14",
+            "id": "d8d9a34c80a5183c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/18 de dez.md"
+                "file": "Tickets/466065 - Concreserv - Novo cliente.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 de dez"
+              "title": "Outline of 466065 - Concreserv - Novo cliente"
             }
           },
           {
-            "id": "74b7b31ca09c9ae5",
+            "id": "348b295337a8bfcd",
             "type": "leaf",
             "state": {
-              "type": "planner-timeline",
+              "type": "calendar",
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,55 +227,58 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eae75e9878f072cf",
+  "active": "4721fd4fc08da714",
   "lastOpenFiles": [
-    "Buscaaii/Reuniões/Alinhamento com Fábio - 20 de fev.md",
-    "Agenda/2025/02/20 de fev.md",
-    "RPG/Tables/Aventuras.md",
-    "RPG/Tables",
-    "Topcon/Tickets/Traço Inativo disponível para carregamento.md",
-    "Topcon/Tickets/Programação aguardando analise de limite de crédito.md",
-    "Topcon/Tickets/Novo ticket.md",
-    "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 2.png",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Topcon/Dashboard de Tickets.md",
+    "Agenda/2025/03/19 de mar.md",
+    "Templates/Topcon/Code review.md",
+    "RPG/Soleia - World/NPCs/Teste.md",
+    "Templates/RPG/Cidade.md",
+    "Templates/Topcon",
+    "Templates/RPG/Taverna.md",
+    "Templates/RPG/Oneshot.md",
+    "Templates/RPG/NPC.md",
+    "Templates/RPG/Floresta.md",
+    "Templates/RPG/Facção.md",
+    "Templates/RPG/Deus.md",
+    "Templates/RPG/Vila.md",
+    "Templates/RPG",
+    "Templates/Topcon/Ticket.md",
+    "Templates/Topcon/Daily.md",
+    "Templates/RPG/Aventura.md",
+    "RPG/Attachments/Caelum Thornfield.png",
+    "Topcon/Tarefas/TDP 1668 - Selecionar a frente de obra na inclusão da programação.md",
+    "Topcon/Tickets/Validar volume maximo do veiculo ao expedir.md",
+    "Agenda/2025/03/18 de mar.md",
+    "Agenda/2025/03/17 de mar.md",
+    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
+    "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
+    "Topcon/Tarefas/TCF 227 - Alertas no Painel de acompanhamento de bomba.md",
+    "Topcon/Tickets/Remessas canceladas na SEFAZ sem cancelamento para Faturamento.md",
+    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
+    "Topcon/Tickets/Reaproveitamento gerado no DISPATCH não gerou na con_reaprov.md",
+    "Agenda/2025/03",
+    "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250226143657.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250224140537.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250224140534.png",
     "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
+    "Anexos/Procedimento Básico para Hexcrawl.pdf",
+    "Topcon/Tickets/Anexos/Pasted image 20250218155540.png",
     "Topcon/Tickets/Anexos",
-    "RPG/Templates/Vila.md",
-    "RPG/Templates/Taverna.md",
-    "RPG/Templates/NPC.md",
-    "RPG/Templates/Oneshot.md",
-    "RPG/Templates/Floresta.md",
-    "RPG/Templates/Facção.md",
-    "RPG/Templates/Cidade.md",
-    "RPG/Templates/Deus.md",
-    "RPG/Templates/Aventura.md",
-    "RPG/Templates",
-    "RPG/Soleia - World/Locais/Vilas/Valandra.md",
-    "RPG/Soleia - World/Locais/Vilas/Éldara.md",
-    "RPG/Soleia - World/Locais/Vilas/Raizalma.md",
-    "RPG/Soleia - World/Locais/Tavernas/Lua Crescente.md",
-    "RPG/Soleia - World/Locais/Tavernas/Garfo quebrado.md",
-    "RPG/Soleia - World/Locais/Rios/Rio Valmor.md",
-    "RPG/Soleia - World/Locais/Outros/Ilha das sombras.md",
-    "RPG/Soleia - World/Locais/Florestas/Floresta de Éldara.md",
-    "RPG/Soleia - World/Locais/Cidades/Raventor.md",
-    "RPG/Soleia - World/Locais/Cidades/Raioguarda.md",
-    "RPG/Soleia - World/Locais/Vilas",
-    "RPG/Soleia - World/Locais/Tavernas",
-    "RPG/Soleia - World/Locais/Rios",
-    "RPG/Soleia - World/Locais/Outros",
-    "RPG/Soleia - World/Locais/Florestas",
-    "RPG/Soleia - World/Locais/Cidades",
-    "RPG/Soleia - World/Regras",
-    "RPG/Attachments/valandra.png",
-    "RPG/Attachments/pena_dourada (1).png",
-    "RPG/Attachments/lysander.png",
-    "RPG/Attachments/Yara Feldspar.png",
-    "RPG/Attachments/Soleia atualizado.png",
-    "RPG/Attachments/Rota Lysander-Raventor.png",
-    "RPG/Attachments/Moeda de ebano.png"
+    "Anexos/Pasted image 20250115180513.png",
+    "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
+    "Estudo",
+    "RPG",
+    "Livros",
+    "Topcon/Tickets"
   ]
 }
