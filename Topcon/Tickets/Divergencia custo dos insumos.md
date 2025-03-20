@@ -105,3 +105,56 @@ select filial, serie, num_nf, material_m3, material_total, qtde_m3_bt from con_n
 
 select filial, ser, num_nf, SUM(preco_un), SUM(preco_un * qt) from con_item_nf where num_nf = 2428 and filial=1911 and ser=3 group by num_nf, filial, ser;
 ```
+7. Será feito uma atualização dos valores das remessas no dispatch e no legado.
+   
+DISPATCH
+   ```sql
+WITH aggregated_values AS (
+		SELECT
+		rdt.id_delivery_ticket,
+		SUM(
+			CASE
+			WHEN rdts.quantity_real_total IS NOT NULL AND rdts.quantity_real_total > 0
+			THEN rdts.real_total_cost
+			ELSE rdts.theoretical_total_cost
+			END
+		) / MAX(rd.volume) AS total_cost
+	FROM reg_delivery_tickets rdt
+	INNER JOIN reg_delivery_ticket_supplies rdts
+	ON rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
+	INNER JOIN reg_deliveries rd
+	ON rd.id_delivery = rdt.id_delivery_fk
+	GROUP BY rdt.id_delivery_ticket
+)
+UPDATE reg_delivery_ticket_concretes rdtc
+SET material_price_per_volume = av.total_cost
+FROM aggregated_values av
+WHERE rdtc.id_delivery_ticket_fk = av.id_delivery_ticket;
+SELECT rdt.code , SUM(rdts.theoretical_total_cost) AS soma_teorica_calculada, SUM(rdts.real_total_cost) AS soma_real_calculada, MAX(rdtc.material_price_per_volume) AS preco_por_volume, MAX(rd.volume) AS volume,MAX(rdtc.material_price_per_volume)*MAX(rd.volume) AS valor_total_atual FROM reg_delivery_tickets rdt
+INNER JOIN reg_delivery_ticket_supplies rdts ON rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
+INNER JOIN reg_delivery_ticket_concretes rdtc ON rdtc.id_delivery_ticket_fk = rdt.id_delivery_ticket
+INNER JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
+GROUP BY rdt.code;
+```
+
+LEGADO
+```sql
+SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / SUM(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume, MAX(cn.material_m3) as valor_un_atual, MAX(cn.material_total) as valor_total_atual FROM con_nf cn
+INNER JOIN con_item_nf cin ON cn.filial = cin.filial
+	AND cn.serie = cin.ser
+    AND cn.num_nf = cin.num_nf
+GROUP BY cin.filial, cin.ser, cin.num_nf;
+
+UPDATE con_nf cn
+JOIN (
+	SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / SUM(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume FROM con_nf cn
+	INNER JOIN con_item_nf cin ON cn.filial = cin.filial
+	AND cn.serie = cin.ser
+    AND cn.num_nf = cin.num_nf
+	GROUP BY cin.filial, cin.ser, cin.num_nf
+) av ON cn.filial = av.filial
+	AND cn.serie = av.ser
+    AND cn.num_nf = av.num_nf
+SET material_m3 = av.total_un_items,
+material_total = av.total_items;
+```
