@@ -1,4 +1,4 @@
-- Criar uam espécie/criatura mística que pode domesticada e tem diferenças por sexo, como as serpentes voadoras no [[Trono de Vidro 3 - Herdeira do Fogo]], onde o reprodutor é bem violento
+- Criar uma espécie/criatura mística que pode domesticada e tem diferenças por sexo, como as serpentes voadoras no [[Trono de Vidro 3 - Herdeira do Fogo]], onde o reprodutor é bem violento
 - Criar bruxas como família, que possuem a mãe como líder. Semelhante ao [[Trono de Vidro 3 - Herdeira do Fogo]]
 - Criar objetos de poder
 - Criar rei das flores. Ideia veio do Thiago falando que somos filhos do king (rei) e da rose
