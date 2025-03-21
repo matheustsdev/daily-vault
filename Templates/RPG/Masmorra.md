@@ -29,3 +29,10 @@ await tp.file.rename(title);
 
 > [!INFO] *Um acontecimento dramático e uma escolha crítica para inspirar seus próprios contos de ação e aventura*
 
+
+
+# Mistérios e Rumores  
+
+> [!INFO] Segredos que podem dar novos rumos às aventuras.
+
+

@@ -24,17 +24,33 @@
             }
           },
           {
-            "id": "b5c4fd85dfb06ef3",
+            "id": "a7d489c3ce9b0b9d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Jardim Secreto de Aeglíria"
+            }
+          },
+          {
+            "id": "e7d0691e0884eddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Notas sem chave.md",
+                "file": "Templates/RPG/Masmorra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas sem chave"
+              "title": "Masmorra"
             }
           }
         ],
@@ -52,39 +68,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4721fd4fc08da714",
+            "id": "b5c4fd85dfb06ef3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/19 de mar.md",
+                "file": "Agenda/2025/03/21 de mar.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "19 de mar"
-            }
-          },
-          {
-            "id": "b418e7bf17691f08",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/03/20 de mar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "20 de mar"
+              "title": "21 de mar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6f14aecf559f4df0",
@@ -242,37 +241,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b418e7bf17691f08",
+  "active": "080f873b6b5f13e8",
   "lastOpenFiles": [
-    "Topcon/Tickets/Notas sem chave.md",
+    "Templates/RPG/Masmorra.md",
+    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
+    "RPG/Soleia - World/Locais/Aeglíria.md",
+    "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
+    "Topcon/Dashboard de Tickets.md",
+    "RPG/Soleia - World/Items/Flor Perene.md",
+    "Templates/RPG/Item.md",
+    "RPG/Soleia - World/Items/Materiais",
+    "Templates/RPG/Floresta.md",
+    "Agenda/2025/03/21 de mar.md",
+    "RPG/Soleia - World/Items",
+    "Agenda/2025/02/10 de fev.md",
+    "Agenda/2025/02/11 de fev.md",
+    "Agenda/2025/02/12 de fev.md",
+    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
+    "Topcon/Tickets/Remessa 2724 - TOPCON.md",
+    "Agenda/2025/02/13 de fev.md",
+    "Agenda/2025/02/09 de fev.md",
+    "Agenda/2025/02/08 de fev.md",
+    "Agenda/2025/02/07 de fev.md",
+    "Agenda/2025/02/06 de fev.md",
+    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
+    "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
     "Agenda/2025/03/20 de mar.md",
+    "Topcon/Tickets/Notas sem chave.md",
     "Agenda/2025/03/19 de mar.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
-    "RPG/Soleia - World/Locais/Aeglíria.md",
-    "Topcon/Dashboard de Tickets.md",
     "RPG/Soleia - World/Locais/Aurélia.md",
-    "RPG/Soleia - World/Brainstorm.md",
-    "Templates/RPG/Masmorra.md",
-    "Templates/RPG/Floresta.md",
-    "Templates/RPG/Cidade.md",
-    "Topcon/Tickets/Não conclui programação NewDispatch - Concreserv.md",
-    "Início.md",
-    "Não con.md",
-    "Templates/Topcon/Code review.md",
-    "RPG/Soleia - World/NPCs/Teste.md",
     "Templates/Topcon",
-    "Templates/RPG/Taverna.md",
-    "Templates/RPG/Oneshot.md",
-    "Templates/RPG/NPC.md",
-    "Templates/RPG/Facção.md",
-    "Templates/RPG/Deus.md",
-    "Templates/RPG/Vila.md",
     "Templates/RPG",
-    "Templates/Topcon/Ticket.md",
-    "Templates/Daily.md",
-    "Templates/RPG/Aventura.md",
     "RPG/Attachments/Caelum Thornfield.png",
-    "Topcon/Tarefas/TDP 1668 - Selecionar a frente de obra na inclusão da programação.md",
     "Agenda/2025/03",
     "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
     "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
@@ -287,8 +288,6 @@
     "Anexos/Pasted image 20250115180513.png",
     "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
     "Estudo",
-    "RPG",
-    "Livros",
-    "Topcon/Tickets"
+    "RPG"
   ]
 }

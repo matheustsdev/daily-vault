@@ -23,4 +23,4 @@ Data de fim:
 	-> Apagar os dados que vieram do Dispatch para o legado (con_nf, etc).  
 	-> Forçar integração do Legado > Dispatch  
 	-> Forçar integração do Dispatch > Legado
-
+3. Problema na Integração que valida DeliveryTaxDocument impossibilita que seja possível 

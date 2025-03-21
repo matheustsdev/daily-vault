@@ -5,5 +5,6 @@
   "things-style@@h2-color": "#DCDDDE",
   "things-style@@h3-color": "#DCDDDE",
   "things-style@@h4-color": "#DCDDDE",
-  "things-style@@h5-color": "#DCDDDE"
+  "things-style@@h5-color": "#DCDDDE",
+  "things-style@@h2-underline": false
 }
