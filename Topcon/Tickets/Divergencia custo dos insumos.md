@@ -139,7 +139,7 @@ GROUP BY rdt.code;
 
 LEGADO
 ```sql
-SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / SUM(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume, MAX(cn.material_m3) as valor_un_atual, MAX(cn.material_total) as valor_total_atual FROM con_nf cn
+SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / MAX(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume, MAX(cn.material_m3) as valor_un_atual, MAX(cn.material_total) as valor_total_atual FROM con_nf cn
 INNER JOIN con_item_nf cin ON cn.filial = cin.filial
 	AND cn.serie = cin.ser
     AND cn.num_nf = cin.num_nf
