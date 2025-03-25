@@ -10,6 +10,7 @@ Data de fim:
 	![[Pasted image 20250226143657.png]]
 	Dessa forma, como não o CostValue não era nulo, já usava ele direto.
 2. Outros campos que usavam o CostValue no cálculo também estavam errados
+3. Foi observado que o cálculo dos valores teóricos do DeliveryTicketSupply não estão coerentes
 
 # Soluções
 1. Adição de parenteses em cada membro da divisão
@@ -130,7 +131,10 @@ UPDATE reg_delivery_ticket_concretes rdtc
 SET material_price_per_volume = av.total_cost
 FROM aggregated_values av
 WHERE rdtc.id_delivery_ticket_fk = av.id_delivery_ticket;
-SELECT rdt.code , SUM(rdts.theoretical_total_cost) AS soma_teorica_calculada, SUM(rdts.real_total_cost) AS soma_real_calculada, MAX(rdtc.material_price_per_volume) AS preco_por_volume, MAX(rd.volume) AS volume,MAX(rdtc.material_price_per_volume)*MAX(rd.volume) AS valor_total_atual FROM reg_delivery_tickets rdt
+
+SELECT 
+	rdt.code, SUM(rdts.theoretical_total_cost) AS soma_teorica_calculada, SUM(rdts.real_total_cost) AS soma_real_calculada, MAX(rdtc.material_price_per_volume) AS preco_por_volume, MAX(rd.volume) AS volume,MAX(rdtc.material_price_per_volume)*MAX(rd.volume) AS valor_total_atual 
+FROM reg_delivery_tickets rdt
 INNER JOIN reg_delivery_ticket_supplies rdts ON rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
 INNER JOIN reg_delivery_ticket_concretes rdtc ON rdtc.id_delivery_ticket_fk = rdt.id_delivery_ticket
 INNER JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
@@ -139,22 +143,83 @@ GROUP BY rdt.code;
 
 LEGADO
 ```sql
-SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / MAX(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume, MAX(cn.material_m3) as valor_un_atual, MAX(cn.material_total) as valor_total_atual FROM con_nf cn
+SELECT 
+	cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / MAX(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume, MAX(cn.material_m3) as valor_un_atual, MAX(cn.material_total) as valor_total_atual FROM con_nf cn
 INNER JOIN con_item_nf cin ON cn.filial = cin.filial
 	AND cn.serie = cin.ser
     AND cn.num_nf = cin.num_nf
 GROUP BY cin.filial, cin.ser, cin.num_nf;
 
 UPDATE con_nf cn
-JOIN (
-	SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / SUM(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume FROM con_nf cn
-	INNER JOIN con_item_nf cin ON cn.filial = cin.filial
-	AND cn.serie = cin.ser
-    AND cn.num_nf = cin.num_nf
-	GROUP BY cin.filial, cin.ser, cin.num_nf
-) av ON cn.filial = av.filial
-	AND cn.serie = av.ser
-    AND cn.num_nf = av.num_nf
+	JOIN (
+		SELECT cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / SUM(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume FROM con_nf cn
+		INNER JOIN con_item_nf cin ON cn.filial = cin.filial
+		AND cn.serie = cin.ser
+	    AND cn.num_nf = cin.num_nf
+		GROUP BY cin.filial, cin.ser, cin.num_nf
+	) av ON cn.filial = av.filial
+		AND cn.serie = av.ser
+	    AND cn.num_nf = av.num_nf
 SET material_m3 = av.total_un_items,
 material_total = av.total_items;
 ```
+9. Foi feito uma correção no código para ajustar o cálculo do valor teórico da DeliveryTicketSupply. Além disso é necessário executar um script para a correção das notas anteriores;
+   
+   Correção dos LoadTicketItems antigos com volume divergente
+	```sql
+		WITH sub_query AS (
+			SELECT rlt.id_load_ticket FROM reg_load_tickets rlt
+			INNER JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+			INNER JOIN rel_loads_tickets_deliveries rltd ON rltd.id_load_ticket_fk = rlt.id_load_ticket
+			INNER JOIN reg_deliveries rd ON rd.id_delivery = rltd.id_delivery_fk
+			WHERE rlt.reused_volume IS NOT NULL AND rlt.reused_volume > 0 AND rlt.reused_volume + rlt.volume <> rd.volume
+			GROUP BY rlt.id_load_ticket
+		)
+		UPDATE reg_load_tickets rlt
+		SET volume = rlt.volume - rlt.reused_volume
+		FROM sub_query sub
+		WHERE sub.id_load_ticket = rlt.id_load_ticket;	
+		```
+
+	Correção dos teóricos na DeliveryTicketSupply
+```sql
+	WITH sub_query AS (
+		SELECT
+			rdt.id_delivery_ticket, -- Usado para fazer a junção com rdts
+			rlti.id_supply_fk,
+			rlt.volume AS load_ticket_volume,
+			rlt.reused_volume,
+			rd.volume AS delivery_volume,
+			-- quantity_theoretical_dry_per_m3
+			CASE
+				WHEN rlt.volume = 0 THEN 0
+				ELSE ROUND(rlti.quantity_theoretical_dry_total / rlt.volume, 2)
+			END AS quantity_theoretical_dry_per_m3,
+			-- quantity_theoretical_dry_total
+			CASE
+				WHEN rlt.volume = 0 THEN 0
+				ELSE ROUND((rlti.quantity_theoretical_dry_total / rlt.volume) * rd.volume, 2)
+			END AS load_ticket_total,
+			-- reuse_total
+			CASE
+				WHEN rlt.volume = 0 THEN 0
+				ELSE ROUND(((rlt.reused_volume * rlti.quantity_theoretical_dry_total) / rlt.volume) * rd.volume, 2)
+			END AS reuse_total,
+			rd.id_delivery -- Adiciona um identificador para o JOIN depois
+		FROM reg_delivery_tax_documents rdtd
+		LEFT JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk
+		LEFT JOIN reg_delivery_tickets rdt ON rdt.id_delivery_ticket = rdtd.id_delivery_ticket_fk
+		LEFT JOIN reg_load_tickets rlt ON rlt.id_load_ticket = rdt.id_load_ticket_fk
+		LEFT JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+		LEFT JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
+	)
+	UPDATE reg_delivery_ticket_supplies rdts
+	SET
+		quantity_theoretical_dry_total = sub.load_ticket_total,
+		quantity_theoretical_dry_per_volume = sub.quantity_theoretical_dry_per_m3
+	FROM sub_query sub
+	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket AND rdts.id_supply_fk = sub.id_supply_fk;
+	```
+# Processos
+- Soft delete na nota 849 filial 1911
+	- UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_document = '3c1a9770-e785-4133-89cb-66a049be403e';

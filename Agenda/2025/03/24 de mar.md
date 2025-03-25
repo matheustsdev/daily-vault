@@ -1,3 +1,3 @@
 - [x] Ticket [[Remessa 2724 - TOPCON]]
-- [ ] 
-Nao adicionar adicional e ja tiver faturado
+- [x] Ajuste na pagina de analisar solicitações
+- [>] Rodar script de custo de insumo
