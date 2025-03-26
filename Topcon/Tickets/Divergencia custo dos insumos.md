@@ -51,36 +51,34 @@ AND lt.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
 
 	Update:
 	```sql
-	UPDATE reg_delivery_ticket_supplies rdts
-SET
-unit_cost_value = ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3),
-theoretical_total_cost = ROUND(COALESCE((((rlti.quantity_theoretical_dry_total / lt.volume) * rd.volume) + (((rlti.quantity_theoretical_dry_total / lt.volume) * COALESCE(lt.reused_volume, 0)) / lt.volume)) * (crfvsc.cost_value / crfvsc.mass), 0), 2),
-real_total_cost = ROUND(COALESCE(((rlti.quantity_real_total / lt.volume) * rd.volume) * (crfvsc.cost_value / crfvsc.mass), 0), 2)
+UPDATE reg_delivery_ticket_supplies rdts SET
+	unit_cost_value = ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3),
+	theoretical_total_cost = CASE
+	WHEN lt.volume = 0 THEN 0
+	ELSE ROUND(COALESCE((((rlti.quantity_theoretical_dry_total / lt.volume) * rd.volume) + (((rlti.quantity_theoretical_dry_total / lt.volume) * COALESCE(lt.reused_volume, 0)) / lt.volume)) * (crfvsc.cost_value / crfvsc.mass), 0), 2)
+	END,
+	real_total_cost = ROUND(COALESCE(rlti.quantity_real_total * (crfvsc.cost_value / crfvsc.mass), 0), 2)
 FROM reg_load_tickets lt
-LEFT JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = lt.id_load_ticket
-LEFT JOIN rel_loads_tickets_deliveries rltd
-ON rltd.id_load_ticket_fk = lt.id_load_ticket
-AND rltd.id_load_ticket_delivery = (
-SELECT sub_rltd.id_load_ticket_delivery
-FROM rel_loads_tickets_deliveries sub_rltd
-WHERE sub_rltd.id_load_ticket_fk = lt.id_load_ticket
-LIMIT 1
-)
-LEFT JOIN reg_deliveries rd ON rd.id_delivery = rltd.id_delivery_fk
-LEFT JOIN reg_load_ticket_items rlti
-ON rlti.id_load_ticket_fk = lt.id_load_ticket
-LEFT JOIN rel_concrete_recipe_family_version_supplies crfvs
-ON crfvs.id_concrete_recipe_family_version_fk = lt.id_concrete_recipe_family_version_fk
-AND crfvs.id_supply_fk = rlti.id_supply_fk
-LEFT JOIN rel_concrete_recipe_family_version_supply_characteristics crfvsc
-ON crfvsc.id_concrete_recipe_family_version_supply_fk = crfvs.id_concrete_recipe_family_version_supply
-AND crfvsc.id_concrete_recipe_family_version_supply_characteristic = (
-SELECT sub_crfvsc.id_concrete_recipe_family_version_supply_characteristic
-FROM rel_concrete_recipe_family_version_supply_characteristics sub_crfvsc
-WHERE sub_crfvsc.id_concrete_recipe_family_version_supply_fk = crfvs.id_concrete_recipe_family_version_supply
-ORDER BY sub_crfvsc.deleted_at DESC
-LIMIT 1
-)
+	LEFT JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = lt.id_load_ticket
+	LEFT JOIN rel_loads_tickets_deliveries rltd ON rltd.id_load_ticket_fk = lt.id_load_ticket
+	AND rltd.id_load_ticket_delivery = (
+		SELECT sub_rltd.id_load_ticket_delivery
+		FROM rel_loads_tickets_deliveries sub_rltd
+		WHERE sub_rltd.id_load_ticket_fk = lt.id_load_ticket
+		LIMIT 1
+	)
+	LEFT JOIN reg_deliveries rd ON rd.id_delivery = rltd.id_delivery_fk
+	LEFT JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = lt.id_load_ticket
+	LEFT JOIN rel_concrete_recipe_family_version_supplies crfvs ON crfvs.id_concrete_recipe_family_version_fk = lt.id_concrete_recipe_family_version_fk
+	AND crfvs.id_supply_fk = rlti.id_supply_fk
+	LEFT JOIN rel_concrete_recipe_family_version_supply_characteristics crfvsc ON crfvsc.id_concrete_recipe_family_version_supply_fk = crfvs.id_concrete_recipe_family_version_supply
+	AND crfvsc.id_concrete_recipe_family_version_supply_characteristic = (
+		SELECT sub_crfvsc.id_concrete_recipe_family_version_supply_characteristic
+		FROM rel_concrete_recipe_family_version_supply_characteristics sub_crfvsc
+		WHERE sub_crfvsc.id_concrete_recipe_family_version_supply_fk = crfvs.id_concrete_recipe_family_version_supply
+		ORDER BY sub_crfvsc.deleted_at DESC
+		LIMIT 1
+	)
 WHERE rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
 AND rdts.id_supply_fk = rlti.id_supply_fk
 AND rdts.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
@@ -88,7 +86,7 @@ AND rdts.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
 3. Foi forçado a integração de todas as notas porém não foi corrigido já que o problema é no DISPATCH e não na integração
 	Após testar em QA muitos problemas foram resolvidos e outros não. Depois de um bom tempo de análise Geovane e eu chegamos a conclusão que provavelmente é devido ao banco de QA do legado não estar sincronizado com o DISPATCH. 
 3. Foi forçado integração em HML a fim de teste
-4. No ticket Luiz solicitou que enviasse o registro das remessas não canceladas com notas canceladas
+4. No ticket Luiz solicitou que enviasse o registro das remessas não canceladas com notas canceladas (**NÃO SERÁ EXECUTADO**)
 	```sql
 	SELECT rcbp.name AS central, rdtd.document_number AS numero_da_nota, rdt.code AS numero_da_remessa, rdtc.status AS status_da_remessa, rd.status AS status_da_entrega, rdt.already_billed AS ja_faturado FROM reg_delivery_tickets rdt
 	INNER JOIN reg_delivery_tax_documents rdtd ON rdtd.id_delivery_ticket_fk = rdt.id_delivery_ticket
@@ -109,16 +107,16 @@ select filial, ser, num_nf, SUM(preco_un), SUM(preco_un * qt) from con_item_nf w
 7. Será feito uma atualização dos valores das remessas no dispatch e no legado.
    
 DISPATCH
-   ```sql
+```sql
 WITH aggregated_values AS (
-		SELECT
+	SELECT
 		rdt.id_delivery_ticket,
 		SUM(
-			CASE
-			WHEN rdts.quantity_real_total IS NOT NULL AND rdts.quantity_real_total > 0
-			THEN rdts.real_total_cost
-			ELSE rdts.theoretical_total_cost
-			END
+		CASE
+		WHEN rdts.quantity_real_total IS NOT NULL AND rdts.quantity_real_total > 0
+		THEN rdts.real_total_cost
+		ELSE rdts.theoretical_total_cost
+		END
 		) / MAX(rd.volume) AS total_cost
 	FROM reg_delivery_tickets rdt
 	INNER JOIN reg_delivery_ticket_supplies rdts
@@ -131,17 +129,9 @@ UPDATE reg_delivery_ticket_concretes rdtc
 SET material_price_per_volume = av.total_cost
 FROM aggregated_values av
 WHERE rdtc.id_delivery_ticket_fk = av.id_delivery_ticket;
-
-SELECT 
-	rdt.code, SUM(rdts.theoretical_total_cost) AS soma_teorica_calculada, SUM(rdts.real_total_cost) AS soma_real_calculada, MAX(rdtc.material_price_per_volume) AS preco_por_volume, MAX(rd.volume) AS volume,MAX(rdtc.material_price_per_volume)*MAX(rd.volume) AS valor_total_atual 
-FROM reg_delivery_tickets rdt
-INNER JOIN reg_delivery_ticket_supplies rdts ON rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
-INNER JOIN reg_delivery_ticket_concretes rdtc ON rdtc.id_delivery_ticket_fk = rdt.id_delivery_ticket
-INNER JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
-GROUP BY rdt.code;
 ```
 
-LEGADO
+LEGADO (**NÃO SERÁ NECESSÁRIO EXECUTAR**)
 ```sql
 SELECT 
 	cin.filial, cin.ser, cin.num_nf, SUM(cin.vl_tot) / MAX(cn.qtde_m3_bt) as total_un_items, SUM(cin.vl_tot) as total_items, MAX(cn.qtde_m3_bt) as volume, MAX(cn.material_m3) as valor_un_atual, MAX(cn.material_total) as valor_total_atual FROM con_nf cn
@@ -183,13 +173,80 @@ material_total = av.total_items;
 
 	Correção dos teóricos na DeliveryTicketSupply
 ```sql
-	WITH sub_query AS (
+WITH sub_query AS (
+	SELECT
+		rdt.id_delivery_ticket, -- Usado para fazer a junção com rdts
+		rlti.id_supply_fk,
+		rlt.volume AS load_ticket_volume,
+		rlt.reused_volume,
+		rd.volume AS delivery_volume,
+		rlti.quantity_real_total,
+		-- quantity_theoretical_dry_per_m3
+		CASE
+			WHEN rlt.volume = 0 THEN 0
+			ELSE ROUND(rlti.quantity_theoretical_dry_total / rlt.volume, 2)
+		END AS quantity_theoretical_dry_per_m3,
+		-- quantity_theoretical_dry_total
+		CASE
+			WHEN rlt.volume = 0 THEN 0
+			ELSE ROUND((rlti.quantity_theoretical_dry_total / rlt.volume) * rd.volume, 2)
+		END AS load_ticket_total,
+		-- reuse_total
+		CASE
+			WHEN rlt.volume = 0 THEN 0
+			ELSE ROUND(((rlt.reused_volume * rlti.quantity_theoretical_dry_total) / rlt.volume) * rd.volume, 2)
+		END AS reuse_total,
+		rd.id_delivery -- Adiciona um identificador para o JOIN depois
+	FROM reg_delivery_tax_documents rdtd
+		LEFT JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk
+		LEFT JOIN reg_delivery_tickets rdt ON rdt.id_delivery_ticket = rdtd.id_delivery_ticket_fk
+		LEFT JOIN reg_load_tickets rlt ON rlt.id_load_ticket = rdt.id_load_ticket_fk
+		LEFT JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+		LEFT JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
+)
+UPDATE reg_delivery_ticket_supplies rdts
+SET
+	quantity_theoretical_dry_total = sub.load_ticket_total,
+	quantity_theoretical_dry_per_volume = sub.quantity_theoretical_dry_per_m3,
+	quantity_real_total = sub.quantity_real_total
+FROM sub_query sub
+WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket AND rdts.id_supply_fk = sub.id_supply_fk;
+```
+
+10. Será corrigido também o cálculo do valor real e o volume do load ticket ao existir redirecionamento.
+
+# Processos
+- Soft delete na nota 849 filial 1911
+
+```sql
+UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_document = '3c1a9770-e785-4133-89cb-66a049be403e';
+```
+## Scripts para executar em ordem
+```sql
+--- UPDATE LOAD TICKET VOLUME OF LOAD TICKETS WITH REUSES
+		WITH sub_query AS (
+			SELECT rlt.id_load_ticket FROM reg_load_tickets rlt
+			INNER JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+			INNER JOIN rel_loads_tickets_deliveries rltd ON rltd.id_load_ticket_fk = rlt.id_load_ticket
+			INNER JOIN reg_deliveries rd ON rd.id_delivery = rltd.id_delivery_fk
+			WHERE rlt.reused_volume IS NOT NULL AND rlt.reused_volume > 0 AND rlt.reused_volume + rlt.volume <> rd.volume
+			GROUP BY rlt.id_load_ticket
+		)
+		UPDATE reg_load_tickets rlt
+		SET volume = rlt.volume - rlt.reused_volume
+		FROM sub_query sub
+		WHERE sub.id_load_ticket = rlt.id_load_ticket;
+
+
+--- UPDATE DELIVERY TICKET SUPPLIES THEORETICAL AND REAL QUANTITY
+		WITH sub_query AS (
 		SELECT
 			rdt.id_delivery_ticket, -- Usado para fazer a junção com rdts
 			rlti.id_supply_fk,
 			rlt.volume AS load_ticket_volume,
 			rlt.reused_volume,
 			rd.volume AS delivery_volume,
+			rlti.quantity_real_total,
 			-- quantity_theoretical_dry_per_m3
 			CASE
 				WHEN rlt.volume = 0 THEN 0
@@ -216,10 +273,67 @@ material_total = av.total_items;
 	UPDATE reg_delivery_ticket_supplies rdts
 	SET
 		quantity_theoretical_dry_total = sub.load_ticket_total,
-		quantity_theoretical_dry_per_volume = sub.quantity_theoretical_dry_per_m3
+		quantity_theoretical_dry_per_volume = sub.quantity_theoretical_dry_per_m3,
+		quantity_real_total = sub.quantity_real_total
 	FROM sub_query sub
 	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket AND rdts.id_supply_fk = sub.id_supply_fk;
-	```
-# Processos
-- Soft delete na nota 849 filial 1911
-	- UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_document = '3c1a9770-e785-4133-89cb-66a049be403e';
+
+
+--- UPDATE DELIVERY TICKET SUPPLIES VALUES
+	UPDATE reg_delivery_ticket_supplies rdts SET
+		unit_cost_value = ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3),
+		theoretical_total_cost = CASE
+			WHEN lt.volume = 0 THEN 0
+			ELSE ROUND(COALESCE((((rlti.quantity_theoretical_dry_total / lt.volume) * rd.volume) + (((rlti.quantity_theoretical_dry_total / lt.volume) * COALESCE(lt.reused_volume, 0)) / lt.volume)) * (crfvsc.cost_value / crfvsc.mass), 0), 2)
+		END,
+		real_total_cost = ROUND(COALESCE(rlti.quantity_real_total * (crfvsc.cost_value / crfvsc.mass), 0), 2)
+	FROM reg_load_tickets lt
+	LEFT JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = lt.id_load_ticket
+	LEFT JOIN rel_loads_tickets_deliveries rltd ON rltd.id_load_ticket_fk = lt.id_load_ticket
+	AND rltd.id_load_ticket_delivery = (
+		SELECT sub_rltd.id_load_ticket_delivery
+		FROM rel_loads_tickets_deliveries sub_rltd
+		WHERE sub_rltd.id_load_ticket_fk = lt.id_load_ticket
+		LIMIT 1
+	)
+	LEFT JOIN reg_deliveries rd ON rd.id_delivery = rltd.id_delivery_fk
+	LEFT JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = lt.id_load_ticket
+	LEFT JOIN rel_concrete_recipe_family_version_supplies crfvs ON crfvs.id_concrete_recipe_family_version_fk = lt.id_concrete_recipe_family_version_fk
+	AND crfvs.id_supply_fk = rlti.id_supply_fk
+	LEFT JOIN rel_concrete_recipe_family_version_supply_characteristics crfvsc ON crfvsc.id_concrete_recipe_family_version_supply_fk = crfvs.id_concrete_recipe_family_version_supply
+	AND crfvsc.id_concrete_recipe_family_version_supply_characteristic = (
+		SELECT sub_crfvsc.id_concrete_recipe_family_version_supply_characteristic
+		FROM rel_concrete_recipe_family_version_supply_characteristics sub_crfvsc
+		WHERE sub_crfvsc.id_concrete_recipe_family_version_supply_fk = crfvs.id_concrete_recipe_family_version_supply
+		ORDER BY sub_crfvsc.deleted_at DESC
+		LIMIT 1
+	)
+	WHERE rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
+	AND rdts.id_supply_fk = rlti.id_supply_fk
+	AND rdts.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
+
+
+--- UPDATE DELIVERY TICKET CONCRETE VALUES
+	WITH aggregated_values AS (
+			SELECT
+			rdt.id_delivery_ticket,
+			SUM(
+				CASE
+				WHEN rdts.quantity_real_total IS NOT NULL AND rdts.quantity_real_total > 0
+				THEN rdts.real_total_cost
+				ELSE rdts.theoretical_total_cost
+				END
+			) / MAX(rd.volume) AS total_cost
+		FROM reg_delivery_tickets rdt
+		INNER JOIN reg_delivery_ticket_supplies rdts
+		ON rdts.id_delivery_ticket_fk = rdt.id_delivery_ticket
+		INNER JOIN reg_deliveries rd
+		ON rd.id_delivery = rdt.id_delivery_fk
+		GROUP BY rdt.id_delivery_ticket
+	)
+	UPDATE reg_delivery_ticket_concretes rdtc
+	SET material_price_per_volume = av.total_cost
+	FROM aggregated_values av
+	WHERE rdtc.id_delivery_ticket_fk = av.id_delivery_ticket;
+
+```

@@ -54,22 +54,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbe0cc5013dd62e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/03/24 de mar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "24 de mar"
-            }
-          },
-          {
             "id": "2e4587863a8e3dcc",
             "type": "leaf",
             "pinned": true,
@@ -83,6 +67,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "25 de mar"
+            }
+          },
+          {
+            "id": "b720f5848c6d0821",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/03/26 de mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "26 de mar"
             }
           }
         ],
@@ -244,12 +244,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "080f873b6b5f13e8",
+  "active": "b720f5848c6d0821",
   "lastOpenFiles": [
-    "Agenda/2025/03/25 de mar.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
-    "Agenda/2025/03/24 de mar.md",
+    "Agenda/2025/03/26 de mar.md",
+    "Agenda/2025/03/25 de mar.md",
     "Topcon/Dashboard de Tickets.md",
+    "Agenda/2025/03/24 de mar.md",
     "Topcon/Tickets/Remessa 2724 - TOPCON.md",
     "Topcon/Tickets/Notas sem chave.md",
     "Agenda/2025/03/21 de mar.md",
@@ -273,7 +274,6 @@
     "Agenda/2025/02/06 de fev.md",
     "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
     "Topcon/Tickets/Análise de dados em tempo real para tomada de decisões estratégicas na expedição.md",
-    "Agenda/2025/03/20 de mar.md",
     "Templates/Topcon",
     "Templates/RPG",
     "RPG/Attachments/Caelum Thornfield.png",
