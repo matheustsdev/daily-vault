@@ -155,7 +155,7 @@ material_total = av.total_items;
 ```
 9. Foi feito uma correção no código para ajustar o cálculo do valor teórico da DeliveryTicketSupply. Além disso é necessário executar um script para a correção das notas anteriores;
    
-   Correção dos LoadTicketItems antigos com volume divergente
+   Correção dos LoadTicketItems antigos com volume divergente. (**NÃO SERÁ NECESSÁRIO DEVIDO A DIFICULDADE DE IMPLEMENTAR CORREÇÃO DISPATCH**)
 	```sql
 		WITH sub_query AS (
 			SELECT rlt.id_load_ticket FROM reg_load_tickets rlt
@@ -221,23 +221,9 @@ WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket AND rdts.id_supply_fk 
 ```sql
 UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_document = '3c1a9770-e785-4133-89cb-66a049be403e';
 ```
-## Scripts para executar em ordem
+## Scripts finais para executar em ordem
+
 ```sql
---- UPDATE LOAD TICKET VOLUME OF LOAD TICKETS WITH REUSES
-		WITH sub_query AS (
-			SELECT rlt.id_load_ticket FROM reg_load_tickets rlt
-			INNER JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
-			INNER JOIN rel_loads_tickets_deliveries rltd ON rltd.id_load_ticket_fk = rlt.id_load_ticket
-			INNER JOIN reg_deliveries rd ON rd.id_delivery = rltd.id_delivery_fk
-			WHERE rlt.reused_volume IS NOT NULL AND rlt.reused_volume > 0 AND rlt.reused_volume + rlt.volume <> rd.volume
-			GROUP BY rlt.id_load_ticket
-		)
-		UPDATE reg_load_tickets rlt
-		SET volume = rlt.volume - rlt.reused_volume
-		FROM sub_query sub
-		WHERE sub.id_load_ticket = rlt.id_load_ticket;
-
-
 --- UPDATE DELIVERY TICKET SUPPLIES THEORETICAL AND REAL QUANTITY
 		WITH sub_query AS (
 		SELECT
@@ -249,17 +235,17 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 			rlti.quantity_real_total,
 			-- quantity_theoretical_dry_per_m3
 			CASE
-				WHEN rlt.volume = 0 THEN 0
+				WHEN rlt.volume = rlt.reused_volume THEN 0
 				ELSE ROUND(rlti.quantity_theoretical_dry_total / rlt.volume, 2)
 			END AS quantity_theoretical_dry_per_m3,
 			-- quantity_theoretical_dry_total
 			CASE
-				WHEN rlt.volume = 0 THEN 0
+				WHEN rlt.volume = rlt.reused_volume THEN 0
 				ELSE ROUND((rlti.quantity_theoretical_dry_total / rlt.volume) * rd.volume, 2)
 			END AS load_ticket_total,
 			-- reuse_total
 			CASE
-				WHEN rlt.volume = 0 THEN 0
+				WHEN rlt.volume = rlt.reused_volume THEN 0
 				ELSE ROUND(((rlt.reused_volume * rlti.quantity_theoretical_dry_total) / rlt.volume) * rd.volume, 2)
 			END AS reuse_total,
 			rd.id_delivery -- Adiciona um identificador para o JOIN depois
@@ -278,12 +264,11 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 	FROM sub_query sub
 	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket AND rdts.id_supply_fk = sub.id_supply_fk;
 
-
 --- UPDATE DELIVERY TICKET SUPPLIES VALUES
 	UPDATE reg_delivery_ticket_supplies rdts SET
 		unit_cost_value = ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3),
 		theoretical_total_cost = CASE
-			WHEN lt.volume = 0 THEN 0
+			WHEN lt.volume = lt.reused_volume THEN 0
 			ELSE ROUND(COALESCE((((rlti.quantity_theoretical_dry_total / lt.volume) * rd.volume) + (((rlti.quantity_theoretical_dry_total / lt.volume) * COALESCE(lt.reused_volume, 0)) / lt.volume)) * (crfvsc.cost_value / crfvsc.mass), 0), 2)
 		END,
 		real_total_cost = ROUND(COALESCE(rlti.quantity_real_total * (crfvsc.cost_value / crfvsc.mass), 0), 2)
@@ -319,9 +304,9 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 			rdt.id_delivery_ticket,
 			SUM(
 				CASE
-				WHEN rdts.quantity_real_total IS NOT NULL AND rdts.quantity_real_total > 0
-				THEN rdts.real_total_cost
-				ELSE rdts.theoretical_total_cost
+					WHEN rdts.quantity_real_total IS NOT NULL AND rdts.quantity_real_total > 0
+					THEN rdts.real_total_cost
+					ELSE rdts.theoretical_total_cost
 				END
 			) / MAX(rd.volume) AS total_cost
 		FROM reg_delivery_tickets rdt
