@@ -23,7 +23,7 @@ A Flor Perene é extremamente valiosa devido às suas propriedades alquímicas e
 
 # O Jardim Secreto e a Proteção
 
-A localização exata onde a Flor Perene cresce é um dos **segredos mais bem guardados de Aeglíria**. Apenas o **Rei das Flores** e um seleto grupo de guardiões e alquimistas têm acesso ao **Jardim Secreto**, onde a planta é cultivada sob condições especiais.
+A localização exata onde a Flor Perene cresce é um dos segredos mais bem guardados de Aeglíria. Apenas o **Rei das Flores** e um seleto grupo de guardiões e alquimistas têm acesso ao [[Jardim Secreto de Aeglíria]], onde a planta é cultivada sob condições especiais.
 
 O jardim é protegido por:
 

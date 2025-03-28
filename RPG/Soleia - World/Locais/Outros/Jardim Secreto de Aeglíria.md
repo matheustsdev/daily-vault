@@ -6,7 +6,7 @@ Estado: "[[Aeglíria]]"
 
 > [!INFO] Informações sobre o contexto do lugar, sobre seu propósito e sobre quem o controla atualmente
 
-Escondido nas profundezas das cavernas cristalinas de Aeglíria, o Jardim Secreto é um santuário natural protegido por ilusões e rituais alquímicos. Ele abriga a lendária Flor Perene e outras plantas raras de imenso valor alquímico. O lugar é supervisionado pelo Conselho das Flores, um grupo de nobres e alquimistas que decide quem pode acessar seus recursos. A existência do jardim é cercada de mistérios e disputas, pois seu poder pode curar, corromper ou transformar o destino de um reino.
+Escondido nas profundezas das cavernas cristalinas de [[Aeglíria]], o Jardim Secreto é um santuário natural protegido por ilusões e rituais alquímicos. Ele abriga a lendária Flor Perene e outras plantas raras de imenso valor alquímico. O lugar é supervisionado pelo Conselho das Flores, um grupo de nobres e alquimistas que decide quem pode acessar seus recursos. A existência do jardim é cercada de mistérios e disputas, pois seu poder pode curar, corromper ou transformar o destino de um reino.
 
 # Lugares importantes  
 
@@ -34,6 +34,8 @@ Um anfiteatro natural escondido em uma caverna cristalina sob o Jardim Secreto. 
 ## O Círculo de Quartzo  
 
 No coração do Jardim Secreto, protegido por uma barreira invisível, encontra-se o **Círculo de Quartzo**, um santuário sagrado que abriga a lendária **Flor Perene**. A entrada para essa clareira é marcada por duas imponentes colunas de cristal branco leitoso, suavemente pulsantes como se tivessem uma energia viva em seu interior. Quem passa por elas sente um leve arrepio percorrer a espinha, como se cruzasse um limiar entre o mundo comum e algo mais elevado.  
+
+![[Pasted image 20250328000322.png]]
 ### A Paisagem do Círculo  
 
 A clareira é perfeitamente circular, com o solo coberto por uma relva dourada que parece brilhar com luz própria. Em volta dela, doze monólitos de quartzo branco estão dispostos simetricamente, cada um gravado com runas antigas que mudam sutilmente de cor conforme a posição da lua. O ar vibra com uma energia arcana e um silêncio profundo domina o ambiente, interrompido apenas pelo suave tilintar do cristal ao vento.  
