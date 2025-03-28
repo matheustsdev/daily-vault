@@ -1,0 +1,3 @@
+- [x] Ticket [[Remessa 2724 - TOPCON]]
+- [x] Ajuste na pagina de analisar solicitações
+- [>] Rodar script de custo de insumo
