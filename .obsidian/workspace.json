@@ -54,22 +54,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b720f5848c6d0821",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/03/26 de mar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "26 de mar"
-            }
-          },
-          {
             "id": "9df23cd93dfb6557",
             "type": "leaf",
             "pinned": true,
@@ -83,6 +67,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "27 de mar"
+            }
+          },
+          {
+            "id": "0d0d2c63d7b91d17",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/03/28 de mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "28 de mar"
             }
           }
         ],
@@ -244,10 +244,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c1edcf9b30a96b88",
+  "active": "0d0d2c63d7b91d17",
   "lastOpenFiles": [
-    "Agenda/2025/03/27 de mar.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Agenda/2025/03/28 de mar.md",
+    "Agenda/2025/03/27 de mar.md",
+    "RPG/Soleia - World/NPCs/Rei das Flores.md",
+    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
+    "RPG/Soleia - World/NPCs/Anexos",
+    "RPG/Soleia - World/Locais/Outros/Anexos/Pasted image 20250328000322.png",
+    "RPG/Soleia - World/Locais/Outros/Anexos",
     "Agenda/2025/03/26 de mar.md",
     "Agenda/2025/03/25 de mar.md",
     "Topcon/Dashboard de Tickets.md",
@@ -272,8 +278,6 @@
     "Agenda/2025/02/09 de fev.md",
     "Agenda/2025/02/08 de fev.md",
     "Agenda/2025/02/07 de fev.md",
-    "Agenda/2025/02/06 de fev.md",
-    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
     "Templates/Topcon",
     "Templates/RPG",
     "RPG/Attachments/Caelum Thornfield.png",
@@ -286,11 +290,7 @@
     "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
     "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
     "Anexos/Procedimento Básico para Hexcrawl.pdf",
-    "Topcon/Tickets/Anexos/Pasted image 20250218155540.png",
     "Topcon/Tickets/Anexos",
-    "Anexos/Pasted image 20250115180513.png",
-    "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
-    "Estudo",
-    "RPG"
+    "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload"
   ]
 }
