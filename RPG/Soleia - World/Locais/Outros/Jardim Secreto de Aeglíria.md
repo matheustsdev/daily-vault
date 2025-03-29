@@ -12,27 +12,7 @@ Escondido nas profundezas das cavernas cristalinas de [[Aeglíria]], o Jardim Se
 
 > [!INFO] Regiões-chave dentro do Jardim Secreto que podem ajudar ou atrapalhar sua jornada.
 
-## Círculo de Quartzo  
-Uma ampla clareira envolta por cristais luminescentes que refletem uma luz suave e prateada. No centro, um pedestal esculpido em quartzo leitoso sustenta a lendária **Flor Perene**, uma planta de pétalas translúcidas que brilham com uma energia dourada. O chão da clareira é coberto por uma fina névoa esverdeada, e símbolos alquímicos brilhantes aparecem e desaparecem conforme os visitantes se movem. Pequenas borboletas espectrais flutuam no ar, desaparecendo ao se aproximarem do pedestal.  
-
-## Os Riachos Alquímicos
-Uma série de pequenos riachos que percorrem o jardim como veias brilhantes. Suas águas não são comuns — elas possuem tons azulados e dourados, cintilando conforme a luz toca a superfície. Algumas partes do riacho borbulham suavemente, liberando vapores coloridos que possuem propriedades mágicas distintas. Pedras de jade e cristais luminescentes estão espalhados pelo leito do riacho, enquanto flores bioluminescentes crescem em suas margens. Algumas criaturas místicas, como pequenas salamandras de fogo azul e peixes translúcidos, habitam essas águas.  
-
-## O Arco de Cristal
-Uma imponente estrutura de cristal azul-acinzentado arqueia-se sobre uma trilha coberta por musgo dourado. O portal parece sólido à primeira vista, mas se observado sob o reflexo da luz das tochas, revela-se translúcido, mostrando imagens distorcidas do que há além. Runas antigas gravadas na superfície do arco brilham suavemente, mudando de cor conforme a presença de visitantes. Aqueles que não conhecem o **ritual correto** verão apenas uma parede de pedra no lugar do arco.  
-
-## As Sombras Vivas
-Uma região mais densa do Jardim Secreto, onde as árvores possuem folhas de um negro azulado e absorvem a luz ao invés de refleti-la. Isso cria um ambiente de sombras profundas e movimentos indistintos. Ao caminhar por esse trecho, viajantes juram ver figuras sombrias deslizando entre as árvores e ouvir sussurros sem origem. Algumas árvores têm olhos brilhantes escondidos entre as folhas, e suas raízes se movem sutilmente pelo solo. Plantas exóticas, como as **rosas da meia-noite**, crescem aqui, emitindo um aroma doce e hipnótico.  
-
-## O Salão das Marcas Antigas
-Um anfiteatro natural escondido em uma caverna cristalina sob o Jardim Secreto. As paredes são revestidas de inscrições antigas que brilham em tons de azul e dourado, registrando os nomes e feitos de aqueles que passaram por ali ao longo dos séculos. No centro da câmara há um grande círculo de pedra com símbolos rúnicos entalhados. Alguns dizem que, se uma oferenda adequada for feita, as marcas podem revelar segredos antigos ou mostrar vislumbres do futuro. Uma aura solene e sagrada envolve o salão, e aqueles que tentam apagá-lo ou profaná-lo dizem ouvir vozes antigas sussurrando advertências.  
-
-# Destaque  
-
-> [!INFO] Um olhar mais profundo sobre uma área específica do jardim, suas ameaças e possíveis desenvolvimentos narrativos.
-
-## O Círculo de Quartzo  
-
+## Círculo de Quartzo⭐
 No coração do Jardim Secreto, protegido por uma barreira invisível, encontra-se o **Círculo de Quartzo**, um santuário sagrado que abriga a lendária **Flor Perene**. A entrada para essa clareira é marcada por duas imponentes colunas de cristal branco leitoso, suavemente pulsantes como se tivessem uma energia viva em seu interior. Quem passa por elas sente um leve arrepio percorrer a espinha, como se cruzasse um limiar entre o mundo comum e algo mais elevado.  
 
 ![[Pasted image 20250328000322.png]]
@@ -56,6 +36,20 @@ O Círculo de Quartzo pode servir como:
 - **Um teste para aventureiros**, que devem provar sua intenção e pureza de coração para acessar os segredos da Flor Perene.  
 - **O ponto final de uma busca**, onde a flor precisa ser colhida, mas com consequências inesperadas.  
 - **Uma armadilha**, caso algum inimigo ou entidade sombria tente corromper ou manipular as energias do círculo.  
+
+## Os Riachos Alquímicos
+Uma série de pequenos riachos que percorrem o jardim como veias brilhantes. Suas águas não são comuns — elas possuem tons azulados e dourados, cintilando conforme a luz toca a superfície. Algumas partes do riacho borbulham suavemente, liberando vapores coloridos que possuem propriedades mágicas distintas. Pedras de jade e cristais luminescentes estão espalhados pelo leito do riacho, enquanto flores bioluminescentes crescem em suas margens. Algumas criaturas místicas, como pequenas salamandras de fogo azul e peixes translúcidos, habitam essas águas.  
+
+## O Arco de Cristal
+Uma imponente estrutura de cristal azul-acinzentado arqueia-se sobre uma trilha coberta por musgo dourado. O portal parece sólido à primeira vista, mas se observado sob o reflexo da luz das tochas, revela-se translúcido, mostrando imagens distorcidas do que há além. Runas antigas gravadas na superfície do arco brilham suavemente, mudando de cor conforme a presença de visitantes. Aqueles que não conhecem o **ritual correto** verão apenas uma parede de pedra no lugar do arco.  
+
+## As Sombras Vivas
+Uma região mais densa do Jardim Secreto, onde as árvores possuem folhas de um negro azulado e absorvem a luz ao invés de refleti-la. Isso cria um ambiente de sombras profundas e movimentos indistintos. Ao caminhar por esse trecho, viajantes juram ver figuras sombrias deslizando entre as árvores e ouvir sussurros sem origem. Algumas árvores têm olhos brilhantes escondidos entre as folhas, e suas raízes se movem sutilmente pelo solo. Plantas exóticas, como as **rosas da meia-noite**, crescem aqui, emitindo um aroma doce e hipnótico.  
+
+## O Salão das Marcas Antigas
+Um anfiteatro natural escondido em uma caverna cristalina sob o Jardim Secreto. As paredes são revestidas de inscrições antigas que brilham em tons de azul e dourado, registrando os nomes e feitos de aqueles que passaram por ali ao longo dos séculos. No centro da câmara há um grande círculo de pedra com símbolos rúnicos entalhados. Alguns dizem que, se uma oferenda adequada for feita, as marcas podem revelar segredos antigos ou mostrar vislumbres do futuro. Uma aura solene e sagrada envolve o salão, e aqueles que tentam apagá-lo ou profaná-lo dizem ouvir vozes antigas sussurrando advertências.  
+
+
 # Encontro  
 
 > [!INFO] Um acontecimento dramático e uma escolha crítica para inspirar seus próprios contos de ação e aventura.

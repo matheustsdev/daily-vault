@@ -4,39 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "63feafe45d5617aa",
+        "id": "1043e2e40d307ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0473ee24fef628",
+            "id": "b26fa60a04768349",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Dashboard de Tickets.md",
+                "file": "RPG/Soleia - World/Brainstorm.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Dashboard de Tickets"
+              "title": "Brainstorm"
             }
           },
           {
-            "id": "c1edcf9b30a96b88",
+            "id": "eae75e9878f072cf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "file": "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Divergencia custo dos insumos"
+              "title": "Jardim Secreto de Aeglíria"
             }
           }
         ],
@@ -50,46 +46,27 @@
     "type": "split",
     "children": [
       {
-        "id": "e9bf03013b6811cb",
+        "id": "6f14aecf559f4df0",
         "type": "tabs",
         "children": [
           {
-            "id": "b720f5848c6d0821",
+            "id": "b14829de6fa6114c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/26 de mar.md",
+                "file": "Agenda/2025/03/29 de mar.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "26 de mar"
-            }
-          },
-          {
-            "id": "9df23cd93dfb6557",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/03/27 de mar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "27 de mar"
+              "title": "29 de mar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "6f14aecf559f4df0",
+        "id": "c37c7040f36960f1",
         "type": "tabs",
         "children": [
           {
@@ -136,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 300
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -146,6 +123,16 @@
         "id": "5caf6c92dd624a50",
         "type": "tabs",
         "children": [
+          {
+            "id": "155929a011882c0a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
           {
             "id": "080f873b6b5f13e8",
             "type": "leaf",
@@ -157,12 +144,12 @@
             }
           },
           {
-            "id": "5895b550f58216fb",
+            "id": "87c74fde82584dc7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topcon/Dashboard de Tickets.md",
+                "file": "2024/18 de dez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,25 +159,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard de Tickets"
+              "title": "Backlinks for 18 de dez"
             }
           },
           {
-            "id": "cd098908e8053ff6",
+            "id": "7036a91f401a2d22",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topcon/Dashboard de Tickets.md",
+                "file": "2024/18 de dez.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dashboard de Tickets"
+              "title": "Outgoing links from 18 de dez"
             }
           },
           {
-            "id": "ee183e0b2c5cc0ba",
+            "id": "ff19de66dd06a945",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -203,35 +190,38 @@
             }
           },
           {
-            "id": "d8d9a34c80a5183c",
+            "id": "7e14212bd7f7de14",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tickets/466065 - Concreserv - Novo cliente.md"
+                "file": "2024/18 de dez.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 466065 - Concreserv - Novo cliente"
+              "title": "Outline of 18 de dez"
             }
           },
           {
-            "id": "348b295337a8bfcd",
+            "id": "74b7b31ca09c9ae5",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -239,58 +229,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "c1edcf9b30a96b88",
+  "active": "eae75e9878f072cf",
   "lastOpenFiles": [
+    "RPG/Soleia - World/NPCs/Rei das Flores.md",
+    "Conselho das Flores.md",
+    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
+    "RPG/Soleia - World/Locais/Aeglíria.md",
+    "Agenda/2025/03/29 de mar.md",
     "Agenda/2025/03/27 de mar.md",
-    "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Agenda/2025/03/26 de mar.md",
     "Agenda/2025/03/25 de mar.md",
-    "Topcon/Dashboard de Tickets.md",
     "Agenda/2025/03/24 de mar.md",
-    "Topcon/Tickets/Remessa 2724 - TOPCON.md",
-    "Topcon/Tickets/Notas sem chave.md",
-    "Agenda/2025/03/21 de mar.md",
-    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
-    "Templates/RPG/Masmorra.md",
-    "RPG/Soleia - World/Locais/Aeglíria.md",
+    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
+    "RPG/Soleia - World/NPCs/Anexos",
+    "RPG/Soleia - World/Locais/Outros/Anexos/Pasted image 20250328000322.png",
+    "RPG/Soleia - World/Locais/Outros/Anexos/DALL·E 2025-03-27 23.43.54 - A mystical secret garden hidden deep underground, illuminated by soft bioluminescent plants and glowing crystals. The garden features a circular clear.png",
+    "RPG/Soleia - World/Locais/Outros/Anexos/DALL·E 2025-03-27 23.43.54 - A mystical secret garden hidden deep underground, illuminated by soft bioluminescent plants and glowing crystals. The garden features a circular clear.webp",
+    "RPG/Soleia - World/Locais/Outros/Anexos",
     "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
-    "RPG/Soleia - World/Items/Flor Perene.md",
+    "RPG/Soleia - World/Locais/Lumindor.md",
+    "RPG/Soleia - World/Locais/Thundralis.md",
+    "RPG/Soleia - World/Locais/Terramor.md",
+    "RPG/Soleia - World/Locais/Aurélia.md",
+    "Topcon/Tickets/Remessa 2724 - TOPCON.md",
+    "Topcon/Tickets/Não conclui programação NewDispatch - Concreserv.md",
+    "Topcon/Tickets/Notas sem chave.md",
+    "Topcon/Helper.md",
+    "Templates/RPG/Masmorra.md",
     "Templates/RPG/Item.md",
+    "Templates/Daily.md",
     "RPG/Soleia - World/Items/Materiais",
-    "Templates/RPG/Floresta.md",
     "RPG/Soleia - World/Items",
-    "Agenda/2025/02/10 de fev.md",
-    "Agenda/2025/02/11 de fev.md",
-    "Agenda/2025/02/12 de fev.md",
-    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
-    "Agenda/2025/02/13 de fev.md",
-    "Agenda/2025/02/09 de fev.md",
-    "Agenda/2025/02/08 de fev.md",
-    "Agenda/2025/02/07 de fev.md",
-    "Agenda/2025/02/06 de fev.md",
-    "Topcon/Tickets/Exibir na barra da entrega na programação as cores e o tempo em cada etapa da entrega.md",
+    "Agenda/2025/03/21 de mar.md",
+    "Agenda/2025/03/20 de mar.md",
+    "RPG/Soleia - World/Brainstorm.md",
+    "Buscaaii/Reuniões/Alinhamento com Fábio - 20 de fev.md",
+    "conflict-files-obsidian-git.md",
     "Templates/Topcon",
     "Templates/RPG",
     "RPG/Attachments/Caelum Thornfield.png",
     "Agenda/2025/03",
-    "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
-    "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
-    "Topcon/Tickets/Anexos/Pasted image 20250226143657.png",
-    "Topcon/Tickets/Anexos/Pasted image 20250224140537.png",
-    "Topcon/Tickets/Anexos/Pasted image 20250224140534.png",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
+    "RPG/Tables",
     "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
-    "Anexos/Procedimento Básico para Hexcrawl.pdf",
-    "Topcon/Tickets/Anexos/Pasted image 20250218155540.png",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 2.png",
+    "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
     "Topcon/Tickets/Anexos",
-    "Anexos/Pasted image 20250115180513.png",
-    "Anexos/Procedimento Básico para Hexcrawl.pdf.crdownload",
-    "Estudo",
-    "RPG"
+    "RPG/Templates",
+    "RPG/Attachments/valandra.png",
+    "RPG/Attachments/pena_dourada (1).png"
   ]
 }
