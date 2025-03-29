@@ -232,28 +232,32 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 			rlt.volume AS load_ticket_volume,
 			rlt.reused_volume,
 			rd.volume AS delivery_volume,
-			rlti.quantity_real_total,
 			-- quantity_theoretical_dry_per_m3
 			CASE
-				WHEN rlt.volume = rlt.reused_volume THEN 0
+				WHEN rlt.volume = rlt.reused_volume OR rlt.volume = 0 THEN 0
 				ELSE ROUND(rlti.quantity_theoretical_dry_total / rlt.volume, 2)
 			END AS quantity_theoretical_dry_per_m3,
 			-- quantity_theoretical_dry_total
 			CASE
-				WHEN rlt.volume = rlt.reused_volume THEN 0
+				WHEN rlt.volume = rlt.reused_volume OR rlt.volume = 0 THEN 0
 				ELSE ROUND((rlti.quantity_theoretical_dry_total / rlt.volume) * rd.volume, 2)
 			END AS load_ticket_total,
+			-- quantity_real_total
+			CASE
+				WHEN rlt.volume = rlt.reused_volume OR rlt.volume = 0 THEN 0
+				ELSE ROUND((rlti.quantity_real_total / rlt.volume) * rd.volume, 2)
+			END AS quantity_real_total,
 			-- reuse_total
 			CASE
-				WHEN rlt.volume = rlt.reused_volume THEN 0
+				WHEN rlt.volume = rlt.reused_volume OR rlt.volume = 0 THEN 0
 				ELSE ROUND(((rlt.reused_volume * rlti.quantity_theoretical_dry_total) / rlt.volume) * rd.volume, 2)
 			END AS reuse_total,
 			rd.id_delivery -- Adiciona um identificador para o JOIN depois
-		FROM reg_delivery_tax_documents rdtd
-		LEFT JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk
-		LEFT JOIN reg_delivery_tickets rdt ON rdt.id_delivery_ticket = rdtd.id_delivery_ticket_fk
-		LEFT JOIN reg_load_tickets rlt ON rlt.id_load_ticket = rdt.id_load_ticket_fk
+		FROM reg_load_tickets rlt
+		LEFT JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = rlt.id_load_ticket
+		LEFT JOIN reg_delivery_tax_documents rdtd ON rdtd.id_delivery_ticket_fk = rdt.id_delivery_ticket
 		LEFT JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+		LEFT JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk
 		LEFT JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
 	)
 	UPDATE reg_delivery_ticket_supplies rdts
@@ -262,16 +266,19 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 		quantity_theoretical_dry_per_volume = sub.quantity_theoretical_dry_per_m3,
 		quantity_real_total = sub.quantity_real_total
 	FROM sub_query sub
-	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket AND rdts.id_supply_fk = sub.id_supply_fk;
+	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket 
+	AND rdts.id_supply_fk = sub.id_supply_fk
+	AND rdts.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
+
 
 --- UPDATE DELIVERY TICKET SUPPLIES VALUES
 	UPDATE reg_delivery_ticket_supplies rdts SET
 		unit_cost_value = ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3),
 		theoretical_total_cost = CASE
-			WHEN lt.volume = lt.reused_volume THEN 0
-			ELSE ROUND(COALESCE((((rlti.quantity_theoretical_dry_total / lt.volume) * rd.volume) + (((rlti.quantity_theoretical_dry_total / lt.volume) * COALESCE(lt.reused_volume, 0)) / lt.volume)) * (crfvsc.cost_value / crfvsc.mass), 0), 2)
+			WHEN lt.volume = lt.reused_volume OR lt.volume = 0 THEN 0
+			ELSE ROUND(COALESCE(rdts.quantity_theoretical_dry_total  * ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3), 0), 2)
 		END,
-		real_total_cost = ROUND(COALESCE(rlti.quantity_real_total * (crfvsc.cost_value / crfvsc.mass), 0), 2)
+		real_total_cost = ROUND(COALESCE(rdts.quantity_real_total * ROUND(COALESCE(crfvsc.cost_value / crfvsc.mass, 0), 3), 0), 2)
 	FROM reg_load_tickets lt
 	LEFT JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = lt.id_load_ticket
 	LEFT JOIN rel_loads_tickets_deliveries rltd ON rltd.id_load_ticket_fk = lt.id_load_ticket
@@ -322,3 +329,9 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 	WHERE rdtc.id_delivery_ticket_fk = av.id_delivery_ticket;
 
 ```
+
+116474
+116537
+
+116510
+116573
