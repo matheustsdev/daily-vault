@@ -27,12 +27,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
+                "file": "RPG/Soleia - World/Panteão/Lyrena, a Deusa da Lua e das Águas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jardim Secreto de Aeglíria"
+              "title": "Lyrena, a Deusa da Lua e das Águas"
+            }
+          },
+          {
+            "id": "6b37a1f63c94e26e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Divergencia custo dos insumos)"
             }
           }
         ],
@@ -234,9 +247,15 @@
   },
   "active": "eae75e9878f072cf",
   "lastOpenFiles": [
+    "RPG/Soleia - World/Panteão/Anexos/590a2161-2c93-46e5-86f9-fdfce720b40fmatheus-teixeira.jpg",
+    "RPG/Soleia - World/Panteão/Anexos",
+    "RPG/Soleia - World/Ideias gerais do mundo.md",
+    "RPG/Soleia - World/Definições básicas do cenário.md",
+    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
+    "Agenda/2025/03/28 de mar.md",
+    "conflict-files-obsidian-git.md",
     "RPG/Soleia - World/NPCs/Rei das Flores.md",
     "Conselho das Flores.md",
-    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
     "RPG/Soleia - World/Locais/Aeglíria.md",
     "Agenda/2025/03/29 de mar.md",
     "Agenda/2025/03/27 de mar.md",
@@ -263,11 +282,6 @@
     "Templates/Daily.md",
     "RPG/Soleia - World/Items/Materiais",
     "RPG/Soleia - World/Items",
-    "Agenda/2025/03/21 de mar.md",
-    "Agenda/2025/03/20 de mar.md",
-    "RPG/Soleia - World/Brainstorm.md",
-    "Buscaaii/Reuniões/Alinhamento com Fábio - 20 de fev.md",
-    "conflict-files-obsidian-git.md",
     "Templates/Topcon",
     "Templates/RPG",
     "RPG/Attachments/Caelum Thornfield.png",
@@ -277,7 +291,6 @@
     "Topcon/Tickets/Anexos/Ticket 478213 - 2.png",
     "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
     "Topcon/Tickets/Anexos",
-    "RPG/Templates",
     "RPG/Attachments/valandra.png",
     "RPG/Attachments/pena_dourada (1).png"
   ]

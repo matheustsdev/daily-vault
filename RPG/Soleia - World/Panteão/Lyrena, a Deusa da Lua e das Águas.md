@@ -6,7 +6,7 @@ Facção: Deus
 # Descrição
 
 Lyrena, uma entidade antiga e reverenciada, é a deusa da Lua e das Águas. Diz-se que seu semblante é o de uma figura feminina etérea, de olhos prateados como a luz do luar, refletindo a serenidade das águas profundas. Sua presença é sutil, como o fluxo de um rio silencioso, e sua voz é raramente ouvida, mas quando ecoa, é como o sussurro das ondas nas noites de lua cheia. Venerada como uma guia compassiva, Lyrena representa o equilíbrio da natureza e a conexão entre o mundo físico e espiritual. Ela é conhecida tanto por sua misericórdia quanto por sua face misteriosa e inescrutável, que reflete os segredos das águas ocultas e as fases da lua. Muitos acreditam que Lyrena influencia as marés, as emoções, e até mesmo o destino daqueles que são sensíveis a sua presença.
-
+![[590a2161-2c93-46e5-86f9-fdfce720b40fmatheus-teixeira.jpg]]
 ![[Lyrena.png]]
 # Objetivo
 
