@@ -4,52 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "1043e2e40d307ce8",
+        "id": "63feafe45d5617aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b26fa60a04768349",
+            "id": "fb0473ee24fef628",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Soleia - World/Brainstorm.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Brainstorm"
+              "title": "Dashboard de Tickets"
             }
           },
           {
-            "id": "eae75e9878f072cf",
+            "id": "c1edcf9b30a96b88",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
-              "state": {
-                "file": "RPG/Soleia - World/Panteão/Lyrena, a Deusa da Lua e das Águas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lyrena, a Deusa da Lua e das Águas"
-            }
-          },
-          {
-            "id": "6b37a1f63c94e26e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
               "state": {
                 "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
-                "staged": true
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Divergencia custo dos insumos)"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Divergencia custo dos insumos"
+            }
+          },
+          {
+            "id": "5f8f7e006f810ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tickets/Remessas Duplicadas - Urgente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Remessas Duplicadas - Urgente"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,27 +64,46 @@
     "type": "split",
     "children": [
       {
-        "id": "6f14aecf559f4df0",
+        "id": "e9bf03013b6811cb",
         "type": "tabs",
         "children": [
           {
-            "id": "b14829de6fa6114c",
+            "id": "0d0d2c63d7b91d17",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/03/29 de mar.md",
+                "file": "Agenda/2025/03/28 de mar.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "29 de mar"
+              "title": "28 de mar"
+            }
+          },
+          {
+            "id": "6c2bf8063f9b7a54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/03/31 de mar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "31 de mar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "c37c7040f36960f1",
+        "id": "6f14aecf559f4df0",
         "type": "tabs",
         "children": [
           {
@@ -101,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "4743",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "f20d81869eb99629",
@@ -136,16 +160,6 @@
         "id": "5caf6c92dd624a50",
         "type": "tabs",
         "children": [
-          {
-            "id": "155929a011882c0a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "080f873b6b5f13e8",
             "type": "leaf",
@@ -157,12 +171,12 @@
             }
           },
           {
-            "id": "87c74fde82584dc7",
+            "id": "5895b550f58216fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,25 +186,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 18 de dez"
+              "title": "Backlinks for Dashboard de Tickets"
             }
           },
           {
-            "id": "7036a91f401a2d22",
+            "id": "cd098908e8053ff6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/18 de dez.md",
+                "file": "Topcon/Dashboard de Tickets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 18 de dez"
+              "title": "Outgoing links from Dashboard de Tickets"
             }
           },
           {
-            "id": "ff19de66dd06a945",
+            "id": "ee183e0b2c5cc0ba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -203,38 +217,35 @@
             }
           },
           {
-            "id": "7e14212bd7f7de14",
+            "id": "d8d9a34c80a5183c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/18 de dez.md"
+                "file": "Tickets/466065 - Concreserv - Novo cliente.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 18 de dez"
+              "title": "Outline of 466065 - Concreserv - Novo cliente"
             }
           },
           {
-            "id": "74b7b31ca09c9ae5",
+            "id": "348b295337a8bfcd",
             "type": "leaf",
             "state": {
-              "type": "planner-timeline",
+              "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -242,56 +253,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eae75e9878f072cf",
+  "active": "5f8f7e006f810ff4",
   "lastOpenFiles": [
+    "Agenda/2025/03/31 de mar.md",
+    "Topcon/Tickets/Remessas Duplicadas - Urgente.md",
+    "Templates/Topcon/Ticket.md",
+    "Topcon/Tickets/Novo ticket.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Topcon/Tickets/Expedição de Argamassa gerou duas remessas de cada cliente.md",
+    "Topcon/Tickets/Inconsistências em emissão e cancelamento de remessas.md",
+    "Topcon/Tickets/Moldagem de cp não considerando o parâmetro da central.md",
+    "Agenda/2025/03/28 de mar.md",
     "RPG/Soleia - World/Panteão/Anexos/590a2161-2c93-46e5-86f9-fdfce720b40fmatheus-teixeira.jpg",
     "RPG/Soleia - World/Panteão/Anexos",
-    "RPG/Soleia - World/Ideias gerais do mundo.md",
-    "RPG/Soleia - World/Definições básicas do cenário.md",
-    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
-    "Agenda/2025/03/28 de mar.md",
-    "conflict-files-obsidian-git.md",
-    "RPG/Soleia - World/NPCs/Rei das Flores.md",
-    "Conselho das Flores.md",
-    "RPG/Soleia - World/Locais/Aeglíria.md",
     "Agenda/2025/03/29 de mar.md",
     "Agenda/2025/03/27 de mar.md",
-    "Agenda/2025/03/26 de mar.md",
-    "Agenda/2025/03/25 de mar.md",
-    "Agenda/2025/03/24 de mar.md",
+    "RPG/Soleia - World/NPCs/Rei das Flores.md",
     "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
     "RPG/Soleia - World/NPCs/Anexos",
     "RPG/Soleia - World/Locais/Outros/Anexos/Pasted image 20250328000322.png",
-    "RPG/Soleia - World/Locais/Outros/Anexos/DALL·E 2025-03-27 23.43.54 - A mystical secret garden hidden deep underground, illuminated by soft bioluminescent plants and glowing crystals. The garden features a circular clear.png",
-    "RPG/Soleia - World/Locais/Outros/Anexos/DALL·E 2025-03-27 23.43.54 - A mystical secret garden hidden deep underground, illuminated by soft bioluminescent plants and glowing crystals. The garden features a circular clear.webp",
     "RPG/Soleia - World/Locais/Outros/Anexos",
-    "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
-    "RPG/Soleia - World/Locais/Lumindor.md",
-    "RPG/Soleia - World/Locais/Thundralis.md",
-    "RPG/Soleia - World/Locais/Terramor.md",
-    "RPG/Soleia - World/Locais/Aurélia.md",
+    "Agenda/2025/03/26 de mar.md",
+    "Agenda/2025/03/25 de mar.md",
+    "Topcon/Dashboard de Tickets.md",
+    "Agenda/2025/03/24 de mar.md",
     "Topcon/Tickets/Remessa 2724 - TOPCON.md",
-    "Topcon/Tickets/Não conclui programação NewDispatch - Concreserv.md",
     "Topcon/Tickets/Notas sem chave.md",
-    "Topcon/Helper.md",
+    "Agenda/2025/03/21 de mar.md",
+    "RPG/Soleia - World/Locais/Outros/Jardim Secreto de Aeglíria.md",
     "Templates/RPG/Masmorra.md",
+    "RPG/Soleia - World/Locais/Aeglíria.md",
+    "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
+    "RPG/Soleia - World/Items/Flor Perene.md",
     "Templates/RPG/Item.md",
-    "Templates/Daily.md",
     "RPG/Soleia - World/Items/Materiais",
+    "Templates/RPG/Floresta.md",
     "RPG/Soleia - World/Items",
     "Templates/Topcon",
     "Templates/RPG",
     "RPG/Attachments/Caelum Thornfield.png",
     "Agenda/2025/03",
-    "RPG/Tables",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 3.png",
-    "Topcon/Tickets/Anexos/Ticket 478213 - 2.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250228164458.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250227105740.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250226143657.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250224140537.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250224140534.png",
     "Topcon/Tickets/Anexos/Ticket 478213 - 1.png",
-    "Topcon/Tickets/Anexos",
-    "RPG/Attachments/valandra.png",
-    "RPG/Attachments/pena_dourada (1).png"
+    "Anexos/Procedimento Básico para Hexcrawl.pdf",
+    "Topcon/Tickets/Anexos"
   ]
 }

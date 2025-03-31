@@ -11,6 +11,7 @@ Data de fim:
 	Dessa forma, como não o CostValue não era nulo, já usava ele direto.
 2. Outros campos que usavam o CostValue no cálculo também estavam errados
 3. Foi observado que o cálculo dos valores teóricos do DeliveryTicketSupply não estão coerentes
+4. Após testes e correções algumas notas ainda ficaram com valor sem sentido. Isso se deve à um erro de total do volume de load ticket. Por exemplo o total de entregas é de 4,5m³ e o load ticket + reúso é de 2.5m³. A solução foi utilizar um script para setar a quantidade real na DeliveryTicketSupply igual ao pesado.
 
 # Soluções
 1. Adição de parenteses em cada membro da divisão
@@ -269,6 +270,37 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket 
 	AND rdts.id_supply_fk = sub.id_supply_fk
 	AND rdts.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52';
+	
+--- UPDATE MORTAR NON SENSE QUANTITIES (1)
+	WITH sub_query AS (
+		SELECT rlt.id_load_ticket, rdt.id_delivery_ticket, rlti.id_supply_fk, rlti.quantity_real_total FROM reg_load_tickets rlt 
+		INNER JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+		INNER JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = rlt.id_load_ticket
+		WHERE rlt.id_load_ticket = '77107d1a-6572-4d6d-9c24-3303e23a2021'
+	)
+	UPDATE reg_delivery_ticket_supplies rdts 
+	SET 
+		quantity_real_total = sub.quantity_real_total
+	FROM sub_query sub
+	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket
+	AND rdts.id_supply_fk = sub.id_supply_fk
+	AND sub.id_load_ticket = '77107d1a-6572-4d6d-9c24-3303e23a2021';
+
+
+--- UPDATE MORTAR NON SENSE QUANTITIES (2)
+	WITH sub_query AS (
+		SELECT rlt.id_load_ticket, rdt.id_delivery_ticket, rlti.id_supply_fk, rlti.quantity_real_total FROM reg_load_tickets rlt 
+		INNER JOIN reg_load_ticket_items rlti ON rlti.id_load_ticket_fk = rlt.id_load_ticket
+		INNER JOIN reg_delivery_tickets rdt ON rdt.id_load_ticket_fk = rlt.id_load_ticket
+		WHERE rlt.id_load_ticket = 'd56b958f-4f0e-4065-b598-065770fa118d'
+	)
+	UPDATE reg_delivery_ticket_supplies rdts 
+	SET 
+		quantity_real_total = sub.quantity_real_total
+	FROM sub_query sub
+	WHERE rdts.id_delivery_ticket_fk = sub.id_delivery_ticket
+	AND rdts.id_supply_fk = sub.id_supply_fk
+	AND sub.id_load_ticket = 'd56b958f-4f0e-4065-b598-065770fa118d';(
 
 
 --- UPDATE DELIVERY TICKET SUPPLIES VALUES
