@@ -360,10 +360,11 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 	FROM aggregated_values av
 	WHERE rdtc.id_delivery_ticket_fk = av.id_delivery_ticket;
 
+
+--- UPDATE ALTO VALE SUBSIDIARY
+	UPDATE reg_subsidiaries_fiscal_data rsfd 
+	SET 
+		deleted = FALSE, 
+		id_client_fk = 'e07a0576-fdc6-45b2-a98b-f6b69f8b680a'
+	WHERE id_subsidiary_fiscal_data = '2b4e144e-ca62-4da8-ac1c-7a9f16c3e702';
 ```
-
-116474
-116537
-
-116510
-116573
