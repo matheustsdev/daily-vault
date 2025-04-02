@@ -4,7 +4,6 @@ Status: Concluído
 Data de início: 2025-02-07
 Data de fim: 2025-02-21
 ---
-
 # Análise
 1. Duas notas com mesma numeração na con_nf: 3841 e 4743
 	Porém, na fis_nf não há referencia a ela.

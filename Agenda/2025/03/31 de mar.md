@@ -4,4 +4,4 @@
 	- [ ] Branch aberta
 	- [x] Alguns itens na con_item_nf ainda está com preço unitário maior que 1000
 - [/] Ajuda ao Will
-- [ ] Planning
+- [x] Planning
