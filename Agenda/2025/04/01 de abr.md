@@ -1,4 +1,0 @@
-- [ ] Ticket [[Divergencia custo dos insumos]]
-	- [ ] Branch aberta
-	- [x] Testar no banco atualizado de ontem (hotfix2)
-- [x] Ajuda ao Will
