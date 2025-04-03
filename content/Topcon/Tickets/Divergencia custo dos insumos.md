@@ -368,3 +368,44 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 		id_client_fk = 'e07a0576-fdc6-45b2-a98b-f6b69f8b680a'
 	WHERE id_subsidiary_fiscal_data = '2b4e144e-ca62-4da8-ac1c-7a9f16c3e702';
 ```
+
+
+# Outras informações
+
+- Todas as notas possuem erro de desvio que ocasiona o valor divergente. Algumas notas foram canceladas porém outras não. Todas essas pesagens possuem bloqueio devido o desvio e foram liberadas como evidenciado pelo print abaixo. As caixas marcadas em vermelho agrupam os tickets de pesagem de argamassa, em que mais de uma nota possui a mesma pesagem. O nome dos usuários exibidos são os os usuários que liberaram cada um dos bloqueios referente ao desvio.
+  ![[Pasted image 20250403154504.png]]
+```sql
+
+--- GET WRONG VALUES DANFES BLOCK DATA
+	SELECT 
+		rsfd.code AS filial, 
+		rdtd.document_number AS num_nf,
+		rltbr.id_load_ticket_block_reason,
+		rlt.id_load_ticket,
+		rltbr.release_status,
+		rltbr.release_date,
+		ru.full_name
+	FROM reg_delivery_tax_documents rdtd
+		LEFT JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk
+		LEFT JOIN reg_delivery_tickets rdt ON rdt.id_delivery_ticket = rdtd.id_delivery_ticket_fk
+		LEFT JOIN reg_load_tickets rlt ON rlt.id_load_ticket = rdt.id_load_ticket_fk
+		LEFT JOIN reg_delivery_ticket_concretes rdtc ON rdtc.id_delivery_ticket_fk = rdt.id_delivery_ticket
+		LEFT JOIN reg_delivery_tax_document_authorizations rdtda ON rdtda.id_delivery_tax_document_fk = rdtd.id_delivery_tax_document
+		LEFT JOIN reg_load_ticket_block_reasons rltbr ON rltbr.id_load_ticket_fk = rlt.id_load_ticket AND rltbr.block_reason = 'SUPPLY_DEVIATION'
+		LEFT JOIN reg_notifications rn ON rn.id_notification = rltbr.id_notification_fk
+		LEFT JOIN reg_users ru ON ru.id_user = rn.id_user_fk
+	WHERE 
+	 	(rsfd.code = 1050 AND rdtd.document_number = 4)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 4)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 5)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 6)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 5066)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 3298)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 3301)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 2339)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 2338)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 4278)
+		OR (rsfd.code = 1080 AND rdtd.document_number = 3300);
+
+```
+
