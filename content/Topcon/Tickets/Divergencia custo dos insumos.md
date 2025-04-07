@@ -409,3 +409,5 @@ UPDATE reg_delivery_tax_documents SET deleted = TRUE WHERE id_delivery_tax_docum
 
 ```
 
+18:45
+17442
