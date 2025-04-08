@@ -34,5 +34,5 @@ O jardim é protegido por:
 # **Conflitos e Intrigas:**
 
 - **Caçadores de Relíquias** desejam roubar a flor para vendê-la no mercado negro ou para usá-la em rituais proibidos.
-- **Membros do Conselho das Flores** podem discordar sobre como a flor deve ser usada – guardada para o rei ou compartilhada com o povo.
+- **Membros do Conselho das Flores** podem discordar sobre como a flor deve ser usada/guardada para o rei ou compartilhada com o povo.
 - **Rumores dizem que existe uma Flor Perene Negra**, uma versão corrompida da planta, capaz de conceder poderes sombrios a quem a consumir.

@@ -1,8 +1,8 @@
 ---
 Ticket: 485867
-Status: Em análise
+Status: Concluído
 Data de início: 2025-02-26
-Data de fim:
+Data de fim: 2025-04-07
 ---
 
 # Análises

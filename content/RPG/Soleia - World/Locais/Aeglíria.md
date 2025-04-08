@@ -39,21 +39,18 @@ Aeglíria é famosa por seus **Jardins Alquímicos**, onde crescem flores que br
 # Fundamentos da Alquimia em Aeglíria
 
 A alquimia aeglíriana não se limita à simples transmutação de materiais; ela combina aspectos químicos, mágicos e filosóficos para criar substâncias e fenômenos extraordinários. Diferente da alquimia tradicional que busca a Pedra Filosofal ou a transformação de metais, em Aeglíria, a alquimia está profundamente conectada à biologia, cristalomancia e manipulação de energias naturais.
-
----
-
 ## Escolas e Abordagens Alquímicas
 
 1. **Alquimia Cristalina** - Estudo e manipulação dos cristais luminescentes naturais de Aeglíria. São usados para iluminação, cura, e até como fonte de energia para maquinários arcanotécnicos.
-    
+
 2. **Alquimia Botânica** - Focada na extração de propriedades mágicas das flores perenes e outras plantas raras dos Jardins Secretos. Poções, ungüentos e perfumes encantados são produtos dessa vertente.
-    
+
 3. **Alquimia Sombrática** - Explora o poder das sombras e da bioluminescência para criar substâncias que alteram a percepção, envenenam ou fortalecem corpos em situações extremas.
-    
+
 4. **Alquimia Metamórfica** - Especializada em transmutar materiais como metais e pedras preciosas, permitindo a criação de ligas encantadas e objetos com propriedades especiais.
-    
+
 5. **Alquimia Espiritual** - Uma prática rara e controversa que busca a purificação ou a infusão de almas em objetos, permitindo a criação de artefatos com vontades próprias ou até prolongando a vida dos alquimistas.
-    
+
 
 ---
 
@@ -62,37 +59,33 @@ A alquimia aeglíriana não se limita à simples transmutação de materiais; el
 Os cristais luminescentes de Aeglíria não apenas fornecem luz nas profundezas, mas também servem como catalisadores alquímicos. Eles absorvem e armazenam energias místicas, sendo essenciais para rituais e experimentos avançados.
 
 - **Quartzo Arcano**: Amplifica magia e alquimia, usado em catalisadores.
-    
+
 - **Cristal Sombrio**: Absorve luz e magia, útil para rituais de ocultação.
-    
+
 - **Pedra-Coração**: Tem propriedades regenerativas, usada para elixires curativos.
-    
+
 - **Ónix Sangrento**: Associado à vitalidade e manipulação de sangue.
-    
+
 
 ---
 
 ## O Papel da Alquimia no Cotidiano de Aeglíria
 
 - **Iluminação Pública**: Os cristais luminescentes são infundidos com energia alquímica para manter as cidades subterrâneas brilhantes.
-    
+
 - **Medicina Avançada**: Poções e unguentos curativos são comuns, mas apenas mestres podem manipular a energia vital diretamente.
-    
+
 - **Arte e Perfumes**: A alquimia botânica é usada para criar essências e pigmentos vibrantes.
-    
+
 - **Armas e Defesa**: Espadas de liga alquímica, escudos que absorvem impactos e até armaduras que reagem ao ambiente fazem parte do arsenal aeglíriano.
-    
+
 - **Transporte e Construção**: Maquinários alquímicos auxiliam na escavação e movimentação de materiais pesados.
-    
-
----
-
 ## Conflitos e Restrições
 
 - **Proibição de Experimentos Humanos**: A infusão direta de alquimia em seres vivos é tabu, devido a experimentos antigos que falharam e geraram mutações irreversíveis.
-    
+
 - **Controle sobre Poções de Longevidade**: Apenas a nobreza e os mestres-alquimistas têm acesso a elixires que prolongam a vida.
-    
+
 - **Mercado Negro de Alquimia Sombrática**: Algumas substâncias proibidas, como a Névoa da Noite (que permite enxergar no escuro absoluto), são vendidas ilegalmente.
 # Famílias
 - **Abissalume**
