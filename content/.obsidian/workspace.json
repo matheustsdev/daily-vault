@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2512332b1e512a",
+        "id": "cc2a6f3d8b5e38be",
         "type": "tabs",
         "children": [
           {
-            "id": "36bf237a05142d43",
+            "id": "5bdad87703bf8310",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
+                "file": "RPG/Soleia - World/Locais/Cidades/Valéria.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument"
-            }
-          },
-          {
-            "id": "8dee7d4c115ea4bb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Valéria"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -43,45 +30,6 @@
     "id": "6168a1ccff078aaf",
     "type": "split",
     "children": [
-      {
-        "id": "6aff5316d044a20d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37e295b646662e2c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/04/08 de abr.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "08 de abr"
-            }
-          },
-          {
-            "id": "5205ef43fbc456cd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/04/09 de abr.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09 de abr"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
       {
         "id": "caedef287bdb55ee",
         "type": "tabs",
@@ -223,7 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -231,16 +178,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dee7d4c115ea4bb",
+  "active": "5bdad87703bf8310",
   "lastOpenFiles": [
+    "Templates/RPG/Cidade.md",
+    "RPG/Soleia - World/Locais/Cidades/Valéria.md",
     "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
     "Agenda/2025/04/09 de abr.md",
     "Agenda/2025/04/08 de abr.md",
     "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
-    "Templates/RPG/Cidade.md",
     "RPG/Soleia - World/NPCs/Os Alhoons.md",
     "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
     "RPG/Soleia - World/Mapa.md",
@@ -263,7 +212,6 @@
     "Novas notas/Data inválida.md",
     "Notas não mapeadas.md",
     "Novas notas",
-    "Agenda/2025/04/07 de abr.md",
     "Topcon/Tickets/Anexos/Pasted image 20250403154504.png",
     "Topcon/Tickets/Anexos/Pasted image 20250403085637.png",
     "Pasted image 20250403153854.png",
