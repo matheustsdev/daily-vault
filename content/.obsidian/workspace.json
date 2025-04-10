@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "97544a3f10cf8ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f2512332b1e512a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36bf237a05142d43",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument"
+            }
+          },
+          {
+            "id": "8dee7d4c115ea4bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6168a1ccff078aaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aff5316d044a20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37e295b646662e2c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/04/08 de abr.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "08 de abr"
+            }
+          },
+          {
+            "id": "5205ef43fbc456cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/04/09 de abr.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "09 de abr"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "caedef287bdb55ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6cb38d9065ad73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "127feb30f0d344a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "alto vale",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9cd5142ef14e15c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "42084544d5ed4ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b65787c847caddc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a61152ab58ab4f1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "4703e917362ce502",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for A Sombra do Abismo - A Ascensão do Lich Alhoon"
+            }
+          },
+          {
+            "id": "5683cbde1e3529b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Divergencia custo dos insumos"
+            }
+          },
+          {
+            "id": "c0abc0b256f6b5dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "beeb81c7a08f1615",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Divergencia custo dos insumos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "8dee7d4c115ea4bb",
+  "lastOpenFiles": [
+    "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
+    "Agenda/2025/04/09 de abr.md",
+    "Agenda/2025/04/08 de abr.md",
+    "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
+    "Templates/RPG/Cidade.md",
+    "RPG/Soleia - World/NPCs/Os Alhoons.md",
+    "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
+    "RPG/Soleia - World/Mapa.md",
+    "RPG/Soleia - World/Contos e lendas",
+    "RPG/Soleia - World/Locais/Thundralis.md",
+    "RPG/Soleia - World/Locais/Terramor.md",
+    "RPG/Soleia - World/Locais/Maravina.md",
+    "RPG/Soleia - World/Locais/Lumindor.md",
+    "RPG/Soleia - World/Locais/Aurélia.md",
+    "RPG/Soleia - World/Locais/Aeglíria.md",
+    "RPG/Soleia - World/NPCs/James Zanin.md",
+    "RPG/Soleia - World/Definições básicas do cenário.md",
+    "RPG/Soleia - World/Ideias gerais do mundo.md",
+    "RPG/Soleia - World/Brainstorm.md",
+    "RPG/Soleia - World/Próximos passos.md",
+    "RPG/Soleia - World/Grupos e Facções/Sombras de ébano.md",
+    "RPG/Soleia - World/Grupos e Facções/Cavaleiros Vitanianos.md",
+    "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
+    "RPG/Soleia - World/Aventuras/Carga alarmante para Raventor.md",
+    "Novas notas/Data inválida.md",
+    "Notas não mapeadas.md",
+    "Novas notas",
+    "Agenda/2025/04/07 de abr.md",
+    "Topcon/Tickets/Anexos/Pasted image 20250403154504.png",
+    "Topcon/Tickets/Anexos/Pasted image 20250403085637.png",
+    "Pasted image 20250403153854.png",
+    "Pasted image 20250403152645.png"
+  ]
+}

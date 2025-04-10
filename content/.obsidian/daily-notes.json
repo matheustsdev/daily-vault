@@ -1,0 +1,5 @@
+{
+  "template": "Templates/Daily",
+  "folder": "Agenda/",
+  "format": "YYYY/MM/YYYY-MM-DD"
+}
