@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Soleia - World/Locais/Cidades/Valéria.md",
+                "file": "RPG/Soleia - World/Aventuras/A sombra da flor roubada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valéria"
+              "title": "A sombra da flor roubada"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "5bdad87703bf8310",
   "lastOpenFiles": [
-    "Templates/RPG/Cidade.md",
+    "RPG/Tables/Aventuras.md",
+    "RPG/Soleia - World/Aventuras/A sombra da flor roubada.md",
     "RPG/Soleia - World/Locais/Cidades/Valéria.md",
+    "Templates/RPG/Cidade.md",
     "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
     "Agenda/2025/04/09 de abr.md",
     "Agenda/2025/04/08 de abr.md",
@@ -209,8 +211,6 @@
     "RPG/Soleia - World/Grupos e Facções/Cavaleiros Vitanianos.md",
     "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
     "RPG/Soleia - World/Aventuras/Carga alarmante para Raventor.md",
-    "Novas notas/Data inválida.md",
-    "Notas não mapeadas.md",
     "Novas notas",
     "Topcon/Tickets/Anexos/Pasted image 20250403154504.png",
     "Topcon/Tickets/Anexos/Pasted image 20250403085637.png",
