@@ -1,7 +1,7 @@
 ---
 Local: 
 Descrição: 
-Facção:
+Facção: "[[Seita da sombra da flor]]"
 ---
 
 

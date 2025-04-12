@@ -1,20 +1,17 @@
 ---
-Origem:
+Origem: "[[Floravante]]"
 ---
-
-
 # Premissa
 
-Um artefato alquímico de grande poder, a "Essência da Flor Perene", foi roubado de Aeglíria, mergulhando o reino subterrâneo em uma crise política. Os jogadores são contratados para recuperá-lo, mas descobrem que o roubo faz parte de uma trama maior.
+Um artefato alquímico de grande poder, a "Essência da [[Flor Perene]]", foi roubado de Aeglíria, essa essência foi roubada por uma facção infiltrada no guarda perene. Os soldados do reino conseguiram rastrear uma das vendas e seguiram os compradores até [[Floravante]] onde foram emboscados. Um dos soldados chamado [[Sir Valentin Cristalhar]] um amigo dos aventureiros que já contratou eles algumas vezes foi atacado e está no a beira da morte e pede aos jogadores ajuda para cura-lo e para recuperar a essência.
 
 # Ato 1: O Chamado às Profundezas
 
- A aventura começa na superfície, em uma cidade próxima à entrada para Aeglíria. Uma tempestade incomum cobre a região, com raios intensos e ventos fortes. No meio do caos, um soldado de Aeglíria, visivelmente desesperado e ferido, aborda os jogadores. Ele se apresenta como um membro da guarda real e implora por ajuda, explicando que a Essência da Flor Perene foi roubada e que sua recuperação é crucial para evitar uma guerra civil. A tempestade, segundo ele, é um efeito colateral da instabilidade causada pelo roubo da Essência.
-
+ A aventura começa na superfície, em uma cidade próxima à entrada para [[Aeglíria]]. Uma tempestade incomum cobre a região, com raios intensos e ventos fortes. No meio do caos, um soldado de [[Aeglíria]], visivelmente desesperado e ferido, aborda os jogadores. Ele se apresenta como um membro da guarda real e implora por ajuda, explicando que a Essência da Flor Perene foi roubada e que sua recuperação é crucial para evitar uma guerra civil. A tempestade, segundo ele, é um efeito colateral da instabilidade causada pelo roubo da Essência.
 
 ### Pistas
 
-Após derrotarem os ladrões, os jogadores encontram um mapa rabiscado que indica a localização de um esconderijo mais profundo na caverna, onde a Essência da Flor Perene está supostamente escondida. O mapa também menciona uma figura misteriosa chamada "Sombraquim", que parece estar envolvida no roubo.
+Após derrotarem os ladrões, os jogadores encontram um mapa rabiscado que indica a localização de um esconderijo mais profundo na caverna, onde a Essência da Flor Perene está supostamente escondida. O mapa também menciona uma facção misteriosa: [[Seita da sombra da flor]] , que parece estar envolvida no roubo.
 
 ### Desafios
 
@@ -25,8 +22,6 @@ Após derrotarem os ladrões, os jogadores encontram um mapa rabiscado que indic
 # Ato 2: Os Segredos da Caverna
 
 Ao entrarem no esconderijo, os jogadores se deparam com uma câmara iluminada por cristais luminescentes roubados de Aeglíria. No centro da câmara, há um altar improvisado com símbolos alquímicos complexos. Uma figura encapuzada está realizando um ritual, manipulando a Essência da Flor Perene. A figura se revela como Sombraquim, um alquimista sombrio obcecado em usar a Essência para fins obscuros.
-### Pistas
-Ao derrotarem ou capturarem Sombraquim, os jogadores descobrem um bilhete em seu poder que revela a identidade do verdadeiro mandante do roubo: James Zanin, o mago que busca corrigir as fendas na trama da magia (mencionado no link sobre James Zanin). O bilhete indica que Zanin planeja usar a Essência da Flor Perene para amplificar seus poderes e manipular a realidade.
 
 ### Desafios
 
