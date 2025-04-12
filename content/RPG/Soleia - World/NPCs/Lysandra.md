@@ -7,6 +7,7 @@ Facção: "[[Seita da sombra da flor]]"
 
 
 # Descrição
+![[Pasted image 20250412103622.png]]
 - **Raça:** Humana (Aeglíriana)
 - **Classe:** Alquimista (especializada em alquimia sombrática e botânica)
 - **Tendência:** Neutra e Má

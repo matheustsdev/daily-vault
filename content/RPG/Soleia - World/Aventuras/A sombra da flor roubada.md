@@ -21,14 +21,15 @@ Após derrotarem os ladrões, os jogadores encontram um mapa rabiscado que indic
 
 # Ato 2: Os Segredos da Caverna
 
-Ao entrarem no esconderijo, os jogadores se deparam com uma câmara iluminada por cristais luminescentes roubados de Aeglíria. No centro da câmara, há um altar improvisado com símbolos alquímicos complexos. Uma figura encapuzada está realizando um ritual, manipulando a Essência da Flor Perene. A figura se revela como Sombraquim, um alquimista sombrio obcecado em usar a Essência para fins obscuros.
+Ao entrarem no esconderijo, os jogadores se deparam com uma câmara iluminada por cristais luminescentes roubados de Aeglíria. No centro da câmara, há um altar improvisado com símbolos alquímicos complexos. Uma figura encapuzada está realizando um ritual, manipulando a Essência da Flor Perene. A figura se revela como [[Lysandra]], um alquimista sombrio obcecado em usar a Essência para fins obscuros.
 
 ### Desafios
 
 - **Puzzle:** Para interromper o ritual de [[Lysandra]] e impedir que ela utilize o poder da Essência em um experimento alquímico, os jogadores precisam resolver um puzzle alquímico. O puzzle envolve a manipulação de diferentes cristais luminescentes para ativar um mecanismo que desestabiliza o altar. Os jogadores podem usar seus conhecimentos de alquimia (se tiverem) ou tentar resolver o puzzle por tentativa e erro, enfrentando penalidades a cada erro (como explosões de energia ou invocações de criaturas menores).
 
 	**Cenário:**  
-	 No centro da sala, há um altar com a Essência da Flor Perene. Lysandra está realizando um ritual alquímico para utilizar o poder da Essência, usando vários cristais coloridos dispostos em um círculo ao redor do altar. Cada cristal emite uma cor diferente: azul, verde, vermelho e púrpura.
+	 No centro da caverna, há um altar com a Essência da Flor Perene. Lysandra está realizando um ritual alquímico para utilizar o poder da Essência, usando vários cristais coloridos dispostos em um círculo ao redor do altar. Cada cristal emite uma cor diferente: azul, verde, vermelho e púrpura.
+	![[Pasted image 20250412104913.png]]
 	
 	**Objetivo do Puzzle:**  
 	Os jogadores precisam interromper o ritual antes que Lysandra possa completá-lo. Para isso, eles devem desativar os cristais em sequência correta, desestabilizando o ritual e tornando-o inseguro para Lysandra continuar.
@@ -56,3 +57,22 @@ Ao entrarem no esconderijo, os jogadores se deparam com uma câmara iluminada po
 	- Se ativarem na ordem correta, o ritual é interrompido, e Lysandra fica temporariamente desorientado, dando aos jogadores vantagem no combate subsequente.
 	
 - **Interpretação/Combate:** Após interromperem o ritual, Lysandra tenta fugir com a Essência da Flor Perene. Os jogadores podem tentar persuadi-lo a desistir, revelando que ele está sendo manipulado por uma força maior, ou podem confrontá-lo em combate. Lysandra é um oponente poderoso.
+
+# Imagem dos jogadores
+
+Elfo patrulheiro/guerreiro
+![[Pasted image 20250412104805.png]]
+
+Anão clérigo
+![[Pasted image 20250412105307.png]]
+
+Humano barbaro
+![[Pasted image 20250412105453.png]]
+
+Meio elfo guerreiro
+
+![[Pasted image 20250412110427.png]]
+
+Humano mago
+
+![[Pasted image 20250412111411.png]]
