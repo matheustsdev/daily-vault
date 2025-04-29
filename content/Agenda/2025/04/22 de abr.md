@@ -1,0 +1,8 @@
+- [ ] Criar o resumo de ontem
+- [ ] Ler e escrever um resumo de algo
+- [ ] Rose Noivas App
+	- [x] Criar o modal de adição de produto funcional
+	- [ ] Ajustar página principal
+- [ ] Buscaaii app
+	- [ ] Iniciar nova tarefa
+- [x] Volei

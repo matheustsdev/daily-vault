@@ -1,0 +1,7 @@
+- [x] Criar o resumo de ontem
+- [ ] Ler e escrever um resumo de algo
+- [ ] Rose Noivas App
+	- [ ] Ajustar página principal
+- [ ] Buscaaii app
+	- [x] Ajustar tela principal
+	- [x] Iniciar outra
