@@ -1,0 +1,1 @@
+Um local repleto de armas fincadas no chão, em memória aos guerreiros que um dia lá morreram.

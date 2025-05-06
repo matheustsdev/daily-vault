@@ -4,37 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2512332b1e512a",
+        "id": "c4fea57690e76f58",
         "type": "tabs",
         "children": [
           {
-            "id": "36bf237a05142d43",
+            "id": "7b9495f16ddb8d82",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
+                "file": "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument"
+              "title": "Bloqueio Expedir Remessa após Redosagem"
             }
           },
           {
-            "id": "8dee7d4c115ea4bb",
+            "id": "d7038f121bb200f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Topcon/Ticket.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ticket"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,39 +51,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37e295b646662e2c",
+            "id": "2857738a48c599ee",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/04/08 de abr.md",
+                "file": "Agenda/2025/05/06 de mai.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "08 de abr"
-            }
-          },
-          {
-            "id": "5205ef43fbc456cd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/04/09 de abr.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09 de abr"
+              "title": "06 de mai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "caedef287bdb55ee",
@@ -234,10 +220,27 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8dee7d4c115ea4bb",
+  "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
+    "Novas notas/O registro arcano.md",
+    "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
+    "Novas notas/O jardim dos caídos.md",
+    "Templates/Topcon/Ticket.md",
+    "Agenda/2025/05/06 de mai.md",
+    "Topcon/Tickets/Programação recorrente datas.md",
+    "Agenda/2025/05/05 de mai.md",
+    "Templates/Topcon/Tarefa.md",
     "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
+    "Agenda/2025/05/02 de mai.md",
+    "Topcon/Tickets/Lentidão no site a cada atualização.md",
+    "Topcon/Tickets/Anexos/Pasted image 20250502153328.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502104040.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502103225.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502102538.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502101225.png",
+    "Topcon/Tarefas/Anexos",
     "Agenda/2025/04/09 de abr.md",
+    "Agenda/2025/05",
     "Agenda/2025/04/08 de abr.md",
     "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
     "Templates/RPG/Cidade.md",
@@ -253,17 +256,7 @@
     "RPG/Soleia - World/Locais/Aeglíria.md",
     "RPG/Soleia - World/NPCs/James Zanin.md",
     "RPG/Soleia - World/Definições básicas do cenário.md",
-    "RPG/Soleia - World/Ideias gerais do mundo.md",
-    "RPG/Soleia - World/Brainstorm.md",
-    "RPG/Soleia - World/Próximos passos.md",
-    "RPG/Soleia - World/Grupos e Facções/Sombras de ébano.md",
-    "RPG/Soleia - World/Grupos e Facções/Cavaleiros Vitanianos.md",
-    "RPG/Soleia - World/Items/Materiais/Flor Perene.md",
-    "RPG/Soleia - World/Aventuras/Carga alarmante para Raventor.md",
-    "Novas notas/Data inválida.md",
-    "Notas não mapeadas.md",
     "Novas notas",
-    "Agenda/2025/04/07 de abr.md",
     "Topcon/Tickets/Anexos/Pasted image 20250403154504.png",
     "Topcon/Tickets/Anexos/Pasted image 20250403085637.png",
     "Pasted image 20250403153854.png",

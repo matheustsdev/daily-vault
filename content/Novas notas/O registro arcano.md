@@ -1,0 +1,1 @@
+O registro arcano é uma espécie de documento que registra todos os arcanistas que nascem ou entram em [[Thundralis]]

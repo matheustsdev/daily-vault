@@ -12,6 +12,14 @@ Data de fim:
 - [ ]  Tarefa (tempo estimado)
 - [ ]  Tarefa (tempo estimado)
 - [ ]  Tarefa (tempo estimado) 
+
+# Casos de teste
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+
 <%* 
 await tp.file.move("Topcon/Tarefas/Nova tarefa");
 %>
