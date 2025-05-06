@@ -1,0 +1,6 @@
+- [x] Reunião com time Buscaaii sobre prompt 
+- [x] Testar mais o prompt de análises
+- [ ] Nivel 30 na smurf: faltou uma partida
+- [ ] Menu de navegação rose noivas
+- [ ] Lógica de "alugado" ao adicionar aluguel no app rose noivas
+- [ ] Estudar

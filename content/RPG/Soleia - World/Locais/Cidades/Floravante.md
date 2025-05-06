@@ -1,6 +1,6 @@
 ---
 Tipo: Cidade
-Estado:
+Estado: "[[Aeglíria]]"
 ---
 # Visão Geral:
 
@@ -67,8 +67,4 @@ TABLE Descrição FROM "Soleia - World/NPCs"
 WHERE Local = [[]]
 ```
 
-<% await tp.file.move("/RPG/Soleia - World/Locais/Cidades/" + tp.file.title) %>
-<%*
-const title = await tp.system.prompt("Título");
-await tp.file.rename(title);
-%>
+

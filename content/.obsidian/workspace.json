@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "082bd305e9d3aab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "d7038f121bb200f4",
             "type": "leaf",
             "state": {
@@ -37,7 +51,8 @@
               "title": "Ticket"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,10 +235,37 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8a61152ab58ab4f1",
+  "active": "082bd305e9d3aab4",
   "lastOpenFiles": [
-    "Novas notas/O registro arcano.md",
     "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
+    "conflict-files-obsidian-git.md",
+    "Utilidades/Prompts/Gerador de prompts.md",
+    "Utilidades/Prompts",
+    "Utilidades",
+    "Templates/Estudo diário.md",
+    "RPG/Soleia - World/NPCs/Sir Valentin Cristalhar.md",
+    "RPG/Soleia - World/NPCs/Lysandra.md",
+    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250412103622.png",
+    "RPG/Soleia - World/Locais/Cidades/Valéria.md",
+    "RPG/Soleia - World/Locais/Cidades/Floravante.md",
+    "RPG/Soleia - World/Grupos e Facções/Seita da sombra da flor.md",
+    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412111411.png",
+    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412110427.png",
+    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412105453.png",
+    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412105307.png",
+    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412104913.png",
+    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412104805.png",
+    "RPG/Soleia - World/Aventuras/Anexos",
+    "RPG/Soleia - World/Aventuras/A sombra da flor roubada.md",
+    "Estudo/Inovação e desenvolvimento de produtos.md",
+    "Estudo/Como 60 minutos podem mudar sua vida.md",
+    "Estudo/Armazenamento seguro de senhas.md",
+    "Agenda/2025/05/01 de mai.md",
+    "Agenda/2025/04/30 de abr.md",
+    "Agenda/2025/04/29 de abr.md",
+    "Agenda/2025/04/23 de abr.md",
+    "Agenda/2025/04/22 de abr.md",
+    "Novas notas/O registro arcano.md",
     "Novas notas/O jardim dos caídos.md",
     "Templates/Topcon/Ticket.md",
     "Agenda/2025/05/06 de mai.md",
@@ -231,35 +273,12 @@
     "Agenda/2025/05/05 de mai.md",
     "Templates/Topcon/Tarefa.md",
     "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
-    "Agenda/2025/05/02 de mai.md",
-    "Topcon/Tickets/Lentidão no site a cada atualização.md",
     "Topcon/Tickets/Anexos/Pasted image 20250502153328.png",
     "Topcon/Tarefas/Anexos/Pasted image 20250502104040.png",
     "Topcon/Tarefas/Anexos/Pasted image 20250502103225.png",
-    "Topcon/Tarefas/Anexos/Pasted image 20250502102538.png",
-    "Topcon/Tarefas/Anexos/Pasted image 20250502101225.png",
     "Topcon/Tarefas/Anexos",
-    "Agenda/2025/04/09 de abr.md",
     "Agenda/2025/05",
-    "Agenda/2025/04/08 de abr.md",
-    "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
-    "Templates/RPG/Cidade.md",
-    "RPG/Soleia - World/NPCs/Os Alhoons.md",
-    "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
-    "RPG/Soleia - World/Mapa.md",
     "RPG/Soleia - World/Contos e lendas",
-    "RPG/Soleia - World/Locais/Thundralis.md",
-    "RPG/Soleia - World/Locais/Terramor.md",
-    "RPG/Soleia - World/Locais/Maravina.md",
-    "RPG/Soleia - World/Locais/Lumindor.md",
-    "RPG/Soleia - World/Locais/Aurélia.md",
-    "RPG/Soleia - World/Locais/Aeglíria.md",
-    "RPG/Soleia - World/NPCs/James Zanin.md",
-    "RPG/Soleia - World/Definições básicas do cenário.md",
-    "Novas notas",
-    "Topcon/Tickets/Anexos/Pasted image 20250403154504.png",
-    "Topcon/Tickets/Anexos/Pasted image 20250403085637.png",
-    "Pasted image 20250403153854.png",
-    "Pasted image 20250403152645.png"
+    "Novas notas"
   ]
 }

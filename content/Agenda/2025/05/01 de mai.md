@@ -1,0 +1,9 @@
+
+- [x] Nivel 30 na smurf: faltou uma partida
+- [ ] Menu de navegação rose noivas
+- [ ] Lógica de "alugado" ao adicionar aluguel no app rose noivas
+- [ ] Estudar
+- [ ] Jantar no Floresta
+- [ ] Teste inicial de leitura de PDF no Buscaaii
+
+
