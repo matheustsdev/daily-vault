@@ -32,16 +32,14 @@ Correção no frontend para não considerar o volume de load tickets que possuem
 ### Solução 2
 Correção no backend para validar corretamente quais entregas e o volume total que deve ser preservado.
 
-## Problema 4: retorno de step ao gerar erro de formulário
+## ✅ Problema 4: retorno de step ao gerar erro de formulário
 
-Está voltando a aba na edição de programação, quando falha a validação do yup na aba de entrega e é feito a tentativa de passar de etapa, ele volta pra aba de traço, logo não dá pra ver o que tá de errado, pois ao voltar pra aba de entrega limpa as validações  
+Está voltando a aba na edição de programação, quando falha a validação do yup na aba de entrega e é feito a tentativa de passar de etapa, ele volta pra aba de traço, logo não dá pra ver o que tá de errado, pois ao voltar pra aba de entrega limpa as validações.
+
+O erro se deu pois na atualização utilizamos a propriedade invisible para ocultar a step de contrato. A validação não considerava os steps invisiveis, filtrando-os, porém isso gerava uma inconsistência na atualização da step pois no caso da atualização da programação caso um erro ocorresse na step 3 (index 2) era retornado que a step do erro era o index 1 (pois filtrou a step do contrato que está invisível) mas a step atual é atualizada com base em todas as steps e não só as visíveis.
 
 ### Solução 1
-
-
-
-### Solução 2
-
+Adição de um mapeamento dos steps filtrados e não filtrados para retornar o index correto
 
 # Casos de teste
 
@@ -102,19 +100,32 @@ Está voltando a aba na edição de programação, quando falha a validação do
 - **Status:** ✅ PASSOU
 - **Observações:** 
 
-## ✅❌ Caso 2: nome do teste
+## ✅ Caso 6: Erro na step de entrega não retornar step na atualização de programação
 
 - **Pré-condições:**
-    - 
-    - 
-    - 
+    - Uma programação cadastrada com mais de uma entrega
+    - Possuir uma entrega com nota emitida
 - **Passos do Teste:**
-    1. 
-    2. 
-    3. 
-- **Resultado Esperado:** 
-- **Status:** ✅ PASSOU | ❌ FALHOU
-- **Observações:** (A ser preenchido se necessário)
+    1. Clicar no botão "Editar" na programação no Gantt
+    2. Pular para o step de entregas
+    3. Informar um volume inferior ao já emitido no campo volume
+    4. Clicar no botão da seta para a direita (próximo step)
+- **Resultado Esperado:** É esperado que seja exibido um erro e que não seja alterado o step visualizado atual
+- **Status:** ✅ PASSOU
+- **Observações:** 
+
+## ✅ Caso 7: Erro na step de entrega não retornar step na inserção de programação
+
+- **Pré-condições:**
+	- 
+- **Passos do Teste:**
+    1. Clicar no botão "+" no canto inferior direito em seguida no botão "Incluir programação"
+    2. Preencher os campos adequadamente até o de entrega
+    3. Informar um volume superior ao disponível para o traço
+    4. Clicar no botão da seta para a direita (próximo step)
+- **Resultado Esperado:** É esperado que seja exibido um erro e que não seja alterado o step visualizado atual
+- **Status:** ✅ PASSOU
+- **Observações:** 
 
 ## ✅❌ Caso 2: nome do teste
 

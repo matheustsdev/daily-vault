@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "42084544d5ed4ab4",
@@ -206,7 +207,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7b9495f16ddb8d82",
+  "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
     "Agenda/2025/05/07 de mai.md",
     "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
