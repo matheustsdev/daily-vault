@@ -23,16 +23,14 @@ A validação que não permiti expedição fora da sequencia, está de forma que
 ### Solução 1
 Foi ajustado a validação do valor da sequência da próxima entrega que deveria ser expedida, ignorando entregas canceladas.
 
-## Problema 3: volume ao editar programação com redosagem
+## ✅ Problema 3: volume ao editar programação com redosagem
 
 E está considerando o saldo de redosagem, para colocar o mínimo no valor de entrega da programação.
 
 ### Solução 1
-
-
-
+Correção no frontend para não considerar o volume de load tickets que possuem um reuso do tipo redosagem e esteja utilizado
 ### Solução 2
-
+Correção no backend para validar corretamente quais entregas e o volume total que deve ser preservado.
 
 ## Problema 4: retorno de step ao gerar erro de formulário
 
@@ -79,10 +77,10 @@ Está voltando a aba na edição de programação, quando falha a validação do
 - **Status:** ✅ PASSOU
 - **Observações:**
 
-## ❌ Caso 4: Editar volume da programação com redosagem para um volume inferior ao somatório da redosagem
+## ✅ Caso 4: Editar volume da programação com redosagem para um volume inferior ao somatório da redosagem
 
 - **Pré-condições:**
-    - 1 programação com pelo menos uma viagem
+    - 1 programação com pelo menos 2 viagens
 - **Passos do Teste:**
     1. Gerar um load ticket em uma entrega
     2. Fechar a aba da expedição
@@ -90,10 +88,10 @@ Está voltando a aba na edição de programação, quando falha a validação do
     4. Clicar na programação para edita-la
     5. Alterar o volume programado para um volume que respeite: volume de remessas emitidas > volume inserido < volume de remessas emitidas + volume da redosagem
 - **Resultado Esperado:** O sistema não deve bloquear a edição da programação para este volume e atualizar corretamente a programação
-- **Status:** ❌ FALHOU
-- **Observações:** As entregas não foram criadas corretamente
+- **Status:** ✅ PASSOU
+- **Observações:** Após primeiro teste houve um problema na criação das entregas devido um erro na validação de entregas à preservar para redosagem.
 
-## ✅❌ Caso 5: Editar volume da programação sem redosagem
+## ✅ Caso 5: Editar volume da programação sem redosagem
 
 - **Pré-condições:**
     - 1 programação com pelo menos uma viagem
@@ -101,8 +99,8 @@ Está voltando a aba na edição de programação, quando falha a validação do
     1. Clicar na programação para edita-la
     2. Alterar o volume programado
 - **Resultado Esperado:** O sistema deve alterar corretamente o volume da programação
-- **Status:** ✅ PASSOU | ❌ FALHOU
-- **Observações:** (A ser preenchido se necessário)
+- **Status:** ✅ PASSOU
+- **Observações:** 
 
 ## ✅❌ Caso 2: nome do teste
 
