@@ -34,7 +34,7 @@ Correção no backend para validar corretamente quais entregas e o volume total 
 
 ## Problema 4: retorno de step ao gerar erro de formulário
 
-Está voltando a aba na edição de programação, quando falha a validação do yup na aba de entrega (ele volta pra aba de traço), logo não dá pra ver o que tá de errado, pois ao voltar pra aba de entrega limpa as validações  
+Está voltando a aba na edição de programação, quando falha a validação do yup na aba de entrega e é feito a tentativa de passar de etapa, ele volta pra aba de traço, logo não dá pra ver o que tá de errado, pois ao voltar pra aba de entrega limpa as validações  
 
 ### Solução 1
 
