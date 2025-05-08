@@ -1,11 +1,11 @@
 ---
 Ticket: 500156
-Status: Em análise
+Status: Concluído
 Data de início: 2025-05-06
-Data de fim:
+Data de fim: 2025-05-08
 ---
 # Problemas
-## Problema 1: alteração de status ao redosar
+## ✅Problema 1: alteração de status ao redosar
 
 Status fica como enviado pra automação, se emitir a redosagem após a emissão da nota (não necessariamente tá errado, tem que confirmar se vai ser assim) 
 
@@ -126,6 +126,34 @@ Adição de um mapeamento dos steps filtrados e não filtrados para retornar o i
 - **Resultado Esperado:** É esperado que seja exibido um erro e que não seja alterado o step visualizado atual
 - **Status:** ✅ PASSOU
 - **Observações:** 
+
+## ✅❌ Caso 2: redosar remessa já emitida não deve alterar o status
+
+- **Pré-condições:**
+    - 
+    - 
+    - 
+- **Passos do Teste:**
+    1. 
+    2. 
+    3. 
+- **Resultado Esperado:** 
+- **Status:** ✅ PASSOU | ❌ FALHOU
+- **Observações:** (A ser preenchido se necessário)
+
+## ✅❌ Caso 2: nome do teste
+
+- **Pré-condições:**
+    - 
+    - 
+    - 
+- **Passos do Teste:**
+    1. 
+    2. 
+    3. 
+- **Resultado Esperado:** 
+- **Status:** ✅ PASSOU | ❌ FALHOU
+- **Observações:** (A ser preenchido se necessário)
 
 ## ✅❌ Caso 2: nome do teste
 
