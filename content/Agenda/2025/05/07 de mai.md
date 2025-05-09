@@ -1,4 +1,4 @@
 
-- [ ] Ticket [[Bloqueio Expedir Remessa após Redosagem]]
+- [x] Ticket [[Bloqueio Expedir Remessa após Redosagem]]
 - [ ] Estudo (30min)
 - [ ] 
