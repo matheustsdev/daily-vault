@@ -22,20 +22,6 @@
               "icon": "lucide-file",
               "title": "Remessas - Valor venda zerado"
             }
-          },
-          {
-            "id": "46b3627a8b315bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Divergencia custo dos insumos"
-            }
           }
         ]
       }
@@ -65,8 +51,25 @@
               "icon": "lucide-file",
               "title": "09 de mai"
             }
+          },
+          {
+            "id": "a3cf394fe1306bff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/05/12 de mai.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "12 de mai"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "caedef287bdb55ee",
@@ -223,8 +226,9 @@
   "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
     "Topcon/Tickets/Remessas - Valor venda zerado.md",
-    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Agenda/2025/05/12 de mai.md",
     "Agenda/2025/05/09 de mai.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
     "Topcon/Helper.md",
     "Agenda/2025/05/07 de mai.md",
@@ -257,7 +261,6 @@
     "Agenda/2025/04/29 de abr.md",
     "Agenda/2025/04/23 de abr.md",
     "Agenda/2025/04/22 de abr.md",
-    "Novas notas/O registro arcano.md",
     "Topcon/Tickets/Anexos/Pasted image 20250502153328.png",
     "Topcon/Tarefas/Anexos/Pasted image 20250502104040.png",
     "Topcon/Tarefas/Anexos/Pasted image 20250502103225.png",
