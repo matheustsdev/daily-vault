@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fea57690e76f58",
+        "id": "7a9ba9e1a85bdbba",
         "type": "tabs",
         "children": [
           {
-            "id": "63e750ffb95dd23b",
+            "id": "de51ae0bc0d8b17b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Remessas - Valor venda zerado.md",
+                "file": "Topcon/Tickets/Erro ao concluir programação ambiente de homologação NEwDispatch - Concreserv.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Remessas - Valor venda zerado"
+              "title": "Erro ao concluir programação ambiente de homologação NEwDispatch - Concreserv"
             }
           }
         ]
@@ -37,22 +35,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "267d9c56a65283ea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/05/09 de mai.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09 de mai"
-            }
-          },
-          {
             "id": "a3cf394fe1306bff",
             "type": "leaf",
             "pinned": true,
@@ -66,6 +48,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "12 de mai"
+            }
+          },
+          {
+            "id": "1eeaa40258a67624",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/05/13 de mai.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "13 de mai"
             }
           }
         ],
@@ -223,10 +221,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8a61152ab58ab4f1",
+  "active": "1eeaa40258a67624",
   "lastOpenFiles": [
-    "Topcon/Tickets/Remessas - Valor venda zerado.md",
+    "Topcon/Tickets/Erro ao concluir programação ambiente de homologação NEwDispatch - Concreserv.md",
+    "Agenda/2025/05/13 de mai.md",
     "Agenda/2025/05/12 de mai.md",
+    "Topcon/Tickets/Remessas - Valor venda zerado.md",
     "Agenda/2025/05/09 de mai.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
@@ -259,8 +259,6 @@
     "Agenda/2025/05/01 de mai.md",
     "Agenda/2025/04/30 de abr.md",
     "Agenda/2025/04/29 de abr.md",
-    "Agenda/2025/04/23 de abr.md",
-    "Agenda/2025/04/22 de abr.md",
     "Topcon/Tickets/Anexos/Pasted image 20250502153328.png",
     "Topcon/Tarefas/Anexos/Pasted image 20250502104040.png",
     "Topcon/Tarefas/Anexos/Pasted image 20250502103225.png",
