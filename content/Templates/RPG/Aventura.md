@@ -6,21 +6,15 @@ Origem:
 const title = await tp.system.prompt("Título");
 await tp.file.rename(title);
 %>
-# Brainstorm
-
-
-
-
-# Sinopse
+# Premissa
 
 
 # Ato 1
-
+Uma breve descrição do ato
 
 
 ## Cena 1
-
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
@@ -28,29 +22,31 @@ await tp.file.rename(title);
 -  
 
 ### Desafios
-
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 ## Cena 2
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
-### Desafios
 
+### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 ## Cena 3
-
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
+
 ### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 
@@ -64,39 +60,43 @@ await tp.file.rename(title);
 
 
 # Ato 2
-
+Uma breve descrição do ato
 
 
 ## Cena 1
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
-### Desafios
 
+### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 ## Cena 2
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
-### Desafios
 
+### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 ## Cena 3
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
+
 ### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 
@@ -109,39 +109,43 @@ await tp.file.rename(title);
 -  
 
 # Ato 3
-
+Uma breve descrição do ato
 
 
 ## Cena 1
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
-### Desafios
 
+### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 ## Cena 2
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
-### Desafios
 
+### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 ## Cena 3
-
+Uma breve descrição da cena
 
 ### Pistas
 - 
 - 
 -  
+
 ### Desafios
+Os desafios aqui citados devem ser bem definidos e claros
 
 
 
@@ -152,4 +156,5 @@ await tp.file.rename(title);
 - 
 - 
 -  
+
 

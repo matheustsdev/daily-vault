@@ -1,7 +1,7 @@
 - [ ] Estudo (30 min)
 - [ ] Ticket [[Erro ao concluir programação ambiente de homologação NEwDispatch - Concreserv]]
-- [ ] Criar card SS Vinculo de pesagem de redosagem
-- [ ] Criar card SS Erro automação Joinville supremo
+- [x] Criar card SS Vinculo de pesagem de redosagem
+- [x] Criar card SS Erro automação Joinville supremo
 - [ ] Criar card SS Erro de programação sem produto
 - [ ] Criar card SS Erro ao reaproveitar
 - [ ] SS Saldo de produto ao programar

@@ -42,6 +42,42 @@ SET sale_price_per_volume = sub.sales_value
 FROM sub_query sub
 WHERE rdtc.id_delivery_ticket_concrete = sub.id_delivery_ticket_concrete;
 
+
+--- Recalculate sale value of delivery tax document item
+WITH sub_query AS (
+	SELECT rdtdi.id_delivery_tax_document_item, rdtc.sale_price_per_volume AS unit_price, rdtc.sale_price_per_volume * rd.volume AS total_value, rdtd.document_number, rsfd.code, rm.service_related_percentage FROM reg_delivery_ticket_concretes rdtc
+	INNER JOIN reg_delivery_tickets rdt ON rdt.id_delivery_ticket = rdtc.id_delivery_ticket_fk
+	INNER JOIN reg_schedules rs ON rs.id_schedule = rdt.id_scheduling_fk
+	INNER JOIN reg_delivery_tax_documents rdtd ON rdtd.id_scheduling_fk = rs.id_schedule
+	INNER JOIN reg_delivery_tax_document_items rdtdi ON rdtdi.id_delivery_tax_document_fk = rdtd.id_delivery_tax_document
+	INNER JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk AND rsfd.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52'
+	INNER JOIN reg_municipalities rm ON rm.id_municipality = rsfd.id_municipality_fk AND rm.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52'
+	INNER JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
+	WHERE rs.code IN (14636, 14642, 14690)
+)
+UPDATE reg_delivery_tax_document_items rdtdi
+SET unit_price = sub.unit_price,
+total_value = sub.total_value
+FROM sub_query sub
+WHERE rdtdi.id_delivery_tax_document_item = sub.id_delivery_tax_document_item;
+
+
+--- Recalculate materials value of delivery tax document
+WITH sub_query AS (
+	SELECT rdtd.id_delivery_tax_document, rdtd.materials_value, rdtdi.total_value, rdtdi.unit_price, rsfd.code FROM reg_delivery_ticket_concretes rdtc
+	INNER JOIN reg_delivery_tickets rdt ON rdt.id_delivery_ticket = rdtc.id_delivery_ticket_fk
+	INNER JOIN reg_schedules rs ON rs.id_schedule = rdt.id_scheduling_fk
+	INNER JOIN reg_delivery_tax_documents rdtd ON rdtd.id_scheduling_fk = rs.id_schedule
+	INNER JOIN reg_delivery_tax_document_items rdtdi ON rdtdi.id_delivery_tax_document_fk = rdtd.id_delivery_tax_document
+	INNER JOIN reg_subsidiaries_fiscal_data rsfd ON rsfd.id_subsidiary_fiscal_data = rdtd.id_subsidiary_fiscal_data_fk AND rsfd.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52'
+	INNER JOIN reg_municipalities rm ON rm.id_municipality = rsfd.id_municipality_fk AND rm.id_tenant = '8d4b8d26-c6dd-4270-baff-840d11fc1c52'
+	INNER JOIN reg_deliveries rd ON rd.id_delivery = rdt.id_delivery_fk
+	WHERE rs.code IN (14636, 14642, 14690)
+)
+UPDATE reg_delivery_tax_documents rdtd
+SET materials_value = sub.total_value
+FROM sub_query sub
+WHERE rdtd.id_delivery_tax_document = sub.id_delivery_tax_document;
 ```
 
 # Casos de teste 
