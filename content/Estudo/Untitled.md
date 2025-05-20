@@ -1,5 +1,0 @@
----
-Tipo de estudo: 
-Fonte:
----
-
