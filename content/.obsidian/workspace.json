@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "efd4a36b4a204ce0",
+        "id": "60914ae73b2cace0",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb5cdfd52fde400",
+            "id": "a9ba377724ba148f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/13487 - Traços inativos disponíveis para carregamento.md",
+                "file": "Estudo/Untitled.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "13487 - Traços inativos disponíveis para carregamento"
+              "title": "Untitled"
             }
           }
         ]
@@ -33,43 +31,26 @@
     "type": "split",
     "children": [
       {
-        "id": "6aff5316d044a20d",
+        "id": "b93c8f367dd44fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "e671af0fa5a1d609",
+            "id": "1fddcf6d56121905",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/05/16 de mai.md",
+                "file": "Agenda/2025/05/01 de mai.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "16 de mai"
-            }
-          },
-          {
-            "id": "8957f9fd73a78883",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/05/19 de mai.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "19 de mai"
+              "title": "01 de mai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "caedef287bdb55ee",
@@ -212,7 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -220,52 +200,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cb5cdfd52fde400",
+  "active": "a9ba377724ba148f",
   "lastOpenFiles": [
-    "Agenda/2025/05/19 de mai.md",
-    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
+    "Estudo/Untitled.md",
     "Topcon/Tickets/13487 - Traços inativos disponíveis para carregamento.md",
-    "Agenda/2025/05/16 de mai.md",
+    "Agenda/2025/05/19 de mai.md",
+    "Topcon/Tickets/Saldo Divergente Entre o TopconCRM e o TopconDispatch.md",
+    "Topcon/Tickets/Remessas - Valor venda zerado.md",
+    "Topcon/Tickets/Programação recorrente datas.md",
+    "Topcon/Tickets/Lentidão no site a cada atualização.md",
     "Topcon/Tickets/Erro ao editar programação.md",
-    "Novas notas/O jardim dos caídos.md",
-    "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
-    "Novas notas/O registro arcano.md",
+    "Topcon/Tickets/Erro ao concluir programação ambiente de homologação NEwDispatch - Concreserv.md",
+    "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
+    "Topcon/Tickets/Anexos/Pasted image 20250502153328.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502104040.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502103225.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502102538.png",
+    "Topcon/Tarefas/Anexos/Pasted image 20250502101225.png",
+    "Topcon/Tarefas/Anexos",
     "RPG/Soleia - World/Aventuras/Última lágrima.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516165658.png",
-    "Topcon/Tickets/Saldo Divergente Entre o TopconCRM e o TopconDispatch.md",
-    "RPG/Soleia - World/Locais/Cidades/Valéria.md",
-    "Templates/RPG/Aventura.md",
-    "RPG/Soleia - World/Aventuras/A sombra da flor roubada.md",
-    "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
-    "RPG/Soleia - World/NPCs/James Zanin.md",
-    "RPG/Soleia - World/NPCs/Lira Draven.md",
-    "RPG/Soleia - World/NPCs/Lysandra.md",
-    "RPG/Soleia - World/NPCs/Rei das Flores.md",
-    "RPG/Soleia - World/NPCs/Os Alhoons.md",
-    "RPG/Soleia - World/NPCs/Melantha Voss.md",
-    "RPG/Soleia - World/NPCs/Évora Lenwood.md",
-    "RPG/Soleia - World/NPCs/Eldrin Stormvein.md",
-    "RPG/Soleia - World/NPCs/Elara Thorne.md",
-    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250412103622.png",
-    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
-    "RPG/Soleia - World/Locais/Cidades/Raventor.md",
-    "RPG/Soleia - World/Locais/Cidades/Raioguarda.md",
-    "RPG/Soleia - World/Locais/Cidades/Porto Lysander.md",
+    "Novas notas/O registro arcano.md",
+    "Novas notas/O jardim dos caídos.md",
+    "Agenda/2025/05/16 de mai.md",
+    "Agenda/2025/05/14 de mai.md",
+    "Agenda/2025/05/13 de mai.md",
+    "Agenda/2025/05/12 de mai.md",
+    "Agenda/2025/05/09 de mai.md",
+    "Agenda/2025/05/07 de mai.md",
+    "Agenda/2025/05/06 de mai.md",
+    "Agenda/2025/05/05 de mai.md",
+    "Agenda/2025/05/02 de mai.md",
+    "Agenda/2025/05/01 de mai.md",
+    "Agenda/2025/04/30 de abr.md",
+    "Agenda/2025/05",
+    "Utilidades/Prompts/Gerador de prompts.md",
+    "Agenda/2025/04/29 de abr.md",
     "Utilidades/Prompts",
     "Utilidades",
+    "Estudo/Faculdade",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412111411.png",
-    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412110427.png",
-    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412105453.png",
-    "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250412105307.png",
     "RPG/Soleia - World/Aventuras/Anexos",
-    "Topcon/Tarefas/Anexos",
-    "Agenda/2025/05",
     "RPG/Soleia - World/Contos e lendas",
     "Novas notas"
   ]
