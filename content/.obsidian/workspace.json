@@ -33,21 +33,34 @@
       {
         "id": "b93c8f367dd44fe4",
         "type": "tabs",
+        "dimension": 50.16155088852988,
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "1fddcf6d56121905",
+=======
+            "id": "5bcef4a3f3990f6f",
+>>>>>>> Stashed changes
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Agenda/2025/05/01 de mai.md",
+=======
+                "file": "Agenda/2025/05/20 de mai.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "01 de mai"
+=======
+              "title": "20 de mai"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -55,6 +68,7 @@
       {
         "id": "caedef287bdb55ee",
         "type": "tabs",
+        "dimension": 49.83844911147011,
         "children": [
           {
             "id": "1e6cb38d9065ad73",
@@ -204,6 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< Updated upstream
   "active": "a9ba377724ba148f",
   "lastOpenFiles": [
     "Estudo/Untitled.md",
@@ -213,6 +228,15 @@
     "Topcon/Tickets/Remessas - Valor venda zerado.md",
     "Topcon/Tickets/Programação recorrente datas.md",
     "Topcon/Tickets/Lentidão no site a cada atualização.md",
+=======
+  "active": "5bcef4a3f3990f6f",
+  "lastOpenFiles": [
+    "Topcon/Tickets/13487 - Traços inativos disponíveis para carregamento.md",
+    "Agenda/2025/05/20 de mai.md",
+    "Agenda/2025/05/19 de mai.md",
+    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
+    "Agenda/2025/05/16 de mai.md",
+>>>>>>> Stashed changes
     "Topcon/Tickets/Erro ao editar programação.md",
     "Topcon/Tickets/Erro ao concluir programação ambiente de homologação NEwDispatch - Concreserv.md",
     "Topcon/Tickets/Bloqueio Expedir Remessa após Redosagem.md",
@@ -227,6 +251,7 @@
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516165658.png",
+<<<<<<< Updated upstream
     "Novas notas/O registro arcano.md",
     "Novas notas/O jardim dos caídos.md",
     "Agenda/2025/05/16 de mai.md",
@@ -243,6 +268,26 @@
     "Agenda/2025/05",
     "Utilidades/Prompts/Gerador de prompts.md",
     "Agenda/2025/04/29 de abr.md",
+=======
+    "Topcon/Tickets/Saldo Divergente Entre o TopconCRM e o TopconDispatch.md",
+    "RPG/Soleia - World/Locais/Cidades/Valéria.md",
+    "Templates/RPG/Aventura.md",
+    "RPG/Soleia - World/Aventuras/A sombra da flor roubada.md",
+    "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
+    "RPG/Soleia - World/NPCs/James Zanin.md",
+    "RPG/Soleia - World/NPCs/Lira Draven.md",
+    "RPG/Soleia - World/NPCs/Lysandra.md",
+    "RPG/Soleia - World/NPCs/Rei das Flores.md",
+    "RPG/Soleia - World/NPCs/Os Alhoons.md",
+    "RPG/Soleia - World/NPCs/Melantha Voss.md",
+    "RPG/Soleia - World/NPCs/Évora Lenwood.md",
+    "RPG/Soleia - World/NPCs/Eldrin Stormvein.md",
+    "RPG/Soleia - World/NPCs/Elara Thorne.md",
+    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250412103622.png",
+    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
+    "RPG/Soleia - World/Locais/Cidades/Raventor.md",
+    "RPG/Soleia - World/Locais/Cidades/Raioguarda.md",
+>>>>>>> Stashed changes
     "Utilidades/Prompts",
     "Utilidades",
     "Estudo/Faculdade",

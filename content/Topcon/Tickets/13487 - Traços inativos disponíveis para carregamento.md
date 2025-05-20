@@ -1,6 +1,6 @@
 ---
 Ticket: 500154
-Status: Em análise
+Status: Pendente
 Data de início: 2025-05-16
 Data de fim:
 ---
@@ -11,8 +11,9 @@ Falha ao tentar integrar versão da familia pois o custo do insumo não existe e
 
 ## Solução 1
 
+Adicionar manipulate para essa entidade ao atualizar a versão da familia 
 
-
+A SOLUÇÃO ESTÁ PENDENTE TESTE DO FLUXO COMPLETO
 ## Solução 2
 
 
