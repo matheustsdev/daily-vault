@@ -22,3 +22,7 @@ DDD é um design de software que foca em modelar o software para se encaixar ao 
 Essa camada deve ser desacoplada do domínio, ou seja, não deve depender diretamente dos objetos e conceitos do domínio. Deve se utilizar de DTOs e views que forneçam os dados necessários para o usuário.
 
 ### Camada de aplicação
+
+É a camada responsável por coordenar as ações e fluxos da aplicação, sendo mediador entre a interface do usuário e a camada de domínio.
+
+Essa camada não deve depender diretamente de nenhum serviço ou recursos externos, apenas interfaces e abstrações definidas pela camada de domínio.
