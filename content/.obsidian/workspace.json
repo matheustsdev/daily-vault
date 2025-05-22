@@ -38,22 +38,6 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "5bcef4a3f3990f6f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/05/20 de mai.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "20 de mai"
-            }
-          },
-          {
             "id": "c5e1dc21b17e41bc",
             "type": "leaf",
             "pinned": true,
@@ -67,6 +51,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "21 de mai"
+            }
+          },
+          {
+            "id": "554d62680aa54ef6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/05/22 de mai.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "22 de mai"
             }
           }
         ],
@@ -227,6 +227,10 @@
   },
   "active": "2cb5cdfd52fde400",
   "lastOpenFiles": [
+    "Topcon/Helper.md",
+    "Agenda/2025/05/19 de mai.md",
+    "Agenda/2025/05/22 de mai.md",
+    "Topcon/Tickets/Erro ao vincular carga.md",
     "Agenda/2025/05/21 de mai.md",
     "Topcon/Tickets/13487 - Traços inativos disponíveis para carregamento.md",
     "Agenda/2025/05/20 de mai.md",
@@ -235,7 +239,6 @@
     "Estudo/Ciclo de Vida do Produto.md",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
-    "Agenda/2025/05/19 de mai.md",
     "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
     "Agenda/2025/05/16 de mai.md",
     "Topcon/Tickets/Erro ao editar programação.md",
@@ -256,9 +259,6 @@
     "RPG/Soleia - World/NPCs/Lira Draven.md",
     "RPG/Soleia - World/NPCs/Lysandra.md",
     "RPG/Soleia - World/NPCs/Rei das Flores.md",
-    "RPG/Soleia - World/NPCs/Os Alhoons.md",
-    "RPG/Soleia - World/NPCs/Melantha Voss.md",
-    "RPG/Soleia - World/NPCs/Évora Lenwood.md",
     "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250412103622.png",
     "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
     "Utilidades/Prompts",
