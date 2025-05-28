@@ -1,0 +1,5 @@
+- [x] Ticket [[NF sem chave - PRIORIDADE]]
+	- Subir produção
+- [x] Auxílio na tarefa de melhoria da query
+- [ ] Ticket [[Column 'concreterecipeid' is null]]
+	- Análise inicial

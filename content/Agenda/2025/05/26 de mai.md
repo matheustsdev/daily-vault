@@ -1,4 +1,3 @@
 - [ ] Ticket [[NF sem chave - PRIORIDADE]]
 	- Início do tratamento
-- [ ] Subir HOTFIX com o ticket [[13487 - Traços inativos disponíveis para carregamento]]
-- [ ] Reunião Buscaaii
+- [x] Subir HOTFIX com o ticket [[13487 - Traços inativos disponíveis para carregamento]]

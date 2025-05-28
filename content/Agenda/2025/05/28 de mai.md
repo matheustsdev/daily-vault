@@ -1,0 +1,3 @@
+- [ ] Ticket [[Column 'concreterecipeid' is null]]
+	- Análise inicial
+- [ ] Apresentação do Lipe
