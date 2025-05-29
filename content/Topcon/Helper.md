@@ -1,21 +1,3 @@
-- Busca por fragmento de texto no elastic:
-	```
-	GET /topcon-integrator-desktop_dispatch-prd/_search
-	{
-	  "query": {
-	    "bool": {
-	      "must": [
-	        {
-	          "match_phrase": {
-	            "message": "nfe_nNF = 23"
-	          }
-	        }
-	      ]
-	    }
-	  }
-	}
-	```
-
 # Dados rápidos
 ## Tenants
 
@@ -36,7 +18,19 @@
 | --------- | ---------- | -------------------------------- |
 | TECH      | Concreserv | c6e465a0a75241d283cb3eb9341f669f |
 
-# Checar usuários do IDENTITY no DISPATCH
+# Respostas sustentação
+
+## HF concluída com atualização agendada
+
+```
+Olá William Nicolas! 
+
+Temos boas notícias sobre a sua solicitação! 
+A correção foi concluída e será disponibilizada em ambiente de produção no final do dia 02/06 (segunda-feira).
+
+Atenciosamente
+Matheus Teixeira
+```
 
 # Scripts SQL
 ## Adição de usuário DISPATCH/IDENTITY

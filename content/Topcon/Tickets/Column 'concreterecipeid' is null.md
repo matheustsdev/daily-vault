@@ -1,19 +1,18 @@
 ---
 Ticket: 501007
-Status: Em análise
+Status: Pendente
 Data de início: 2025-05-27
 Data de fim:
 ---
 # Problemas
 # Problema 1: Programação sem produto
-
 Programações estão ficando sem item product mesmo após emissão de remessa. 
 
 Com os exemplos disponibilizados não foi possível reproduzir o erro, porém segue o problema que fica exibindo erro quando existe uma programação sem produto.
-
 ## Solução 1
-
 Adicionar validação no final da inclusão de programação quando for criar uma programação sem produto alertando o cliente disso.
+## Solução 2
+Adicionar validação no backend que retorna um alerta ao tentar alterar bomba ou traço de programação que já possui remessa de concreto ou bomba, respectivamente, emitida
 # Problema 2: Programação sem produto e bomba
 
 É possível criar programações sem produto e sem bombeamento, o que não faz sentido no quesito produto
@@ -99,5 +98,33 @@ Adicionar validação para o campo nulo e não conta-lo como ocupação.
     4. Não adicionar um traço
     5. Clicar no botão de incluir programação no final do processo
 - **Resultado Esperado:** Deve ser exibido um alerta de programação inválida
+- **Status:** ✅ PASSOU
+- **Observações:**
+## ✅ Caso 7: remover produto de programação com remessa emitida
+
+- **Pré-condições:**
+    - Pelo menos 1 programação com produto vinculado
+    - Pelo menos 1 remessa de concreto expedida para a mesma programação
+    - Remover TEMPORARIAMENTE a validação no Frontend de remover produto selecionado
+- **Passos do Teste:**
+    1. Iniciar processo de alteração da programação
+    2. Remover o produto/traço vinculado
+    3. Clicar no botão de atualizar programação no final do processo
+    4. Readicionar a validação no Frontend de remover o produto selecionado
+- **Resultado Esperado:** Deve ser exibido um erro na requisição do back alertando sobre a remoção do produto
+- **Status:** ✅ PASSOU
+- **Observações:**
+## ✅ Caso 8: remover bombeamento de programação com remessa de bomba emitida
+
+- **Pré-condições:**
+    - Pelo menos 1 programação com bombeamento vinculado
+    - Pelo menos 1 remessa de bomba expedida para a mesma programação
+    - Remover TEMPORARIAMENTE a validação no Frontend de remover bomba selecionado
+- **Passos do Teste:**
+    1. Iniciar processo de alteração da programação
+    2. Remover o produto/traço vinculado
+    3. Clicar no botão de atualizar programação no final do processo
+    4. Readicionar a validação no Frontend de remover o produto selecionado
+- **Resultado Esperado:** Deve ser exibido um erro na requisição do back alertando sobre a remoção do produto
 - **Status:** ✅ PASSOU
 - **Observações:**

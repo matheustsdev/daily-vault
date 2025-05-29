@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "Column 'concreterecipeid' is null"
             }
+          },
+          {
+            "id": "08338479896e414f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Divergencia custo dos insumos"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,22 +55,6 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "5b0364928caef835",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/05/27 de mai.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "27 de mai"
-            }
-          },
-          {
             "id": "644b195847ecc454",
             "type": "leaf",
             "pinned": true,
@@ -67,6 +68,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "28 de mai"
+            }
+          },
+          {
+            "id": "252cef9ae0d5f627",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/05/29 de mai.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "29 de mai"
             }
           }
         ],
@@ -225,9 +242,15 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "644b195847ecc454",
+  "active": "08338479896e414f",
   "lastOpenFiles": [
+    "Agenda/2025/05/29 de mai.md",
+    "Topcon/Tickets/Valores zerados Remessa.md",
     "Topcon/Tickets/Column 'concreterecipeid' is null.md",
+    "Novas notas/Untitled.md",
+    "Topcon/Helper.md",
+    "Topcon/Tickets/Inserir dados no arquivo Shipment.xml.md",
+    "Utilidades/Comandos.md",
     "Agenda/2025/05/28 de mai.md",
     "Agenda/2025/05/27 de mai.md",
     "Agenda/2025/05/26 de mai.md",
@@ -238,7 +261,6 @@
     "Agenda/2025/05/19 de mai.md",
     "Agenda/2025/05/22 de mai.md",
     "Agenda/2025/05/21 de mai.md",
-    "Topcon/Helper.md",
     "Topcon/Tickets/Erro ao vincular carga.md",
     "Agenda/2025/05/20 de mai.md",
     "Estudo/Domain-Driven Design (DDD).md",
@@ -250,15 +272,10 @@
     "Agenda/2025/05/16 de mai.md",
     "Topcon/Tickets/Erro ao editar programação.md",
     "Novas notas/O jardim dos caídos.md",
-    "Novas notas/A Sombra do Abismo - A Ascensão do Lich Alhoon.md",
-    "Novas notas/O registro arcano.md",
-    "RPG/Soleia - World/Aventuras/Última lágrima.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516165658.png",
-    "Topcon/Tickets/Saldo Divergente Entre o TopconCRM e o TopconDispatch.md",
-    "RPG/Soleia - World/Locais/Cidades/Valéria.md",
     "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250412103622.png",
     "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250328002530.png",
     "Utilidades/Prompts",
