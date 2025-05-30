@@ -24,19 +24,19 @@
             }
           },
           {
-            "id": "08338479896e414f",
+            "id": "2ac9adc566805626",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Divergencia custo dos insumos.md",
+                "file": "Topcon/Tickets/Valores zerados Remessa.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Divergencia custo dos insumos"
+              "title": "Valores zerados Remessa"
             }
           }
         ],
@@ -55,22 +55,6 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "644b195847ecc454",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/05/28 de mai.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "28 de mai"
-            }
-          },
-          {
             "id": "252cef9ae0d5f627",
             "type": "leaf",
             "pinned": true,
@@ -84,6 +68,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "29 de mai"
+            }
+          },
+          {
+            "id": "4b675ee27cad7b2f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/05/30 de mai.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "30 de mai"
             }
           }
         ],
@@ -242,11 +242,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "08338479896e414f",
+  "active": "4b675ee27cad7b2f",
   "lastOpenFiles": [
-    "Agenda/2025/05/29 de mai.md",
     "Topcon/Tickets/Valores zerados Remessa.md",
+    "Agenda/2025/05/30 de mai.md",
     "Topcon/Tickets/Column 'concreterecipeid' is null.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Agenda/2025/05/29 de mai.md",
     "Novas notas/Untitled.md",
     "Topcon/Helper.md",
     "Topcon/Tickets/Inserir dados no arquivo Shipment.xml.md",
@@ -270,8 +272,6 @@
     "Estudo/Anexos",
     "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
     "Agenda/2025/05/16 de mai.md",
-    "Topcon/Tickets/Erro ao editar programação.md",
-    "Novas notas/O jardim dos caídos.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
