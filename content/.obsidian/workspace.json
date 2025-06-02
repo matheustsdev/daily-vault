@@ -38,9 +38,39 @@
               "icon": "lucide-file",
               "title": "Valores zerados Remessa"
             }
+          },
+          {
+            "id": "41aa41625a2c5693",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novas notas/TDP 1879.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "TDP 1879"
+            }
+          },
+          {
+            "id": "11efc5bd38211099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Helper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helper"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,22 +85,6 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "252cef9ae0d5f627",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/05/29 de mai.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "29 de mai"
-            }
-          },
-          {
             "id": "4b675ee27cad7b2f",
             "type": "leaf",
             "pinned": true,
@@ -84,6 +98,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "30 de mai"
+            }
+          },
+          {
+            "id": "de8abd29e34ebb92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/06/02 de jun.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "02 de jun"
             }
           }
         ],
@@ -242,15 +272,18 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4b675ee27cad7b2f",
+  "active": "41aa41625a2c5693",
   "lastOpenFiles": [
-    "Topcon/Tickets/Valores zerados Remessa.md",
-    "Agenda/2025/05/30 de mai.md",
+    "Topcon/Helper.md",
+    "Novas notas/TDP 1879.md",
+    "Agenda/2025/06/02 de jun.md",
     "Topcon/Tickets/Column 'concreterecipeid' is null.md",
+    "Agenda/2025/05/30 de mai.md",
+    "Agenda/2025/06",
+    "Topcon/Tickets/Valores zerados Remessa.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Agenda/2025/05/29 de mai.md",
     "Novas notas/Untitled.md",
-    "Topcon/Helper.md",
     "Topcon/Tickets/Inserir dados no arquivo Shipment.xml.md",
     "Utilidades/Comandos.md",
     "Agenda/2025/05/28 de mai.md",
@@ -270,8 +303,6 @@
     "Estudo/Ciclo de Vida do Produto.md",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
-    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
-    "Agenda/2025/05/16 de mai.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
