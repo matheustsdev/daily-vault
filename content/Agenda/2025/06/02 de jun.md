@@ -1,4 +1,4 @@
 
-- [ ] Ticker [[Valores zerados Remessa]]
-- [ ] Sprint planning
-- [ ] Revisão tarefas Secil
+- [x] Ticker [[Valores zerados Remessa]]
+- [x] Sprint planning
+- [x] Revisão tarefas Secil

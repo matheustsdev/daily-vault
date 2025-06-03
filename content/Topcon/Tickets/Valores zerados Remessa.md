@@ -1,8 +1,8 @@
 ---
 Ticket: 504478
-Status: Em análise
+Status: Concluído
 Data de início: 2025-05-29
-Data de fim:
+Data de fim: 2025-06-02
 ---
 # Problemas
 # Problema 1

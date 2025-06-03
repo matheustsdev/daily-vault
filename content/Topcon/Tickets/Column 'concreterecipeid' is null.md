@@ -1,8 +1,8 @@
 ---
 Ticket: 501007
-Status: Pendente
+Status: Concluído
 Data de início: 2025-05-27
-Data de fim:
+Data de fim: 2025-06-02
 ---
 # Problemas
 # Problema 1: Programação sem produto
