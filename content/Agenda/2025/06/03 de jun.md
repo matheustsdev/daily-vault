@@ -1,4 +1,6 @@
 
 - [x] Suporte aos testes da Kelly
-- [ ] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc); If it's a customer's pump?; If it's a customer's concrete mixer?.]]
+- [x] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)]]
+	- Quebra técnica
+	- Início da tela de tipos de bomba
 - [x] Suporte ao Coutinho

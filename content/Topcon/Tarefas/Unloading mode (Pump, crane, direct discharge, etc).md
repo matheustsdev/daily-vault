@@ -7,11 +7,11 @@ Responsabilidade:
 Data de início: 2025-06-03
 Data de fim:
 ---
-# Quebra técnica (47h/36h)
+# Quebra técnica (49h/36h)
 
-- [ ] Adicionar inserção de PumpingType usando o Maintenance (6h)
-- [ ] Adicionar inserção de PieceToConcrete usando o Maintenance (6h)
-- [ ] Adicionar inserção de duração de descarga por tipo de bomba e peça a concretar (10h)
+- [x] Adicionar inserção de PumpingType usando o Maintenance (6h)
+- [x] Adicionar inserção de PieceToConcrete usando o Maintenance (6h)
+- [x] Adicionar inserção de duração de descarga por tipo de bomba e peça a concretar (10h)
 - [ ] Adicionar validação dos horários de descarga de acordo com o cadastrado (4h)
 - [ ] Cálculo do valor da bomba (1h)
 - [ ] Adicionar boolean para identificar que a bomba é do cliente na Construction (1h)
@@ -21,6 +21,7 @@ Data de fim:
 - [ ] Adicionar compartilhamento de recurso entre centrais na tela de centrais e ajustar alocações (6h)
 - [ ] Adicionar tipo de bomba nos dados da programação (1h)
 - [ ] Adicionar campo para informar betoneira própria ou não na programação (1h)
+- [ ] Adicionar validações em campos abertos dos formulários para o tamanho no banco (2h)
 
 # Casos de teste
 
