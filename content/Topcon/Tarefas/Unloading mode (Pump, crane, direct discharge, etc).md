@@ -12,9 +12,10 @@ Data de fim:
 - [x] Adicionar inserção de PumpingType usando o Maintenance (6h)
 - [x] Adicionar inserção de PieceToConcrete usando o Maintenance (6h)
 - [x] Adicionar inserção de duração de descarga por tipo de bomba e peça a concretar (10h)
-- [ ] Adicionar validação dos horários de descarga de acordo com o cadastrado (4h)
-- [ ] Cálculo do valor da bomba (1h)
-- [ ] Adicionar boolean para identificar que a bomba é do cliente na Construction (1h)
+- [x] Adicionar validação dos horários de descarga de acordo com o cadastrado (4h)
+- [x] Cálculo do valor da bomba (1h)
+----
+- [x] Adicionar boolean para identificar que a bomba é do cliente na Construction (1h)
 - [ ] Exibir valor de bomba do cliente por padrão de acordo o registrado na obra na programação (pode ser alterado) (1h)
 - [ ] Cadastro de veículos (6h)
 - [ ] Cadastro de motorista e bombistas, auxiliares (4h)

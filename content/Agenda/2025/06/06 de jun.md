@@ -1,4 +1,5 @@
 
 - [ ] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)]]
-	- Adição da tabela de duração de descarregamento
+	- Teste de calculo de tempo
+	- Adição do veiculo proprio banco e front
 - [ ] 
