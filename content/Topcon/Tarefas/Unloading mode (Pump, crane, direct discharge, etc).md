@@ -16,14 +16,17 @@ Data de fim:
 - [x] Cálculo do valor da bomba (1h)
 ----
 - [x] Adicionar boolean para identificar que a bomba é do cliente na Construction (1h)
-- [ ] Exibir valor de bomba do cliente por padrão de acordo o registrado na obra na programação (pode ser alterado) (1h)
-- [ ] Cadastro de veículos (6h)
+- [x] Exibir valor de bomba do cliente por padrão de acordo o registrado na obra na programação (pode ser alterado) (1h)
+- [x] Cadastro de veículos (6h)
 - [ ] Cadastro de motorista e bombistas, auxiliares (4h)
 - [ ] Adicionar compartilhamento de recurso entre centrais na tela de centrais e ajustar alocações (6h)
 - [ ] Adicionar tipo de bomba nos dados da programação (1h)
 - [ ] Adicionar campo para informar betoneira própria ou não na programação (1h)
 - [ ] Adicionar validações em campos abertos dos formulários para o tamanho no banco (2h)
+## Duvidas
 
+- Na opção de "Usa própria bomba", deve ser nulo quando não houver bombeamento?
+- Caso a opção seja próprio do cliente, pode ser ocultado o botão de selecionar bomba?
 # Casos de teste
 
 - [ ] 

@@ -38,22 +38,6 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "718e1e6690265848",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/06/05 de jun.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "05 de jun"
-            }
-          },
-          {
             "id": "c7bbd2c82a78b9df",
             "type": "leaf",
             "pinned": true,
@@ -67,6 +51,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "06 de jun"
+            }
+          },
+          {
+            "id": "c2ce6b60055eb9ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/06/09 de jun.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "09 de jun"
             }
           }
         ],
@@ -225,8 +225,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "c7bbd2c82a78b9df",
+  "active": "9fd977d29881a50c",
   "lastOpenFiles": [
+    "Agenda/2025/06/09 de jun.md",
     "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
     "Agenda/2025/06/06 de jun.md",
     "Agenda/2025/06/05 de jun.md",
@@ -253,7 +254,6 @@
     "Topcon/Tickets/13487 - Traços inativos disponíveis para carregamento.md",
     "Agenda/2025/05/23 de mai.md",
     "Agenda/2025/05/19 de mai.md",
-    "Agenda/2025/05/22 de mai.md",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
