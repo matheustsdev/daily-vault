@@ -38,22 +38,6 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "226f304044884a8d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/06/12 de jun.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "12 de jun"
-            }
-          },
-          {
             "id": "54ff87288240e462",
             "type": "leaf",
             "pinned": true,
@@ -67,6 +51,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "13 de jun"
+            }
+          },
+          {
+            "id": "2b40147892816303",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/06/16 de jun.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "16 de jun"
             }
           }
         ],
@@ -225,11 +225,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "54ff87288240e462",
+  "active": "2b40147892816303",
   "lastOpenFiles": [
-    "Agenda/2025/06/12 de jun.md",
-    "Agenda/2025/06/13 de jun.md",
     "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
+    "Agenda/2025/06/16 de jun.md",
+    "Agenda/2025/06/13 de jun.md",
+    "Agenda/2025/06/12 de jun.md",
     "Novas notas/Adiconar regra da casa.md",
     "Agenda/2025/05/13 de mai.md",
     "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
@@ -253,7 +254,6 @@
     "Topcon/Helper.md",
     "Agenda/2025/05/30 de mai.md",
     "Agenda/2025/06",
-    "Agenda/2025/05/29 de mai.md",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
