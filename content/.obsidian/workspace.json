@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "14581bbe8ebb42f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "If you have a line helper - Alarmist planning delays"
+            }
+          },
+          {
             "id": "9fd977d29881a50c",
             "type": "leaf",
             "pinned": true,
@@ -38,39 +54,22 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "54ff87288240e462",
+            "id": "9a6a430bbe2c8e20",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/06/13 de jun.md",
+                "file": "Agenda/2025/06/17 de jun.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "13 de jun"
-            }
-          },
-          {
-            "id": "2b40147892816303",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/06/16 de jun.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "16 de jun"
+              "title": "17 de jun"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "caedef287bdb55ee",
@@ -225,9 +224,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2b40147892816303",
+  "active": "9a6a430bbe2c8e20",
   "lastOpenFiles": [
+    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "Agenda/2025/06/17 de jun.md",
     "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
+    "Topcon/Tickets/Novo ticket.md",
     "Agenda/2025/06/16 de jun.md",
     "Agenda/2025/06/13 de jun.md",
     "Agenda/2025/06/12 de jun.md",
@@ -250,9 +252,6 @@
     "Agenda/2025/06/03 de jun.md",
     "Topcon/Tickets/Valores zerados Remessa.md",
     "Topcon/Tickets/Column 'concreterecipeid' is null.md",
-    "Agenda/2025/06/02 de jun.md",
-    "Topcon/Helper.md",
-    "Agenda/2025/05/30 de mai.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
