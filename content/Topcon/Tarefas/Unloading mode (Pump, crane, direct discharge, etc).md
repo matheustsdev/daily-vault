@@ -26,7 +26,7 @@ Data de fim:
 - [ ] Alterar parâmetro geral para outra tela (1h)
 ## Duvidas
 
-- Na opção de "Usa própria bomba", deve ser nulo quando não houver bombeamento?
+- Na opção de "Usa própria bomba", deve ser nulo quando não houver bombeamento? Usar como padrão o NÃO e adicionar um info de "Bomba sdjhfsdfjkghdf"
 - Caso a opção seja próprio do cliente, pode ser ocultado o botão de selecionar bomba?
 - Quais são os recursos compartilhados entre as centrais além de alocação?
 # Casos de teste

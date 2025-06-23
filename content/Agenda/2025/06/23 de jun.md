@@ -3,4 +3,5 @@
 	- [x] Adicionar outros serviços na remessa
 	- [ ] Tratar o frontend para criar os serviço na remessa
 - [ ] Adicionar dados na API publica de construction e de vehicle (???)
-- [x] Baixar Illustrator no PC Branco
+- [ ] Criar pagina para APIs em teste/homologação
+- [ ] Falar com Will sobre como utilizar a pagina para atualizar APIs
