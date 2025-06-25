@@ -29,6 +29,11 @@ Data de fim:
 - Na opção de "Usa própria bomba", deve ser nulo quando não houver bombeamento? Usar como padrão o NÃO e adicionar um info de "Bomba sdjhfsdfjkghdf"
 - Caso a opção seja próprio do cliente, pode ser ocultado o botão de selecionar bomba?
 - Quais são os recursos compartilhados entre as centrais além de alocação?
+---
+Correções
+- Remover veiculo de apoio dos tipos
+- Colocar capacidade (m³) no titulo
+- Remover obrigatoriedade da carteira de motorista/data
 # Casos de teste
 
 - [ ] 

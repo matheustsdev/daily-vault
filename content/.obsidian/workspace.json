@@ -42,6 +42,7 @@
           {
             "id": "6433e1c9e7fc21eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,6 +50,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "A vila dos sussurros"
             }
@@ -69,19 +71,19 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "6417540f176537ac",
+            "id": "561cc0714caf394e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/06/24 de jun.md",
+                "file": "Agenda/2025/06/25 de jun.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "24 de jun"
+              "title": "25 de jun"
             }
           }
         ]
@@ -239,13 +241,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "6433e1c9e7fc21eb",
+  "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
     "Agenda/2025/06/24 de jun.md",
-    "Agenda/2025/06/23 de jun.md",
-    "RPG/Soleia - World/Aventuras/A vila dos sussurros.md",
+    "Agenda/2025/06/25 de jun.md",
     "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
     "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "RPG/Soleia - World/Aventuras/A vila dos sussurros.md",
+    "Agenda/2025/06/23 de jun.md",
     "Topcon/Helper.md",
     "Agenda/2025/06/20 de jun.md",
     "Novas notas/Brainstorm de campanha.md",
@@ -266,7 +269,6 @@
     "Agenda/2025/06/12 de jun.md",
     "Novas notas/Adiconar regra da casa.md",
     "Agenda/2025/05/13 de mai.md",
-    "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",

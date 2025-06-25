@@ -1,8 +1,12 @@
 - [ ] Tarefa [[If you have a line helper - Alarmist planning delays
 	- [x] Tratar o frontend para criar os serviço na remessa
-	- [ ] Remover criação de DeliveryTaxDocumentItem de serviço
-	- [ ] Finalizar romaneio
+	- [x] Remover criação de DeliveryTaxDocumentItem de serviço
+	- [x] Finalizar romaneio
+	- [x] Atualizar entidade de OutrosServiços para ter vinculo com a de Serviços
+	- [ ] Exibir valor salvo na remessa
+	- [ ] Testar atualização de programação
+	- [ ] Ajustar frequência
 - [ ] Adicionar dados na API publica de construction e de vehicle (???)
 - [x] Falar com Will sobre como utilizar a pagina para atualizar APIs
-- [ ] Volei
+- [x] Volei
 - [ ] Salvar aluguel Rose noivas

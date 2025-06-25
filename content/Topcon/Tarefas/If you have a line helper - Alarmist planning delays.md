@@ -11,8 +11,9 @@ Data de fim:
 
 - [x] Ajuste da entidade de outros serviços (ItemOtherServices) (3h)
 - [x] Ajuste do card de outros serviços (4h)
-- [ ] Adicionar outros serviços na remessa (12h)
-- [ ] Adicionar outros serviços na impressão da remessa (4h)
+- [x] Adicionar outros serviços na remessa (12h)
+- [x] Adicionar outros serviços na impressão da remessa (4h)
+- [ ] Tratar frequência (8h)
 
 # Duvidas
 

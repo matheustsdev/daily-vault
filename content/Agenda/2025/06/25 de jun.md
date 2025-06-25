@@ -1,0 +1,14 @@
+- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+	- [ ] Exibir valor salvo na remessa
+	- [ ] Testar atualização de programação
+	- [ ] Ajustar frequência
+- [ ] Adicionar dados na API publica de construction e de vehicle (???)
+- [ ] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)]]
+	- [x] Adição do campo Id Externo para funcionários
+	- [x] Ajuste do texto do RE
+	- [ ] Ajuste do texto de capacidade
+	- [ ] Adição do campo Id externo para veículos
+- [ ] Salvar aluguel Rose noivas
+- [ ] Ajuste Concreserv
+	- [ ] Romaneio
+	- [x] Integração
