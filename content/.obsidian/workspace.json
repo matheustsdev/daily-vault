@@ -4,43 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "efd4a36b4a204ce0",
+        "id": "dd4acbb52bbb3788",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5e81a7bc2c07ab",
+            "id": "541ef9f5426c1e8f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tickets/Column 'concreterecipeid' is null.md",
+                "file": "Estudo/Análise de mercado, patentes e propriedade intelectual e industrial.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Column 'concreterecipeid' is null"
-            }
-          },
-          {
-            "id": "2ac9adc566805626",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topcon/Tickets/Valores zerados Remessa.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Valores zerados Remessa"
+              "title": "Análise de mercado, patentes e propriedade intelectual e industrial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +223,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "4b675ee27cad7b2f",
+  "active": "541ef9f5426c1e8f",
   "lastOpenFiles": [
-    "Topcon/Tickets/Valores zerados Remessa.md",
+    "Estudo/Inovação e desenvolvimento de produtos.md",
+    "Estudo/Ciclo de Vida do Produto.md",
     "Agenda/2025/05/30 de mai.md",
+    "Topcon/Tickets/Valores zerados Remessa.md",
     "Topcon/Tickets/Column 'concreterecipeid' is null.md",
     "Topcon/Tickets/Divergencia custo dos insumos.md",
     "Agenda/2025/05/29 de mai.md",
@@ -267,11 +250,9 @@
     "Agenda/2025/05/20 de mai.md",
     "Estudo/Domain-Driven Design (DDD).md",
     "Estudo/Domain - Driven Design (DDD).md",
-    "Estudo/Ciclo de Vida do Produto.md",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
     "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
-    "Agenda/2025/05/16 de mai.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
