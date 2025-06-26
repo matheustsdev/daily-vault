@@ -34,6 +34,18 @@ Correções
 - Remover veiculo de apoio dos tipos
 - Colocar capacidade (m³) no titulo
 - Remover obrigatoriedade da carteira de motorista/data
+
+```sql
+UPDATE "__EFMigrationsHistory" eh 
+SET eh."MigrationId" = '20250605115935_CreateEntity-DefaultPumpingTypeDuration'
+WHERE eh."MigrationId" = '20250605115935_CreateEntity-DefaultUnloadingDuration';
+
+ALTER TABLE reg_default_unloading_duration
+RENAME TO reg_default_pumping_type_durations;
+
+ALTER TABLE reg_default_pumping_type_durations
+RENAME COLUMN id_default_unloading_duration TO id_default_pumping_type_duration;
+```
 # Casos de teste
 
 - [ ] 

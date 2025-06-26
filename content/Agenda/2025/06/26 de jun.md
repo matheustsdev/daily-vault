@@ -4,11 +4,12 @@
 	- [ ] Ajustar frequência
 - [ ] Adicionar dados na API publica de construction e de vehicle (???)
 - [ ] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)]]
-	- [x] Adição do campo Id Externo para funcionários
-	- [x] Ajuste do texto do RE
-	- [ ] Ajuste do texto de capacidade
+	- [x] Ajuste do texto de capacidade
 	- [x] Adição do campo Id externo para veículos
+	- [ ] Adicionar tempo de duração em obra na entidade
+	- [x] Ajustar texto de ajuda de "Bomba própria"
+	- [x] Verificar erro ao adicionar veículo
+	- [x] Ajustar exibição de veículos de centrais compartilhadas na expedição
 - [ ] Salvar aluguel Rose noivas
-- [ ] Ajuste Concreserv
-	- [ ] Romaneio
-	- [x] Integração
+- [x] Ajuste Concreserv
+	- [x] Romaneio
