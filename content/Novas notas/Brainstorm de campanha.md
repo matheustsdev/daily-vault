@@ -1,6 +1,6 @@
-## Modelo de Campanha: "Sombras nas Dimensões"
+# Modelo de Campanha: "Sombras nas Dimensões"
 
-### 1. Premissa Geral
+## 1. Premissa Geral
 
 No mundo mágico de Soleia, uma antiga fenda interdimensional vem se manifestando de forma cada vez mais instável, causando fenômenos inexplicáveis, a ascensão de cultos obscuros e intrigas políticas que abalam a ordem estabelecida. Por trás desses eventos, uma influência maligna – o Devorador de Mentes – opera secretamente, manipulando mentes e acontecimentos para um objetivo ainda velado. Em meio a esse cenário, uma aliança dracônica surge de forma inesperada: uma dragão esmeralda adulta se dispõe a auxiliar os aventureiros e, futuramente, guiá-los até uma enigmática dragão anciã de safira, cuja sabedoria ancestral pode ser a chave para restaurar o equilíbrio entre as dimensões.
 
@@ -8,20 +8,20 @@ O grande desafio para os heróis será desvendar, aos poucos, os indícios de um
 
 ---
 
-### 2. Estrutura da Campanha
+## 2. Estrutura da Campanha
 
 A campanha está dividida em quatro atos principais. Cada ato consiste em aventuras ou módulos interligados que, juntos, narram a história maior e se adaptam tanto a sessões isoladas quanto a uma narrativa épica de longa duração.
 
 ---
 
-#### **Ato I: Ecos do Passado**
+### **Ato I: Ecos do Passado**
 
 **Objetivo:**  
 Apresentar o cenário, introduzir os acontecimentos misteriosos e semear pistas de uma influência oculta, utilizando os eventos já jogados como base para o início da trama.
 
 ---
 
-**Aventura 1 – O Roubo da Flor Perene** _(JOGADA)_
+#### **Aventura 1 – O Roubo da Flor Perene** _(JOGADA)_
 
 - **Resumo:**  
     Em uma missão crucial para proteger a mítica Flor Perene – uma planta de imenso poder alquímico e vital para rituais – os personagens se viram envolvidos em um conflito inesperado. No ápice da ação, Midias White, o bruxo do grupo que obtém seu poder diretamente do Devorador de Mentes, trai os aliados. Quando os companheiros se preparam para sancionar sua queda, ele é misteriosamente transportado por uma magia de teleporte, revelando que sua “salvação” foi orquestrada por uma influência superior.
@@ -39,7 +39,7 @@ Apresentar o cenário, introduzir os acontecimentos misteriosos e semear pistas 
 
 ---
 
-**Aventura 2 – A Masmorra de Valéria e a Teluniee** _(JOGADA)_
+#### **Aventura 2 – A Masmorra de Valéria e a Teluniee** _(JOGADA)_
 
 - **Resumo:**  
     Em uma expedição à histórica cidade de Valéria, famosa por ter sido o cenário do ritual que abriu as fendas, os personagens se aventuraram por uma masmorra oculta nas profundezas urbanas. Lá, encontraram Teluniee – a última lágrima petrificada dos soldados tragados pela fenda –, um artefato poderoso que amplifica emoções e tem potencial para alterar rituais mágicos. Durante essa jornada, uma halfling enigmática auxiliou-os a percorrer os labirintos sombrios; posteriormente, descobre-se que essa halfling não é nada menos que a manifestação ilusória da dragão esmeralda adulta.
@@ -60,7 +60,7 @@ Apresentar o cenário, introduzir os acontecimentos misteriosos e semear pistas 
 
 ---
 
-**Aventura 3 – Ecos do Silêncio** _(NOVO MÓDULO – A SER JOGADO)_
+#### **Aventura 3 – Ecos do Silêncio** _(NOVO MÓDULO – A SER JOGADO)_
 
 - **Resumo:**  
     Agora, após os intensos eventos do roubo da Flor Perene e a masmorra de Valéria, os personagens começam a perceber resquícios de uma manipulação sutil, que se manifesta em vestígios místicos e comportamentos alterados de NPCs influentes. Investigações nas redondezas e em ruínas esquecidas revelam segredos incompletos, sugerindo que os incidentes recentes fazem parte de um grande plano orquestrado por forças oculta.
@@ -81,84 +81,86 @@ Apresentar o cenário, introduzir os acontecimentos misteriosos e semear pistas 
 
 ---
 
-#### **Ato II: Vozes das Sombras**
+### **Ato II: Vozes das Sombras**
 
 **Objetivo:**  
 Aprofundar a intriga e ampliar a tensão, introduzindo de forma mais clara os indícios de manipulação mental e a presença de forças místicas – sem revelar completamente a identidade do Devorador de Mentes.
 
 **Aventuras/Módulos:**
 
-- **Aventura 4 – Os Ecos que Sussurram:**
+#### **Aventura 4 – Os Ecos que Sussurram:**
+
+- **Resumo:** Em investigações posteriores, os personagens encontram vestígios de magia que afeta as mentes – atitudes inexplicáveis, visões involuntárias e fragmentos enigmáticos de grimórios antigos.
+- **Pistas:** Trechos que mencionam “correntes invisíveis”, murmúrios durante a noite e sombras que aparentam vontade própria.
+- **Desafios:** Decifrar os pergaminhos, superar ilusões e enfrentar cultistas que agem sob ordens misteriosas.
+
+#### **Aventura 5 – Conspirações e Intrigas:**
+
+- **Resumo:** O cenário político começa a sofrer com as manipulações: conselhos, guildas e líderes se dividem, enquanto documentos vazados e acordos secretos sugerem a intervenção desses poderes ocultos.
+- **Pistas:** Informações filtradas, símbolos em documentos e indícios de manipulação mental que afetam decisões importantes.
+- **Desafios:** Navegar pelas intrigas políticas, tomar partido e, se necessário, sabotar planos que possam ampliar o poder da influência oculta.
+
+#### **Aventura 6 – Sinais Dracônicos:**
     
-    - **Resumo:** Em investigações posteriores, os personagens encontram vestígios de magia que afeta as mentes – atitudes inexplicáveis, visões involuntárias e fragmentos enigmáticos de grimórios antigos.
-    - **Pistas:** Trechos que mencionam “correntes invisíveis”, murmúrios durante a noite e sombras que aparentam vontade própria.
-    - **Desafios:** Decifrar os pergaminhos, superar ilusões e enfrentar cultistas que agem sob ordens misteriosas.
-- **Aventura 5 – Conspirações e Intrigas:**
-    
-    - **Resumo:** O cenário político começa a sofrer com as manipulações: conselhos, guildas e líderes se dividem, enquanto documentos vazados e acordos secretos sugerem a intervenção desses poderes ocultos.
-    - **Pistas:** Informações filtradas, símbolos em documentos e indícios de manipulação mental que afetam decisões importantes.
-    - **Desafios:** Navegar pelas intrigas políticas, tomar partido e, se necessário, sabotar planos que possam ampliar o poder da influência oculta.
-- **Aventura 6 – Sinais Dracônicos:**
-    
-    - **Resumo:** Relatos começam a confirmar a presença de uma dragão de gema – identificada como uma dragão esmeralda adulta – cuja intervenção em momentos críticos parece salvar inocentes e apontar para uma aliança silenciosa.
-    - **Pistas:** Marcas arcanas em locais de conflito, testemunhos visuais e uma aura mágica distinta dos cultos comuns.
-    - **Desafios:** Investigar a origem desses sinais, estabelecer um contato seguro com a dragão e compreender seu papel nesse emaranhado de forças.
+- **Resumo:** Relatos começam a confirmar a presença de uma dragão de gema – identificada como uma dragão esmeralda adulta – cuja intervenção em momentos críticos parece salvar inocentes e apontar para uma aliança silenciosa.
+- **Pistas:** Marcas arcanas em locais de conflito, testemunhos visuais e uma aura mágica distinta dos cultos comuns.
+- **Desafios:** Investigar a origem desses sinais, estabelecer um contato seguro com a dragão e compreender seu papel nesse emaranhado de forças.
 
 **Gancho para o Próximo Ato:**  
 Conforme as investigações se intensificam, os heróis começam a perceber que os sinais dracônicos e os indícios de manipulação mental estão interligados com uma rede de forças que remete, de forma velada, à influência do Devorador de Mentes – deixando em aberto a revelação total de sua identidade.
 
 ---
 
-#### **Ato III: A Aliança Oculta**
+### **Ato III: A Aliança Oculta**
 
 **Objetivo:**  
 Unir os elementos descobertos e conduzir os personagens a confrontos mais intensos, aproximando-os gradualmente da verdade por trás das manipulações que assombram Soleia, preparando o terreno para o confronto final sem revelar completamente o vilão.
 
 **Aventuras/Módulos:**
 
-- **Aventura 7 – Jornada com a Dragão Esmeralda:**
+#### **Aventura 7 – Jornada com a Dragão Esmeralda:**
     
-    - **Resumo:** A dragão esmeralda adulta se aproxima dos personagens e revela que há uma ameaça que excede os cultos e as manipulações locais.
-    - **Pistas:** Referências a pactos dracônicos ancestrais, inscrições que sugerem a existência de um manipulador das mentes e sinais de uma aliança oculta.
-    - **Desafios:** Ganhar a confiança da dragão, participar de rituais parciais que desvelam segredos e proteger locais estratégicos de ataques de cultistas.
-- **Aventura 8 – Segredos das Fendas:**
+- **Resumo:** A dragão esmeralda adulta se aproxima dos personagens e revela que há uma ameaça que excede os cultos e as manipulações locais.
+- **Pistas:** Referências a pactos dracônicos ancestrais, inscrições que sugerem a existência de um manipulador das mentes e sinais de uma aliança oculta.
+- **Desafios:** Ganhar a confiança da dragão, participar de rituais parciais que desvelam segredos e proteger locais estratégicos de ataques de cultistas.
+#### **Aventura 8 – Segredos das Fendas:**
     
-    - **Resumo:** Em uma exploração dos pontos críticos afetados pela instabilidade da fenda, os heróis encontram artefatos e inscrições que sugerem uma conexão entre as forças dracônicas e uma presença mental sinistra.
-    - **Pistas:** Criptogramas híbridos que mesclam a linguagem dos feéricos e dos dragões, além de vestígios de uma magia que “consome” a vontade dos incautos.
-    - **Desafios:** Decifrar os enigmas, enfrentar criaturas corrompidas e coletar itens que possam revelar ou, quem sabe, selar os mecanismos energéticos da fenda.
-- **Aventura 9 – A Reviravolta Oculta:**
+- **Resumo:** Em uma exploração dos pontos críticos afetados pela instabilidade da fenda, os heróis encontram artefatos e inscrições que sugerem uma conexão entre as forças dracônicas e uma presença mental sinistra.
+- **Pistas:** Criptogramas híbridos que mesclam a linguagem dos feéricos e dos dragões, além de vestígios de uma magia que “consome” a vontade dos incautos.
+- **Desafios:** Decifrar os enigmas, enfrentar criaturas corrompidas e coletar itens que possam revelar ou, quem sabe, selar os mecanismos energéticos da fenda.
+#### **Aventura 9 – A Reviravolta Oculta:**
     
-    - **Resumo:** Os fragmentos coletados começam a formar um quadro – a indicação de uma entidade manipuladora (futuro Devorador de Mentes) por trás dos eventos recentes. Contudo, os detalhes permanecem nebulosos, forçando os heróis a tomar decisões importantes sobre em quem confiar.
-    - **Pistas:** Manuscritos antigos, visões induzidas por artefatos poderosos e testemunhos de NPCs afetados pela influência mental.
-    - **Desafios:** Lidar com dilemas morais, escolher aliados e preparar o grupo para a escalada dos confrontos iminentes.
+- **Resumo:** Os fragmentos coletados começam a formar um quadro – a indicação de uma entidade manipuladora (futuro Devorador de Mentes) por trás dos eventos recentes. Contudo, os detalhes permanecem nebulosos, forçando os heróis a tomar decisões importantes sobre em quem confiar.
+- **Pistas:** Manuscritos antigos, visões induzidas por artefatos poderosos e testemunhos de NPCs afetados pela influência mental.
+- **Desafios:** Lidar com dilemas morais, escolher aliados e preparar o grupo para a escalada dos confrontos iminentes.
 
 **Gancho para o Próximo Ato:**  
 A crescente pressão sobre o equilíbrio das dimensões incentiva a dragão esmeralda a sugerir que sua “superior” – uma enigmática dragão anciã de safira – pode ser a chave definitiva para enfrentar a influência oculta, sem revelar por completo a natureza da aliança sombria.
 
 ---
 
-#### **Ato IV: Confronto e Redenção**
+### **Ato IV: Confronto e Redenção**
 
 **Objetivo:**  
 Encaminhar o clímax da campanha, forçando os heróis a enfrentar, de maneira decisiva, os efeitos da manipulação mental e as forças interdimensionais. Nesse estágio, o segredo do Devorador de Mentes – e sua estreita, embora oculta, aliança com forças dracônicas distorcidas – se revela, forçando os jogadores a escolhas que determinarão o futuro de Soleia.
 
 **Aventuras/Módulos:**
 
-- **Aventura 10 – A Ascensão Dracônica:**
+#### **Aventura 10 – A Ascensão Dracônica:**
+
+- **Resumo:** Agora aliados com a dragão esmeralda, os heróis são conduzidos até sua superior – a imponente dragão anciã de safira –, cuja sabedoria e poder ancestral podem reverter os efeitos devastadores da fenda.
+- **Pistas:** Rituais ancestrais, referências a velhas alianças e sinais de uma influência mental que se intensifica com a aproximação do lorde dos segredos.
+- **Desafios:** Sobreviver a emboscadas de cultistas determinados a manter o caos, enfrentar testes de coragem e conquistar o apoio das forças dracônicas.
+#### Aventura 11 – O Portal das Dimensões:**
     
-    - **Resumo:** Agora aliados com a dragão esmeralda, os heróis são conduzidos até sua superior – a imponente dragão anciã de safira –, cuja sabedoria e poder ancestral podem reverter os efeitos devastadores da fenda.
-    - **Pistas:** Rituais ancestrais, referências a velhas alianças e sinais de uma influência mental que se intensifica com a aproximação do lorde dos segredos.
-    - **Desafios:** Sobreviver a emboscadas de cultistas determinados a manter o caos, enfrentar testes de coragem e conquistar o apoio das forças dracônicas.
-- **Aventura 11 – O Portal das Dimensões:**
+- **Resumo:** Em um cenário onde o tecido da realidade está à beira do colapso, os heróis lideram uma expedição para fechar o portal que conecta as forças malignas ao mundo mortal.
+- **Pistas:** Inscrições arcanas reveladoras, visões apocalípticas e a sensação esmagadora de uma influência mental iminente infiltrando os vilões.
+- **Desafios:** Lutar contra hordas de cultistas e criaturas interdimensionais, enquanto executam um ritual que requer sacrifícios pessoais e coletivos para restaurar o equilíbrio.
+####  **Aventura 12 – O Confronto Final – A Revelação:**
     
-    - **Resumo:** Em um cenário onde o tecido da realidade está à beira do colapso, os heróis lideram uma expedição para fechar o portal que conecta as forças malignas ao mundo mortal.
-    - **Pistas:** Inscrições arcanas reveladoras, visões apocalípticas e a sensação esmagadora de uma influência mental iminente infiltrando os vilões.
-    - **Desafios:** Lutar contra hordas de cultistas e criaturas interdimensionais, enquanto executam um ritual que requer sacrifícios pessoais e coletivos para restaurar o equilíbrio.
-- **Aventura 12 – O Confronto Final – A Revelação:**
-    
-    - **Resumo:** No ápice da campanha, o Devorador de Mentes se revela completamente, expondo toda a extensão de sua manipulação e a sombria aliança que sustentava os eventos passados. Os heróis enfrentam um dilema moral final: destruir essa influência maligna ou tentar redimi-la, reconfigurando o destino de Soleia.
-    - **Pistas:** Confrontos com antigos aliados, revelações dramáticas em zonas de intensa instabilidade mágica e testemunhos diretos dos próprios seres dracônicos.
-    - **Desafios:** Uma batalha épica combinando força física, desafios mentais e testes de fé, em que os heróis devem unir tudo que aprenderam ao longo da jornada.
+- **Resumo:** No ápice da campanha, o Devorador de Mentes se revela completamente, expondo toda a extensão de sua manipulação e a sombria aliança que sustentava os eventos passados. Os heróis enfrentam um dilema moral final: destruir essa influência maligna ou tentar redimi-la, reconfigurando o destino de Soleia.
+- **Pistas:** Confrontos com antigos aliados, revelações dramáticas em zonas de intensa instabilidade mágica e testemunhos diretos dos próprios seres dracônicos.
+- **Desafios:** Uma batalha épica combinando força física, desafios mentais e testes de fé, em que os heróis devem unir tudo que aprenderam ao longo da jornada.
 
 **Objetivo Final:**  
 Restaurar (ou reconfigurar) o equilíbrio em Soleia, selando – ou manipulando – a fenda interdimensional e determinando o destino da influência oculta que afetou tanto os humanos quanto as forças místicas. Os heróis precisarão enfrentar as consequências de escolhas passadas, traindo alianças e estabelecendo um novo pilar para uma era de renovação dracônica.
