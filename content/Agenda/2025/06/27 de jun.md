@@ -1,0 +1,8 @@
+- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+	- [ ] Exibir valor salvo na remessa
+	- [ ] Testar atualização de programação
+	- [ ] Ajustar frequência
+- [ ] Adicionar dados na API publica de construction e de vehicle (???)
+- [x] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)
+	- [x] Adicionar tempo de duração em obra na entidade
+- [ ] Salvar aluguel Rose noivas

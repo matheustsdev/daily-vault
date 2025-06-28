@@ -1,0 +1,15 @@
+- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+	- [ ] Exibir valor salvo na remessa
+	- [ ] Testar atualização de programação
+	- [ ] Ajustar frequência
+- [ ] Adicionar dados na API publica de construction e de vehicle (???)
+- [ ] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)]]
+	- [x] Ajuste do texto de capacidade
+	- [x] Adição do campo Id externo para veículos
+	- [ ] Adicionar tempo de duração em obra na entidade
+	- [x] Ajustar texto de ajuda de "Bomba própria"
+	- [x] Verificar erro ao adicionar veículo
+	- [x] Ajustar exibição de veículos de centrais compartilhadas na expedição
+- [ ] Salvar aluguel Rose noivas
+- [x] Ajuste Concreserv
+	- [x] Romaneio

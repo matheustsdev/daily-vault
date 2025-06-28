@@ -8,20 +8,81 @@
         "type": "tabs",
         "children": [
           {
-            "id": "541ef9f5426c1e8f",
+            "id": "14581bbe8ebb42f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "If you have a line helper - Alarmist planning delays"
+            }
+          },
+          {
+            "id": "9fd977d29881a50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudo/Análise de mercado, patentes e propriedade intelectual e industrial.md",
+                "file": "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise de mercado, patentes e propriedade intelectual e industrial"
+              "title": "Unloading mode (Pump, crane, direct discharge, etc)"
+            }
+          },
+          {
+            "id": "6433e1c9e7fc21eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Soleia - World/Aventuras/A vila dos sussurros.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "A vila dos sussurros"
+            }
+          },
+          {
+            "id": "ef51ec0432c04e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novas notas/Brainstorm de campanha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorm de campanha"
+            }
+          },
+          {
+            "id": "e6d8bc92448e696b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilidades/Prompts/Worldbuilding de Soleia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Worldbuilding de Soleia"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -36,35 +97,35 @@
         "dimension": 50.16155088852988,
         "children": [
           {
-            "id": "252cef9ae0d5f627",
+            "id": "1fca090a2b7c400e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/05/29 de mai.md",
+                "file": "Agenda/2025/06/26 de jun.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "29 de mai"
+              "title": "26 de jun"
             }
           },
           {
-            "id": "4b675ee27cad7b2f",
+            "id": "821558102605234d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/05/30 de mai.md",
+                "file": "Agenda/2025/06/27 de jun.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "30 de mai"
+              "title": "27 de jun"
             }
           }
         ],
@@ -94,7 +155,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alto vale",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,36 +284,37 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "541ef9f5426c1e8f",
+  "active": "821558102605234d",
   "lastOpenFiles": [
-    "Estudo/Inovação e desenvolvimento de produtos.md",
-    "Estudo/Ciclo de Vida do Produto.md",
-    "Agenda/2025/05/30 de mai.md",
-    "Topcon/Tickets/Valores zerados Remessa.md",
-    "Topcon/Tickets/Column 'concreterecipeid' is null.md",
-    "Topcon/Tickets/Divergencia custo dos insumos.md",
-    "Agenda/2025/05/29 de mai.md",
-    "Novas notas/Untitled.md",
+    "RPG/Soleia - World/Aventuras/A vila dos sussurros.md",
+    "Novas notas/Brainstorm de campanha.md",
+    "Utilidades/Prompts/Worldbuilding de Soleia.md",
+    "Agenda/2025/06/27 de jun.md",
+    "Novas notas/Possível novo template de aventura.md",
+    "Agenda/2025/06/26 de jun.md",
+    "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
+    "Agenda/2025/06/25 de jun.md",
+    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "Agenda/2025/06/24 de jun.md",
+    "Agenda/2025/06/23 de jun.md",
     "Topcon/Helper.md",
-    "Topcon/Tickets/Inserir dados no arquivo Shipment.xml.md",
-    "Utilidades/Comandos.md",
-    "Agenda/2025/05/28 de mai.md",
-    "Agenda/2025/05/27 de mai.md",
-    "Agenda/2025/05/26 de mai.md",
-    "Topcon/Tickets/NF sem chave - PRIORIDADE.md",
-    "Topcon/Tarefas/Incluir campo interveniente na DeliveryTicket e DeliveryTaxDocument.md",
-    "Topcon/Tickets/13487 - Traços inativos disponíveis para carregamento.md",
-    "Agenda/2025/05/23 de mai.md",
-    "Agenda/2025/05/19 de mai.md",
-    "Agenda/2025/05/22 de mai.md",
-    "Agenda/2025/05/21 de mai.md",
-    "Topcon/Tickets/Erro ao vincular carga.md",
-    "Agenda/2025/05/20 de mai.md",
-    "Estudo/Domain-Driven Design (DDD).md",
-    "Estudo/Domain - Driven Design (DDD).md",
+    "Agenda/2025/06/20 de jun.md",
+    "Novas notas/Camapnha.md",
+    "Utilidades/Prompts/Gerador de prompts.md",
+    "RPG/Soleia - World/Contos e lendas/Cidade das Cinzas.md",
+    "Agenda/2025/06/18 de jun.md",
+    "RPG/Soleia - World/Locais/Cidades/Atemora, a cidade das Cinzas.md",
+    "RPG/Soleia - World/Locais/Terramor.md",
+    "Templates/RPG/Cidade.md",
+    "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
+    "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
+    "Agenda/2025/06/17 de jun.md",
+    "Topcon/Tickets/Novo ticket.md",
+    "Agenda/2025/06/16 de jun.md",
+    "Agenda/2025/06/13 de jun.md",
+    "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
-    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516173800.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
