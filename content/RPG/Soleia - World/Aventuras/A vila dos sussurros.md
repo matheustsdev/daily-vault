@@ -1,284 +1,78 @@
 ---
 Origem:
 ---
-Aventura: "Vila dos Sussurros – O Teste da Infiltração" (Revisada)
-# Introdução e Contexto
-## Início:
-
-A halfling Lavinia Folha de Chá se aproxima do grupo com uma solicitação cautelosa. Em vez de revelar detalhes precisos sobre a Vila dos Sussurros, Lavinia menciona que a cidade está sob uma "estranha influência", causando desaparecimentos e comportamentos incomuns. Ela pede que os aventureiros investiguem a área e descubram o que está acontecendo, sem criar pânico ou confrontar diretamente os moradores.
-## Contexto:
-
-- Vila dos Sussurros apresenta um cenário perturbador: casas abandonadas, ruas silenciosas e uma atmosfera opressiva.
-- Os poucos moradores exibem comportamentos repetitivos e pouco questionadores, sem serem abertamente ameaçadores.
-- Há sussurros indistintos e uma sensação de mistério que permeia a vila.
-
-## Objetivos da Missão
-- Para Lavinia Folha de Chá:
-	- Avaliar a capacidade do grupo de se infiltrar em um ambiente sob influência desconhecida, coletar informações e lidar com situações delicadas sem causar alarme.
-	- Obter pistas sobre a natureza da ameaça em Vila dos Sussurros e como ela está afetando os moradores.
-
-- Objetivos Específicos para o Grupo:
-	- Infiltrar a Vila dos Sussurros: Entrar sem serem detectados e evitar chamar a atenção dos moradores controlados.
-	- Coletar Evidências: Reunir informações sobre os desaparecimentos, os comportamentos estranhos e quaisquer sinais de uma influência externa.
-
-Testar a Resistência do Ambiente: Lidar com efeitos de confusão, desorientação e alucinações sutis que afetam a vila.
-
-Identificar um Ponto Focal: Localizar a fonte ou o centro da influência que está afetando Vila dos Sussurros.
-
-Descobrir o Destino dos Desaparecidos: Investigar para descobrir o que aconteceu com os moradores que desapareceram.
-
-3. Estrutura da Aventura
-Ato I: A Sombra dos Desaparecidos
-
-Cena 1: O Pedido de Lavinia
-
-Descrição: Lavinia Folha de Chá encontra o grupo e explica a situação em Vila dos Sussurros, enfatizando a necessidade de discrição e cautela.
-
-Ações: Os jogadores aceitam a missão e negociam os detalhes com Lavinia, que oferece informações limitadas para evitar alarmar o grupo.
-
-Desafios:
-
-Testes de Intuição para avaliar a sinceridade de Lavinia.
-
-Testes de Persuasão para obter mais informações sobre a vila e a missão.
-
-Cena 2: A Infiltração
-
-Descrição: O grupo se aproxima de Vila dos Sussurros, notando o silêncio perturbador e os sinais de abandono.
-
-Ações: Os jogadores planejam e executam sua infiltração, evitando as patrulhas dos moradores controlados.
-
-Desafios:
-
-Testes de Percepção para identificar pontos de entrada e rotas de patrulha.
-
-Testes de Furtividade para se moverem sem serem detectados.
-
-Ato II: Revelações Sombrias
-
-Cena 1: Os Moradores Controlados
-
-Descrição: O grupo encontra um grupo de moradores que se movem em sincronia, realizando tarefas sem expressão ou emoção.
-
-Ações: Os jogadores tentam interagir com os moradores, mas percebem que eles respondem apenas a comandos simples e repetitivos.
-
-Desafios:
-
-Testes de Percepção para notar os sinais de controle mental.
-
-Testes de Persuasão para tentar quebrar o controle, com pouco ou nenhum sucesso.
-
-Cena 2: O Altar Profano
-
-Descrição: O grupo descobre um altar profano no centro da vila, adornado com símbolos estranhos e encharcado em uma energia sinistra.
-
-Ações: Os jogadores examinam o altar e encontram um ritual em andamento, onde os moradores estão sendo usados para criar Devoradores de Intelecto.
-
-Desafios:
-
-Testes de Arcanismo para entender a natureza do ritual.
-
-Testes de Resistência (Sabedoria) para evitar serem afetados pela energia do altar.
-
-Ato III: Midias White e os Devoradores de Intelecto
-
-Cena 1: O Confronto
-
-Descrição: O grupo é interrompido por Midias White, agora um comandante servindo ao Devorador de Mentes, liderando um grupo de cultistas e Devoradores de Intelecto.
-
-Ações: Os jogadores devem lutar contra Midias e seus seguidores para impedir a criação de mais Devoradores de Intelecto.
-
-Desafios:
-
-Combate contra Midias White (um bruxo aprimorado), cultistas e Devoradores de Intelecto.
-
-Táticas para proteger uns aos outros dos ataques psíquicos dos Devoradores de Intelecto.
-
-Cena 2: A Fuga e o Relatório
-
-Descrição: Após derrotar Midias (ou escapar, se a luta for muito difícil), o grupo foge da Vila dos Sussurros com as informações coletadas.
-
-Ações: Os jogadores retornam para Lavinia Folha de Chá e relatam suas descobertas.
-
-Desafios:
-
-Testes de Persuasão para convencer Lavinia da gravidade da situação.
-
-Lavinia revela a natureza dos Devoradores de Intelecto e a ameaça do Devorador de Mentes, incentivando o grupo a se preparar para a batalha que se aproxima.
-
-4. Recompensas e Consequências
-
-Recompensas:
-
-Lavinia Folha de Chá oferece uma recompensa significativa em ouro e itens mágicos por suas descobertas.
-
-O grupo ganha a confiança de Lavinia, que se torna uma aliada valiosa na luta contra o Devorador de Mentes.
-
-Consequências:
-
-O grupo descobre a existência dos Devoradores de Intelecto e a ameaça do Devorador de Mentes, preparando-se para enfrentar uma força maior e mais sinistra.
-
-O confronto com Midias White estabelece um inimigo recorrente, que continuará a ser uma ameaça ao longo da campanha.
-
-5. Notas Adicionais
-
-Midias White: Sua presença como comandante adiciona uma camada pessoal ao conflito e prepara o terreno para futuros encontros.
-
-Devoradores de Intelecto: Sua natureza grotesca e a forma como são criados adicionam horror e urgência à missão.
-
-Lavinia Folha de Chá: Suas revelações sobre os Devoradores de Intelecto e o Devorador de Mentes elevam a importância da missão e preparam o grupo para os desafios que virão.
-
-Combate: Garanta que os combates sejam desafiadores, mas equilibrados para um grupo de nível 3, ajustando o número e as habilidades dos inimigos conforme necessário.
-
-# Premissa
-Lavinia Folha de Cha
-
-# Ato 1
-Uma breve descrição do ato
-
-
-## Cena 1
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
+# Ato 1: A Sombra dos Desaparecidos
+## Cena 1: O Pedido de Lavinia
+Lavinia Folha de Chá intercepta os personagens na volta do encontro de Telunie e tenta comprar o artefato dos personagens. Os itens que ele pode ofertar são:
+- Poção de forma gasosa
+	- Quando bebe esta poção, você ganha os efeitos da magia forma gasosa por 1 hora (não requer concentração) ou até você terminar o efeito com uma ação bônus. O recipiente dessa poção parece conter uma névoa que se move e flui como água
+- Poção de cura maior
+	- Com uma ação bônus, ao tomar essa poção ela recupera 4d4+4. Porém, caso seja utilizado uma ação, a poção irá recuperar o valor inteiro (20).
+- Poção de força do gigante de Gelo
+	- Quando bebe esta poção, seu valor de Força muda por 1 hora. O tipo de gigante determinar o valor (23). A poção não produz efeito em você caso sua Força seja igual ou maior que o valor dela. O líquido transparente dessa poção tem um pedaço de unha de um gigante do tipo apropriado flutuando nele
+
+Além disso, ela explica a situação na [[Vila dos Pinheiros]], que muitas pessoas desapareceram nos últimos dias, enfatizando a necessidade de discrição e cautela devido não se saber ao certo o que aconteceu e promete que pode retribuir com ainda mais itens mágicos se retornarem com informações ou resolver o problema de lá.
+
+Vale lembrar que Lavinia na verdade está utilizando desse pedido para saber mais a respeito das capacidades do personagens. 
 ### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
+- Testes de Intuição para avaliar a sinceridade de Lavinia.
+- Testes de Persuasão para obter mais informações sobre a vila e a missão.
+## Cena 2: A jornada
+A caminho da vila os personagens passam por uma floresta densa repleta de lagartos que acabam atacando os jogadores no final do primeiro dia de viagem. 
 
-
-## Cena 2
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
+Essa quantidade de lagartos se deve à proximidade do Dragão de Esmeralda
 ### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-## Cena 3
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
-### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-
+- 8 Giant Lizards
 ## Recompensas
-
+- Nos lagartos pode ser encontrado uma esmeralda que podem ter sido engolida por um deles. Para encontrar seria necessário um teste de natureza dificuldade 20. Esmeraldas valem 1000 PO.
 
 ## Pistas para próximo ato
-- 
-- 
--  
+- A solicitação de Lavinia já é suficiente para a passagem de ato
+# Ato II: Revelações Sombrias
+## Cena 1: Os Moradores Controlados
 
+![[Pasted image 20250629102900.png]]
 
-# Ato 2
-Uma breve descrição do ato
+Na vila dos Pinheiros o grupo encontra os moradores que se movem em sincronia, realizando tarefas sem expressão, emoção até mesmo sem se comunicar. 
 
-
-## Cena 1
-Uma breve descrição da cena
-
+Porém quando os jogadores se comunicarem com eles, instantaneamente eles começam a se comunicar mais e a exibir mais expressões.
 ### Pistas
-- 
-- 
--  
+- Percepção de que os moradores estão forçando interação mostra que algo está errado com a vila como um todo
+- Na taverna da cidade tem uma pessoa que não é da cidade, que está de passagem, um meio elfo bardo chamado Faenon Finwe que já viu algo semelhante em outras vilas pequenas que passou e viu uma casa com cânticos estranhos
 
 ### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
+- Teste de Intuição para sentir que as pessoas da cidade estão forçando as interações
+- Teste de Persuasão para extrair informações do Faenon Finwe
+## Cena 2: O Altar Profano
+Investigando em busca dessa casa que é entoado cânticos é necessário buscar na cidade inteira. Mas na verdade ele ocorre na casa mais ao sul da vila.
 
+A vila possui diversos sigilos escritos além do bardo Faenon Finwe preso e amordaçado sendo alvo do ritual.
+### Pistas
+- O som dos cânticos ajuda à localizar a cidade
+- Quando já próximo é possível ver flashs de luz verde
+### Desafios
+- Localizar a casa
+
+# Ato III: Midias White e os cultistas
+## Cena 1: O Confronto
+A casa possui um guarda na porta e um guarda no andar de cima da casa atirando com um arco que logo visualiza os personagens e é dificil surpreende-los
+
+Ao combate iniciar, 2 cultistas abrem a porta que é possível ver todos os inimigos. Ao fim do combate, Midias some deixando o restante dos cultistas pra trás.
+### Desafios
+- Combate
+	- Midias White Lv 3
+	- 4 cultistas
+	- 2 bandidos protegendo
 
 ## Cena 2
-Uma breve descrição da cena
+Os personagens voltam até Lavinia no dia seguinte e ela revela que os personagens encontraram uma vila dominada por uma mente coletiva e que sabe que existe um Devorador de Mentes atuando e possivelmente manipulando outros acontecimentos no mundo.
 
-### Pistas
-- 
-- 
--  
-
-### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-## Cena 3
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
-### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-
+No final da conversa 10 guardas cercam os personagens e avisam da sua prisão.
 ## Recompensas
+- 1 poção de resistência à dano trovejante
+- Corda de escalda:
+	- Esta corda de seda de 18 metros de comprimento pesa 1,5 quilo e pode suportar até 1.500 quilos. Se você segurar uma ponta da corda e usar uma ação para falar a palavra de comando, a corda se anima. Com uma ação bônus, você pode comandar a outra ponta a se mover para um destino de sua escolha. Essa ponta se move 3 metros em seu turno, a primeira vez que você a comandar, e 3 metros em cada um dos seus turnos até alcançar o destino, até sua extensão máxima, ou até você manda-la parar. Você também pode mandar a corda se prender firmemente a um objeto ou para se soltar, para se amarrar ou se desamarrar, ou para se enrolar para ser carregada.
 
+Se você mandar a corda se amarrar, grandes nós aparecerão em intervalos de 30 centímetros ao longo da corda. Enquanto estiver nodosa, a corda se encurta para 15 metros de comprimento e concede vantagem em testes feitos para escala-la.
 
-## Pistas para próximo ato
-- 
-- 
--  
-
-# Ato 3
-Uma breve descrição do ato
-
-
-## Cena 1
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
-### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-## Cena 2
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
-### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-## Cena 3
-Uma breve descrição da cena
-
-### Pistas
-- 
-- 
--  
-
-### Desafios
-Os desafios aqui citados devem ser bem definidos e claros
-
-
-
-## Recompensas
-
-
-## Pistas para próximo ato
-- 
-- 
--  
-
-
+A corda tem CA 20 e 20 pontos de vida. Ela recupera 1 ponto de vida a cada 5 minutos, contanto que tenha pelo menos 1 ponto de vida. Se a corda cair para 0 pontos de vida, ela é destruída.
