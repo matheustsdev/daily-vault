@@ -76,3 +76,9 @@ No final da conversa 10 guardas cercam os personagens e avisam da sua prisão.
 Se você mandar a corda se amarrar, grandes nós aparecerão em intervalos de 30 centímetros ao longo da corda. Enquanto estiver nodosa, a corda se encurta para 15 metros de comprimento e concede vantagem em testes feitos para escala-la.
 
 A corda tem CA 20 e 20 pontos de vida. Ela recupera 1 ponto de vida a cada 5 minutos, contanto que tenha pelo menos 1 ponto de vida. Se a corda cair para 0 pontos de vida, ela é destruída.
+
+# Fichas
+
+![[Pasted image 20250629105933.png]]
+![[Pasted image 20250629110034.png]]
+![[Pasted image 20250629110102.png]]
