@@ -24,19 +24,17 @@
             }
           },
           {
-            "id": "9fd977d29881a50c",
+            "id": "db7f6157cd8feacf",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
+                "file": "Topcon/Helper.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Unloading mode (Pump, crane, direct discharge, etc)"
+              "title": "Helper"
             }
           }
         ],
@@ -55,35 +53,35 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "821558102605234d",
+            "id": "de246e46b8a0de5b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/06/27 de jun.md",
+                "file": "Agenda/2025/07/01 de jul.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "27 de jun"
+              "title": "01 de jul"
             }
           },
           {
-            "id": "24f96d61c101f721",
+            "id": "c7f38692c665845b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/06/30 de jun.md",
+                "file": "Agenda/2025/07/02 de jul.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "30 de jun"
+              "title": "02 de jul"
             }
           }
         ],
@@ -92,7 +90,7 @@
       {
         "id": "caedef287bdb55ee",
         "type": "tabs",
-        "dimension": 51.88492063492064,
+        "dimension": 51.88492063492063,
         "children": [
           {
             "id": "1e6cb38d9065ad73",
@@ -113,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:Topcon reserva ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,11 +240,16 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9fd977d29881a50c",
+  "active": "db7f6157cd8feacf",
   "lastOpenFiles": [
-    "Agenda/2025/06/30 de jun.md",
-    "Agenda/2025/06/27 de jun.md",
+    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
     "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
+    "Agenda/2025/07/02 de jul.md",
+    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
+    "Agenda/2025/07/01 de jul.md",
+    "Agenda/2025/06/30 de jun.md",
+    "Agenda/2025/07",
+    "Agenda/2025/06/27 de jun.md",
     "RPG/Soleia - World/Aventuras/A vila dos sussurros.md",
     "RPG/Soleia - World/Locais/Vilas/Vila dos Pinheiros.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629110102.png",
@@ -259,7 +262,6 @@
     "Novas notas/Possível novo template de aventura.md",
     "Agenda/2025/06/26 de jun.md",
     "Agenda/2025/06/25 de jun.md",
-    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
     "Agenda/2025/06/24 de jun.md",
     "Agenda/2025/06/23 de jun.md",
     "Topcon/Helper.md",
@@ -271,9 +273,6 @@
     "RPG/Soleia - World/Locais/Cidades/Atemora, a cidade das Cinzas.md",
     "RPG/Soleia - World/Locais/Terramor.md",
     "Templates/RPG/Cidade.md",
-    "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
-    "RPG/Soleia - World/Contos e lendas/A Gênese da Ruptura, o Nascimento das Lendas Corrompidas.md",
-    "Agenda/2025/06/17 de jun.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",

@@ -1,11 +1,12 @@
 ---
 Tarefa: TDP-1798
 Desenvolvedor: Eu
-Método de code review: 
+Método de code review:
+  - Misto
 Responsabilidade:
   - Desenvolver
 Data de início: 2025-06-03
-Data de fim:
+Data de fim: 2025-07-02
 ---
 # Quebra técnica (49h/36h)
 

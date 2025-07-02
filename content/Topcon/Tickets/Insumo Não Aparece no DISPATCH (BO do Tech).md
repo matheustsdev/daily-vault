@@ -1,6 +1,6 @@
 ---
 Ticket: 485100
-Status: Em análise
+Status: Descartado
 Data de início: 
 Data de fim:
 ---

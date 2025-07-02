@@ -1,0 +1,7 @@
+- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+	- [ ] Exibir valor salvo na remessa
+	- [ ] Testar atualização de programação
+	- [ ] Ajustar frequência
+- [x] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)
+	- [x] Documentação
+- [ ] Salvar aluguel Rose noivas
