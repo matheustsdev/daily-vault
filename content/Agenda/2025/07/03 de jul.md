@@ -2,7 +2,5 @@
 	- [ ] Exibir valor salvo na remessa
 	- [ ] Testar atualização de programação
 	- [ ] Ajustar frequência
-- [x] Tarefa [[Unloading mode (Pump, crane, direct discharge, etc)
-	- [x] Documentação
 - [ ] Salvar aluguel Rose noivas
-- [x] Correção de validação do bombeamento ticket 512835
+- [ ] Volei
