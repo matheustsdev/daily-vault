@@ -38,22 +38,6 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "c7f38692c665845b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/07/02 de jul.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "02 de jul"
-            }
-          },
-          {
             "id": "db7f6157cd8feacf",
             "type": "leaf",
             "pinned": true,
@@ -67,6 +51,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "03 de jul"
+            }
+          },
+          {
+            "id": "2c442461a843be8f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/07/04 de jul.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "04 de jul"
             }
           }
         ],
@@ -225,12 +225,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8a61152ab58ab4f1",
+  "active": "2c442461a843be8f",
   "lastOpenFiles": [
-    "Agenda/2025/07/02 de jul.md",
-    "Agenda/2025/07/03 de jul.md",
-    "Topcon/Helper.md",
     "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "Agenda/2025/07/04 de jul.md",
+    "Agenda/2025/07/03 de jul.md",
+    "Agenda/2025/07/02 de jul.md",
+    "Topcon/Helper.md",
     "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
     "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
     "Agenda/2025/07/01 de jul.md",
@@ -257,7 +258,6 @@
     "RPG/Soleia - World/Contos e lendas/Cidade das Cinzas.md",
     "Agenda/2025/06/18 de jun.md",
     "RPG/Soleia - World/Locais/Cidades/Atemora, a cidade das Cinzas.md",
-    "RPG/Soleia - World/Locais/Terramor.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",

@@ -1,6 +1,7 @@
 - [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+	- [ ] Ajuste dos dados da expedição
 	- [ ] Exibir valor salvo na remessa
 	- [ ] Testar atualização de programação
 	- [ ] Ajustar frequência
 - [ ] Salvar aluguel Rose noivas
-- [ ] Volei
+- [x] Volei

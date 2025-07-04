@@ -19,6 +19,13 @@ Data de fim:
 
 - Se a unidade for metro cubico bombeado, o valor adicionado à programação é referente ao volume inteiro?
 - O valor de outros serviços só deve ser contabilizado na programação caso este seja da frequencia "Programação"?
+
+# Validações
+
+- Programação pode editar serviço normal, porém não pode ser removido. 
+- Aidcionar emissão via remessa de bomba tbm
+- Caso já tenha cumprido a frequencia, não exibir
+
 # Casos de teste
 
 - [ ] 
