@@ -22,8 +22,25 @@
               "icon": "lucide-file",
               "title": "If you have a line helper - Alarmist planning delays"
             }
+          },
+          {
+            "id": "8840af68881ad95f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Relatório para bomba com dados das Obras que estão para o dia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +242,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "2c442461a843be8f",
+  "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
-    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
     "Agenda/2025/07/04 de jul.md",
+    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
+    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
     "Agenda/2025/07/03 de jul.md",
     "Agenda/2025/07/02 de jul.md",
     "Topcon/Helper.md",
@@ -257,7 +275,6 @@
     "Utilidades/Prompts/Gerador de prompts.md",
     "RPG/Soleia - World/Contos e lendas/Cidade das Cinzas.md",
     "Agenda/2025/06/18 de jun.md",
-    "RPG/Soleia - World/Locais/Cidades/Atemora, a cidade das Cinzas.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
