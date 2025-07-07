@@ -39,8 +39,7 @@
               "title": "Relatório para bomba com dados das Obras que estão para o dia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,22 +54,6 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "db7f6157cd8feacf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/07/03 de jul.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "03 de jul"
-            }
-          },
-          {
             "id": "2c442461a843be8f",
             "type": "leaf",
             "pinned": true,
@@ -84,6 +67,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "04 de jul"
+            }
+          },
+          {
+            "id": "a681b216250cf0e0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/07/07 de jul.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "07 de jul"
             }
           }
         ],
@@ -244,9 +243,10 @@
   },
   "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
-    "Agenda/2025/07/04 de jul.md",
-    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
     "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "Agenda/2025/07/07 de jul.md",
+    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
+    "Agenda/2025/07/04 de jul.md",
     "Agenda/2025/07/03 de jul.md",
     "Agenda/2025/07/02 de jul.md",
     "Topcon/Helper.md",
@@ -274,7 +274,6 @@
     "Novas notas/Camapnha.md",
     "Utilidades/Prompts/Gerador de prompts.md",
     "RPG/Soleia - World/Contos e lendas/Cidade das Cinzas.md",
-    "Agenda/2025/06/18 de jun.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",

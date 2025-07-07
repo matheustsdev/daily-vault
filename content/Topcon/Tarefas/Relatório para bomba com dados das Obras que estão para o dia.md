@@ -9,7 +9,7 @@ Data de fim:
 ---
 # Quebra técnica (12h/12h)
 
-- [ ]  Criar SQL programação (3h)
+- [x]  Criar SQL programação (3h)
 - [ ]  Criar SQL expedição (3h)
 - [ ]  Ajustar modelo do relatório (3h)
 - [ ] Ajustar modelo do relatório expedição (3h)
