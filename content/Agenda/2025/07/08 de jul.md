@@ -1,0 +1,13 @@
+- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+	- [x] Bloquear remoção de serviços já emitido na programação
+	- [x] Adicionar emissão de serviço no bombeamento
+	- [x] Ajustar componentização do accordion na expedição
+	- [x] Ajustar frequência
+	- [x] Tratar argamassa
+	- [ ] Melhorar UX/UI
+		- [ ] Ajustar caixa de adicionais
+		- [ ] Ajustar mensagem com código da remessa
+- [ ] Salvar aluguel Rose noivas
+	- [ ] Ajustar tratativa dos produtos
+	- [ ] Exibir corretamente o step de resumo
+	- [ ] Salvar no banco corretamente os dados

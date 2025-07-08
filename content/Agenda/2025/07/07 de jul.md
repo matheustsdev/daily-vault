@@ -2,7 +2,7 @@
 	- [x] Bloquear remoção de serviços já emitido na programação
 	- [ ] Adicionar emissão de serviço no bombeamento
 		- [x] Emissão funcional
-		- [ ] Testar romaneio
+		- [x] Testar romaneio
 		- [ ] Adicionar tratativa para exibir apenas com frequência igual à bombeamento
 	- [ ] Ajustar componentização do accordion na expedição
 	- [ ] Ajustar frequência
