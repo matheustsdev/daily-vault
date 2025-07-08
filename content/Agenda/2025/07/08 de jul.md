@@ -6,7 +6,9 @@
 	- [x] Tratar argamassa
 	- [ ] Melhorar UX/UI
 		- [ ] Ajustar caixa de adicionais
-		- [ ] Ajustar mensagem com código da remessa
+		- [x] Ajustar mensagem com código da remessa
+	- [ ] Revalidar bombeamento
+	- [ ] Testar argamassa
 - [ ] Salvar aluguel Rose noivas
 	- [ ] Ajustar tratativa dos produtos
 	- [ ] Exibir corretamente o step de resumo
