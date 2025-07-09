@@ -1,14 +1,13 @@
-- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
-	- [x] Bloquear remoção de serviços já emitido na programação
-	- [x] Adicionar emissão de serviço no bombeamento
+- [x] Tarefa [[If you have a line helper - Alarmist planning delays
 	- [x] Ajustar componentização do accordion na expedição
 	- [x] Ajustar frequência
 	- [x] Tratar argamassa
-	- [ ] Melhorar UX/UI
-		- [ ] Ajustar caixa de adicionais
+	- [x] Melhorar UX/UI
+		- [x] Ajustar caixa de adicionais
 		- [x] Ajustar mensagem com código da remessa
-	- [ ] Revalidar bombeamento
-	- [ ] Testar argamassa
+	- [x] Revalidar bombeamento
+	- [x] Testar argamassa
+	- [x] Documentação
 - [ ] Salvar aluguel Rose noivas
 	- [ ] Ajustar tratativa dos produtos
 	- [ ] Exibir corretamente o step de resumo

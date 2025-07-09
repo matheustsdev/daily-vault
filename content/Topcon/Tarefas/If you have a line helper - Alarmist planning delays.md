@@ -13,8 +13,8 @@ Data de fim:
 - [x] Ajuste do card de outros serviços (4h)
 - [x] Adicionar outros serviços na remessa (12h)
 - [x] Adicionar outros serviços na impressão da remessa (4h)
-- [ ] Adicionar na expedição de bomba (4h)
-- [ ] Tratar frequência (8h)
+- [x] Adicionar na expedição de bomba (4h)
+- [x] Tratar frequência (8h)
 
 # Duvidas
 
@@ -24,14 +24,8 @@ Data de fim:
 # Validações
 
 - Programação pode editar serviço normal, porém não pode ser removido. 
-- Aidcionar emissão via remessa de bomba tbm
+- Adicionar emissão via remessa de bomba tbm
 - Caso já tenha cumprido a frequencia, não exibir
-
-# Casos de teste
-
-- [ ] 
-- [ ] 
-- [ ] 
 
 
 

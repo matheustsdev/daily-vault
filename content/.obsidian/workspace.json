@@ -38,8 +38,39 @@
               "icon": "lucide-file",
               "title": "Relatório para bomba com dados das Obras que estão para o dia"
             }
+          },
+          {
+            "id": "3df5a8314abd63e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O Crepúsculo Primordial,  a lenda da luz e das sombras"
+            }
+          },
+          {
+            "id": "8858af551093212b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants."
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -54,19 +85,19 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "33ee893d67495954",
+            "id": "2d788ecf62a0b95a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agenda/2025/07/08 de jul.md",
+                "file": "Agenda/2025/07/09 de jul.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "08 de jul"
+              "title": "09 de jul"
             }
           }
         ]
@@ -224,11 +255,18 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8a61152ab58ab4f1",
+  "active": "2d788ecf62a0b95a",
   "lastOpenFiles": [
+    "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
     "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
-    "Agenda/2025/07/08 de jul.md",
     "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
+    "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
+    "Novas notas/Brainstorm de campanha.md",
+    "Novas notas/O jardim dos caídos.md",
+    "Novas notas/O registro arcano.md",
+    "Novas notas/Possível novo template de aventura.md",
+    "Agenda/2025/07/09 de jul.md",
+    "Agenda/2025/07/08 de jul.md",
     "Agenda/2025/07/07 de jul.md",
     "Agenda/2025/07/04 de jul.md",
     "Agenda/2025/07/03 de jul.md",
@@ -247,16 +285,9 @@
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629105933.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629102900.png",
     "Estudo/Análise de mercado, patentes e propriedade intelectual e industrial.md",
-    "Novas notas/Brainstorm de campanha.md",
     "Utilidades/Prompts/Worldbuilding de Soleia.md",
-    "Novas notas/Possível novo template de aventura.md",
     "Agenda/2025/06/26 de jun.md",
     "Agenda/2025/06/25 de jun.md",
-    "Agenda/2025/06/24 de jun.md",
-    "Agenda/2025/06/23 de jun.md",
-    "Agenda/2025/06/20 de jun.md",
-    "Novas notas/Camapnha.md",
-    "Utilidades/Prompts/Gerador de prompts.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
