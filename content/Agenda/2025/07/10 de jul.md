@@ -1,0 +1,11 @@
+- [ ] Salvar aluguel Rose noivas
+	- [ ] Ajustar tratativa dos produtos
+	- [ ] Exibir corretamente o step de resumo
+	- [ ] Salvar no banco corretamente os dados
+- [ ] Tarefa [[CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants.|Laboratoristas]]
+	- [x] Ajustar formulário de funcionário
+	- [x] Adicionar paramêtro de tempo médio de permanência em obra de forma geral
+- [ ] reunião
+	- [x] Sobre War Room do inferno
+	- [x] Clima organizacional
+	- [x] Novos devs
