@@ -1,0 +1,23 @@
+- [ ] Salvar aluguel Rose noivas
+	- [ ] Exibir corretamente o step de resumo
+	- [ ] Salvar no banco corretamente os dados
+- [ ] Tarefa [[CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants.|Laboratoristas]]
+	- [ ] Adicionar local de ensaio
+	- [ ] Adicionar "Necessidade de permanecer na obra"
+- [ ] PulseAudio Pava Control
+- [x] Erro ao alterar serviços
+- [x] One a one
+	- 70/100
+	- Excepcional boa vontade, melhoria continua e pipipopo
+	- Desempenho acima do nivel
+	- Boa comunicação
+	- A melhorar
+		- Detalhamento e revisão desses pontos (!!!)
+		- Incentivo a mudanças (fazer mais)
+		- Consistência e experiência em código (!!!)
+	- PDI
+		- Usar mais IA
+		- Aprimorar refinamento técnico, dedicar tempo aos detalhes
+		- Potencializar incentivo a mudanças
+		- Continuar pegando coisas mais desafiadoras e tal, assumindo a responsabilidades.
+- [x] Code review

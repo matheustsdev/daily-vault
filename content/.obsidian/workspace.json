@@ -85,22 +85,6 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "2d788ecf62a0b95a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/07/09 de jul.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "09 de jul"
-            }
-          },
-          {
             "id": "d6bb37eff901e78b",
             "type": "leaf",
             "pinned": true,
@@ -114,6 +98,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "10 de jul"
+            }
+          },
+          {
+            "id": "6d67ff644c866f47",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/07/11 de jul.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "11 de jul"
             }
           }
         ],
@@ -272,12 +272,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8a61152ab58ab4f1",
+  "active": "6d67ff644c866f47",
   "lastOpenFiles": [
-    "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
     "Agenda/2025/07/10 de jul.md",
-    "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
+    "Agenda/2025/07/11 de jul.md",
+    "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
     "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
     "Agenda/2025/07/09 de jul.md",
     "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
     "Novas notas/Brainstorm de campanha.md",
@@ -304,7 +305,6 @@
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629102900.png",
     "Estudo/Análise de mercado, patentes e propriedade intelectual e industrial.md",
     "Utilidades/Prompts/Worldbuilding de Soleia.md",
-    "Agenda/2025/06/26 de jun.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
