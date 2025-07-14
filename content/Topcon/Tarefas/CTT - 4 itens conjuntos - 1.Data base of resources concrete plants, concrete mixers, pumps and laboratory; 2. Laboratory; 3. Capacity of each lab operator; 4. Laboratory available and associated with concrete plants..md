@@ -18,12 +18,13 @@ Data de fim:
 	- [ ] Criar tela de alocação como a de veículos (26h)
 - [x] Adição do campo tempo de permanência em obra pro laboratorista (1h)
 - [x] Adição do campo tempo de permanência em obra como parametro geral (1h)
-- [ ] Adicionar na inclusão de programação o local de ensaio (rompimento), podendo ser: Laboratório Interno ou Externo e no Gantt (1h)
-- [ ] Adicionar na inclusão de programação o campo Necessidade de permanecer em obra que pode ser Sim ou Não e no Gantt (1h)
+- [ ] Adicionar na inclusão de programação o local de ensaio (rompimento), podendo ser: Laboratório Interno ou Externo e no Gantt - Padrão interno (1h)
+- [ ] Adicionar na inclusão de programação o campo Necessidade de permanecer em obra que pode ser Sim ou Não e no Gantt - Padrão Não (1h)
 - [ ] Ajustar o clique fechando accordion da média de CPs e melhorar (4h)
 - [ ] Exibir na inclusão de programação uma mensagem de ajuda informando a quantidade recomendada e idade dos CPs baseado no parâmetro (2h)
 - [ ] Tratar disponibilidade do laboratorista ao emitir programação (2h)
 - [ ] Verificar/criar API para os dados de corpo de prova (incluindo local do ensaio, quantidade de CPs e amostras, capacidade, vínculos e disponibilidade do técnico) (6h)
+- [ ] TENDO TEMPO - Agrupar os helpers
 
 # Dúvidas
 - O técnico de laboratório deve ser um funcionário? Seria apenas um tipo de funcionário? Ou seria um vinculo do funcionário com dados do mesmo?

@@ -1,4 +1,21 @@
+## Macro acontecimentos
+1. Um dragão vermelho faz um ritual para se tornar um DracoLich e usa uma espada criada em outra dimensão que é indestrutível nesse mundo. Um dragão já havia engolido a espada porém nunca foi digerido e matou o dragão aos poucos.
+2. Um Illitide se une à um dragão, compartilhando seus conhecimentos e proteção para o devorador
+3. Grandes 
+
+
+## Perguntas
+- Por que o dragão vermelho se tornar um DracoLich é um problema?
+- Por que o dragão precisa do Illitide
+- 
+
 # Modelo de Campanha: "Sombras nas Dimensões"
+
+
+## Como criar
+
+- Iniciar do macro pro micro ou o contrário. Geralmente é misturado
+- 
 
 ## 1. Premissa Geral
 

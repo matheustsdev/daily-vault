@@ -115,7 +115,7 @@ E novamente os lobisomens atacam e dessa vez parecem estar juntos para atacar a 
     **Descrição:** Jovem meio-elfa que trabalha como curandeira na vila. Ela tem cabelos dourados e olhos azuis, sempre disposta a ajudar quem precisa.
     **Informações:** 
     - O estoque de kit médico está acabando;
-    - Acredita que estão passando por isso pois irritaram [[Lyrena, a Deusa da Lua e das Águas]] por algum motivo
+    - Acredita que estão passando por isso pois irritaram [[Selene, a deusa da Lua e segredos noturnos]] por algum motivo
     - Sabe que é mais de um lobisomem
 - **Nome:** Vekris Thorne - Mercador tiefling local
     **Descrição:** Mercador tiefling astuto, com pele avermelhada e chifres curvados. Ele lida com bens exóticos e rumores locais.

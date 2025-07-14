@@ -58,19 +58,37 @@
           {
             "id": "3df5a8314abd63e9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
+                "file": "RPG/Soleia - World/Panteão/Panteão.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "O Crepúsculo Primordial,  a lenda da luz e das sombras"
+              "title": "Panteão"
+            }
+          },
+          {
+            "id": "d6a58e668297561c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Novas notas/Brainstorm de campanha.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Brainstorm de campanha"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,22 +103,6 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "d6bb37eff901e78b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/07/10 de jul.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "10 de jul"
-            }
-          },
-          {
             "id": "6d67ff644c866f47",
             "type": "leaf",
             "pinned": true,
@@ -114,6 +116,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "11 de jul"
+            }
+          },
+          {
+            "id": "5e3bb821cf89902b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/07/14 de jul.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "14 de jul"
             }
           }
         ],
@@ -272,16 +290,22 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8840af68881ad95f",
+  "active": "d6a58e668297561c",
   "lastOpenFiles": [
-    "Agenda/2025/07/11 de jul.md",
-    "Agenda/2025/07/10 de jul.md",
+    "Agenda/2025/07/14 de jul.md",
+    "Novas notas/Brainstorm de campanha.md",
+    "Topcon/Tarefas/Parâmetro de validação de retorno de automação por ponto de carga.md",
+    "RPG/Soleia - World/Panteão/Panteão.md",
+    "RPG/Soleia - World/Panteão/Selene, a deusa da Lua e segredos noturnos.md",
+    "RPG/Soleia - World/Brainstorm.md",
     "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
+    "RPG/Soleia - World/Panteão/Anexos/590a2161-2c93-46e5-86f9-fdfce720b40fmatheus-teixeira.jpg",
+    "Agenda/2025/07/11 de jul.md",
+    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
+    "Agenda/2025/07/10 de jul.md",
     "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
     "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
     "Agenda/2025/07/09 de jul.md",
-    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
-    "Novas notas/Brainstorm de campanha.md",
     "Novas notas/O jardim dos caídos.md",
     "Novas notas/O registro arcano.md",
     "Novas notas/Possível novo template de aventura.md",
@@ -296,15 +320,10 @@
     "Agenda/2025/07/01 de jul.md",
     "Agenda/2025/06/30 de jun.md",
     "Agenda/2025/07",
-    "Agenda/2025/06/27 de jun.md",
-    "RPG/Soleia - World/Aventuras/A vila dos sussurros.md",
-    "RPG/Soleia - World/Locais/Vilas/Vila dos Pinheiros.md",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629110102.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629110034.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629105933.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629102900.png",
-    "Estudo/Análise de mercado, patentes e propriedade intelectual e industrial.md",
-    "Utilidades/Prompts/Worldbuilding de Soleia.md",
     "Agenda/2025/06",
     "Estudo/Anexos/Pasted image 20250520173724.png",
     "Estudo/Anexos",
@@ -312,7 +331,6 @@
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516172539.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516170150.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250516165658.png",
-    "RPG/Soleia - World/NPCs/Anexos/Pasted image 20250412103622.png",
     "Utilidades/Prompts",
     "Utilidades",
     "RPG/Soleia - World/Aventuras/Anexos",
