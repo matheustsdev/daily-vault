@@ -103,22 +103,6 @@
         "dimension": 48.11507936507937,
         "children": [
           {
-            "id": "6d67ff644c866f47",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agenda/2025/07/11 de jul.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "11 de jul"
-            }
-          },
-          {
             "id": "5e3bb821cf89902b",
             "type": "leaf",
             "pinned": true,
@@ -132,6 +116,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "14 de jul"
+            }
+          },
+          {
+            "id": "0a9273a54918f626",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agenda/2025/07/15 de jul.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "15 de jul"
             }
           }
         ],
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:Topcon reserva ",
+                "query": "Inativ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -290,20 +291,24 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d6a58e668297561c",
+  "active": "8a61152ab58ab4f1",
   "lastOpenFiles": [
-    "Agenda/2025/07/14 de jul.md",
     "Novas notas/Brainstorm de campanha.md",
-    "Topcon/Tarefas/Parâmetro de validação de retorno de automação por ponto de carga.md",
+    "Topcon/Tickets/Traço Inativo disponível para carregamento.md",
+    "Agenda/2025/07/15 de jul.md",
+    "Topcon/Tickets/Divergencia custo dos insumos.md",
+    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
+    "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
+    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
+    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
+    "Agenda/2025/07/14 de jul.md",
     "RPG/Soleia - World/Panteão/Panteão.md",
+    "Topcon/Tarefas/Parâmetro de validação de retorno de automação por ponto de carga.md",
     "RPG/Soleia - World/Panteão/Selene, a deusa da Lua e segredos noturnos.md",
     "RPG/Soleia - World/Brainstorm.md",
-    "Topcon/Tarefas/CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants..md",
     "RPG/Soleia - World/Panteão/Anexos/590a2161-2c93-46e5-86f9-fdfce720b40fmatheus-teixeira.jpg",
     "Agenda/2025/07/11 de jul.md",
-    "Topcon/Tarefas/Relatório para bomba com dados das Obras que estão para o dia.md",
     "Agenda/2025/07/10 de jul.md",
-    "Topcon/Tarefas/If you have a line helper - Alarmist planning delays.md",
     "RPG/Soleia - World/Contos e lendas/O Crepúsculo Primordial,  a lenda da luz e das sombras.md",
     "Agenda/2025/07/09 de jul.md",
     "Novas notas/O jardim dos caídos.md",
@@ -315,10 +320,6 @@
     "Agenda/2025/07/03 de jul.md",
     "Agenda/2025/07/02 de jul.md",
     "Topcon/Helper.md",
-    "Topcon/Tarefas/Unloading mode (Pump, crane, direct discharge, etc).md",
-    "Topcon/Tickets/Insumo Não Aparece no DISPATCH (BO do Tech).md",
-    "Agenda/2025/07/01 de jul.md",
-    "Agenda/2025/06/30 de jun.md",
     "Agenda/2025/07",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629110102.png",
     "RPG/Soleia - World/Aventuras/Anexos/Pasted image 20250629110034.png",

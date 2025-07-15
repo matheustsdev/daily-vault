@@ -6,5 +6,5 @@
 	- [x] Adicionar "Necessidade de permanecer na obra"
 - [ ] PulseAudio Pava Control
 - [x] Compilar dados dos panteão de Soleia
-- [ ] Degustação dos drinks
-- [ ] Tarefa [[Parâmetro de validação de retorno de automação por ponto de carga]]
+- [x] Degustação dos drinks
+- [x] Tarefa [[Parâmetro de validação de retorno de automação por ponto de carga]]

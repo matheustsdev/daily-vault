@@ -1,0 +1,15 @@
+- [ ] Salvar aluguel Rose noivas
+	- [ ] Salvar no banco corretamente os dados
+- [ ] Tarefa [[CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants.|Laboratoristas]]
+	- [ ] 
+- [x] Tarefa [[Parâmetro de validação de retorno de automação por ponto de carga]]
+- [x] Testes e correções [[If you have a line helper - Alarmist planning delays]]
+	- [x] Melhorar formatação de dinhiero no card
+	- [x] Adicionar validação de itemSquence
+	- [x] Tradução das uinidades no romaneio
+	- [x] Litros e KG (adicionar) considerar como unidade
+	- [x] Na atualização não está sendo exibido os serviços adicionados apos a emissao da programação. Possuem mesmo serviços
+	- [x] Tradução de frequencia de bombeamento
+	- [x] Não bloquear se for frequencai de programação já emitida
+	- [x] Mostrar mensagem de de remessa ja emitida para bombeamento tbm
+- [ ] PulseAudio Pava Control
