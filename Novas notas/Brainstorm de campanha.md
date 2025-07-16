@@ -3,6 +3,15 @@
 2. Um Illitide se une à um dragão, compartilhando seus conhecimentos e proteção para o devorador
 3. Grandes 
 
+## Dragão vermelho (Roxigor Terragnus)e objetyivos
+
+Roxigor possuia uma esposa que foi morta por um grupo de avetnureiros
+em busca de tesouros. Roxigor enfurecido destruiu os aventureiros e a cidade natal deles.
+Roxigor implorou por Bahamut, Tiamat e até por Io mas nada podia ser feito. Roxigor agora se nomeando apenas de Terragnus em homenagem à sua família, jurou vingança contra os deuses e a humanidade.
+
+> [!tip] Sugestão
+> Criar conto sobre os aventureiros e a morte da esposa de Roxigor
+
 
 ## Perguntas
 - Por que o dragão vermelho se tornar um DracoLich é um problema?
