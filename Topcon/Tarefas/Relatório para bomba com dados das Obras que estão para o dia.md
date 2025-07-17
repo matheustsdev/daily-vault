@@ -14,6 +14,9 @@ Data de fim:
 - [ ] Ajustar modelo do relatório (3h)
 - [ ] Ajustar modelo do relatório expedição (3h)
 
+
+![[Pasted image 20250717173026.png]]
+
 # SQL
 
 ## Bombeamento de programação
