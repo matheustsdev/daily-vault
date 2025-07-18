@@ -15,8 +15,15 @@ Roxigor implorou por Bahamut, Tiamat e até por Io mas nada podia ser feito. Rox
 
 ## Perguntas
 - Por que o dragão vermelho se tornar um DracoLich é um problema?
+	- Lichs precisam alimentar suas filacterias com almas, então o dragão teria que matar com frequencia
 - Por que o dragão precisa do Illitide
-- 
+	- O illitide possui conhecimento acumulado de muitos, devido a mente coletiva, e busca encontrar alguem que possua as informações de como executar o ritual.
+
+> [!tip] Sugestão
+> Criar uma aventura (enredo: busca de algo) em que é necessário salvar um mago que possui esse conhecimento ou só criar o mago em si
+- A filacteria
+	- Pensei em ser uma espada lendária, vinda de outro plano e indestrutivel fora do plano de origem. Essa espada ficaria com talvez o proprio devorador ou algum aliado de confiança como o Midias
+
 
 # Modelo de Campanha: "Sombras nas Dimensões"
 

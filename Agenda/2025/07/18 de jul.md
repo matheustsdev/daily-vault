@@ -1,5 +1,6 @@
 - [x] Tarefa [[CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants.|Laboratoristas]]
 	- [x] Adicionar exibição do parametro de CPs na programação
 - [ ] PulseAudio Pava Control
-- [x] Tarefa [[Relatório para bomba com dados das Obras que estão para o dia]]
-	- [x] Emitir relatório de programação e validar com Luiz
+- [x] Code review do web service
+- [ ] Finalizar documentação tarefa [[If you have a line helper - Alarmist planning delays]]
+- [ ] 
