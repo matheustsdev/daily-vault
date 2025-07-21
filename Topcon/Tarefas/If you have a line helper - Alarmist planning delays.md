@@ -1,11 +1,12 @@
 ---
 Tarefa: TDP-1827
 Desenvolvedor: Eu
-Método de code review: 
+Método de code review:
+  - Apresentação
 Responsabilidade:
   - Desenvolver
 Data de início: 2025-06-17
-Data de fim:
+Data de fim: 2025-07-18
 ---
 # Quebra técnica (23h/60h)
 

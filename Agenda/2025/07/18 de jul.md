@@ -2,5 +2,5 @@
 	- [x] Adicionar exibição do parametro de CPs na programação
 - [ ] PulseAudio Pava Control
 - [x] Code review do web service
-- [ ] Finalizar documentação tarefa [[If you have a line helper - Alarmist planning delays]]
+- [x] Finalizar documentação tarefa [[If you have a line helper - Alarmist planning delays]]
 - [ ] 
