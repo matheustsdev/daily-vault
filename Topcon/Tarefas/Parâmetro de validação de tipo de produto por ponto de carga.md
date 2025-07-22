@@ -1,11 +1,12 @@
 ---
 Tarefa: TDP-2160
 Desenvolvedor: Eu
-Método de code review: 
+Método de code review:
+  - Pull Request
 Responsabilidade:
   - Desenvolver
-Data de início: 
-Data de fim:
+Data de início: 2025-07-18
+Data de fim: 2025-07-22
 ---
 # Quebra técnica (horas estimadas/total)
 

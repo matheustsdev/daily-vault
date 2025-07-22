@@ -101,6 +101,15 @@ ORDER BY reg_schedules.code;
 # Dúvidas
 - Devo adicionar informação do número do contrato no relatório de programação?
 
+# Correções
+
+- Ajustar espaçamento dos nomes  
+- Ajustar formato Topcon: cabeçalho e rodape  
+- Adicionar dados do contrato  
+- Adicionar observação externa da programação  
+- Remover referencia de acesso  
+- Ver possibilidade de adicionar contato
+
 # Casos de teste
 
 - [ ] 
