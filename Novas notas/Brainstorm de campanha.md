@@ -24,6 +24,18 @@ Roxigor implorou por Bahamut, Tiamat e até por Io mas nada podia ser feito. Rox
 - A filacteria
 	- Pensei em ser uma espada lendária, vinda de outro plano e indestrutivel fora do plano de origem. Essa espada ficaria com talvez o proprio devorador ou algum aliado de confiança como o Midias
 
+## Lista ascendente
+- O dragão se torna DracoLich usando a Espada de Caron como filactéria
+- O dragão obtêm a Espada de Caron
+	- 
+- O dragão obtem o conhecimento para executar o ritual
+	- O Devorador de Mentes consegue consumir a mente de um poderoso mago, descendente de Zanin (logo de si mesmo)
+	- Ocorre um ataque à [[Ilha das sombras]] onde James reside
+	- O devorador constrói um exército de devorados para atacar a ilha das sombras
+	- Ao mesmo tempo, ele recolhe poder político e influência para manipular possíveis outros exércitos à atacar a ilha, além de conseguir recursos financeiros para a guerra
+	- Esquadrões buscam artefatos que possam ajudar na guerra.
+		- Midias White busca Teluniee em [[Valéria]] para manipular as emoções de grandes líderes
+		- Outros grupos buscam artefatos mágicos
 
 # Modelo de Campanha: "Sombras nas Dimensões"
 
