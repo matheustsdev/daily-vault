@@ -22,7 +22,8 @@ Data de fim:
 - [x] Adicionar na inclusão de programação o campo Necessidade de permanecer em obra que pode ser Sim ou Não e no Gantt - Padrão Não (1h)
 - [x] Exibir na inclusão de programação uma mensagem de ajuda informando a quantidade recomendada e idade dos CPs baseado no parâmetro (2h)
 - [ ] Tratar disponibilidade do laboratorista ao emitir programação (2h)
-- [ ] Verificar/criar API para os dados de corpo de prova (incluindo local do ensaio, quantidade de CPs e amostras, capacidade, vínculos e disponibilidade do técnico) (6h)
+	- [ ] Verificar/criar API para os dados de corpo de prova (incluindo local do ensaio, quantidade de CPs e amostras, capacidade, vínculos e disponibilidade do técnico) (6h)
+		- [ ] Validar se na API de Employee informa o tipo UNAVAILABLE e remover
 - [ ] TENDO TEMPO - Agrupar os helpers
 - [ ] TENDO TEMPO - Ajustar o clique fechando accordion da média de CPs e melhorar (4h)
 
