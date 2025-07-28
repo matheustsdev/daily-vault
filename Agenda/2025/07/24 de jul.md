@@ -1,5 +1,5 @@
 ## Trabalho
-- [ ] Tarefa [[CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants.|Laboratoristas]]
+- [ ] Tarefa [[Adicionar laboratoristas|Laboratoristas]]
 	- [ ] Adicionar validação de carga horária
 - [x] Show stopper
 	- [x] Programação não integrando

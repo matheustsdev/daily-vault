@@ -1,6 +1,6 @@
 - [ ] Salvar aluguel Rose noivas
 	- [ ] Salvar no banco corretamente os dados
-- [ ] Tarefa [[CTT - 4 itens conjuntos - 1.Data base of resources concrete plants, concrete mixers, pumps and laboratory; 2. Laboratory; 3. Capacity of each lab operator; 4. Laboratory available and associated with concrete plants.|Laboratoristas]]
+- [ ] Tarefa [[Adicionar laboratoristas|Laboratoristas]]
 	- [ ] 
 - [x] Tarefa [[Parâmetro de validação de retorno de automação por ponto de carga]]
 - [x] Testes e correções [[If you have a line helper - Alarmist planning delays]]
