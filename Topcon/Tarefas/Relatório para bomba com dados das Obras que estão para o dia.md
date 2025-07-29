@@ -16,14 +16,14 @@ Data de fim:
 
 - [ ] Tem que trazer a imagem do banco no lado esquerdo do titulo
 - [x] Aumentar o espaço para Inicio e Fim, talvez até mudando o Volume para M³
-- [ ] Trocar dados de saida/chegada central/obra para uma tabela
+- [x] Trocar dados de saida/chegada central/obra para uma tabela
 - [x] Bombistas e auxiliares em campo unico para cada, separado por /
-- [ ] Mover a data de emissão para o topo superior direito do TITULO, não do cabeçalho
+- [x] Mover a data de emissão para o topo superior direito do TITULO, não do cabeçalho
 - [ ] Adicionar rodapé padrão Topcon
 - [x] Remover linhas da parte depois da tabela de dados
 - [x] Na parte de informações da bomba (bomba e placa) trocar por uma informação só -> bomba: code - placa
-- [ ] Na distancia de tubulação corrigir formatação para inteiro
-- [ ] No Volume deixar uma casa decimal
+- [x] Na distancia de tubulação corrigir formatação para inteiro
+- [x] No Volume deixar uma casa decimal
 
 
 ![[Pasted image 20250717173026.png]]

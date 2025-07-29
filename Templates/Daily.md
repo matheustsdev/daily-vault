@@ -5,7 +5,7 @@
 - [ ] 
 ## Estudo
 - [ ] 
-## Lazer
+## Lazer e outros
 - [ ] 
 
 # Planejamento dia seguinte
@@ -16,7 +16,7 @@
 - [ ] 
 ## Estudo
 - [ ] 
-## Lazer
+## Lazer e outros
 - [ ] 
 
 <%* 

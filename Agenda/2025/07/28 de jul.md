@@ -11,7 +11,7 @@
 	- [ ] Implementar atualização de alugueis
 		- Vale uma tabela de registro de alterações? Talvez depois
 ## Lazer e outros
-- [ ] Jogar com amigos ou só
+- [x] Jogar com amigos ou só
 - [ ] Pagar coisas do Casamento
 
 # Planejamento dia seguinte
