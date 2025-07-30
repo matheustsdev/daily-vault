@@ -40,3 +40,13 @@ Data de fim:
 
 
 
+O sistema calcula a quantidade de moldagem que pode ser realizada por cada laboratorista alocado naquela central.
+Para isso é considerado
+	- O tempo disponivel em alocação para o dia
+	- O tempo indisponível em alocação para o dia
+	- A carga horária cadastrada
+	- O tempo de permanência em obra cadastrada no laboratorista
+	- O tempo de permanência em obra cadastrada no parâmetro geral
+O sistema utiliza busca todos os funcionários alocados para aquela central no dia da programação, em seguida faz o somatório da carga horária do dia (descontando possíveis indisponibilidades) e limitando à carga horária cadastrada. Por exemplo:
+	Matheus - Carga horária: 8h - Alocação cadastrada: Disponível 08:00 -> 18:00 e Indisponível de 10:00 as 12:00
+		Portanto o
