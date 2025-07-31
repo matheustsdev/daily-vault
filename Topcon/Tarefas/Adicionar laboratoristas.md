@@ -21,6 +21,7 @@ Data de fim:
 - [x] Adicionar na inclusão de programação o local de ensaio (rompimento), podendo ser: Laboratório Interno ou Externo e no Gantt - Padrão interno (1h)
 - [x] Adicionar na inclusão de programação o campo Necessidade de permanecer em obra que pode ser Sim ou Não e no Gantt - Padrão Não (1h)
 - [x] Exibir na inclusão de programação uma mensagem de ajuda informando a quantidade recomendada e idade dos CPs baseado no parâmetro (2h)
+
 - [ ] Tratar disponibilidade do laboratorista ao emitir programação (2h)
 	- [ ] Verificar/criar API para os dados de corpo de prova (incluindo local do ensaio, quantidade de CPs e amostras, capacidade, vínculos e disponibilidade do técnico) (6h)
 		- [ ] Validar se na API de Employee informa o tipo UNAVAILABLE e remover
@@ -50,3 +51,9 @@ Para isso é considerado
 O sistema utiliza busca todos os funcionários alocados para aquela central no dia da programação, em seguida faz o somatório da carga horária do dia (descontando possíveis indisponibilidades) e limitando à carga horária cadastrada. Por exemplo:
 	Matheus - Carga horária: 8h - Alocação cadastrada: Disponível 08:00 -> 18:00 e Indisponível de 10:00 as 12:00
 		Portanto o
+
+
+- [x] A moldagem é uma por progração
+- [x] Tratar indisponibilidade sem fim e disponibilidade limitada
+- [x] Caso exista uma indisponibilidade sem data de fim e uma disponbilidade com data de fim, a indisponibilidade deve ser desconsiderada
+- [ ] 

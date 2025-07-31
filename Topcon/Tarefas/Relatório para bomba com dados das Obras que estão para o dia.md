@@ -19,11 +19,15 @@ Data de fim:
 - [x] Trocar dados de saida/chegada central/obra para uma tabela
 - [x] Bombistas e auxiliares em campo unico para cada, separado por /
 - [x] Mover a data de emissão para o topo superior direito do TITULO, não do cabeçalho
-- [ ] Adicionar rodapé padrão Topcon
+- [x] Adicionar rodapé padrão Topcon
 - [x] Remover linhas da parte depois da tabela de dados
 - [x] Na parte de informações da bomba (bomba e placa) trocar por uma informação só -> bomba: code - placa
 - [x] Na distancia de tubulação corrigir formatação para inteiro
 - [x] No Volume deixar uma casa decimal
+- [ ] O de produção é uma folha por remessa de bomba
+- [ ] O dado exibido em tabela é remessa de concrete da quela programação que teve a remessa bomba da pagina
+- [ ] Tentar deixar duas colunas no de produção
+- [ ] Arrumar numero principal corrigindo para numero da rmessa de bomba
 
 
 ![[Pasted image 20250717173026.png]]
