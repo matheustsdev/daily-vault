@@ -11,10 +11,10 @@ Data de fim:
 
 - [x] Criar SQL programação (3h)
 - [x] Criar SQL expedição (3h)
-- [ ] Ajustar modelo do relatório (12h)
-- [ ] Ajustar modelo do relatório expedição (1h)
+- [x] Ajustar modelo do relatório (12h)
+- [x] Ajustar modelo do relatório expedição (1h)
 
-- [ ] Tem que trazer a imagem do banco no lado esquerdo do titulo
+- [x] Tem que trazer a imagem do banco no lado esquerdo do titulo
 - [x] Aumentar o espaço para Inicio e Fim, talvez até mudando o Volume para M³
 - [x] Trocar dados de saida/chegada central/obra para uma tabela
 - [x] Bombistas e auxiliares em campo unico para cada, separado por /
