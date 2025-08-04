@@ -18,12 +18,13 @@
 
 # Planejamento dia seguinte
 ## Trabalho
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Tarefa [[Adicionar laboratoristas]]
+	- [ ] Code review com Geovane
+- [ ] Quebra técnica e casos de teste nova tarefa
+- [ ] Code review tarefa Coutinho
 ## Estudo
-- [ ] 
+- [ ] Rental Management
+	- [ ] Implementar atualização de alugueis
 ## Lazer e outros
-- [ ] 
+- [ ] Solo queue
 
