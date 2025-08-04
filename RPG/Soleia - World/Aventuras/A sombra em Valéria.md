@@ -1,8 +1,6 @@
 ---
 Origem: "[[Valéria]]"
 ---
-
-
 # Premissa
 
 Após retornar com sucesso da [[Vila dos Pinheiros]], os aventureiros retornam à Lavinia com informações a respeito da mente coletiva existente. 
