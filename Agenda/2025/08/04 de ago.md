@@ -13,8 +13,8 @@
 - [ ] Rental Management
 	- [ ] Implementar atualização de alugueis
 ## Lazer e outros
-- [ ] Solo queue
-- [ ] Dobrar roupas
+- [x] Solo queue
+- [x] Dobrar roupas
 
 # Planejamento dia seguinte
 ## Trabalho

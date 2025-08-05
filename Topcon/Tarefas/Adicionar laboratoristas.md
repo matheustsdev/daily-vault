@@ -1,11 +1,12 @@
 ---
 Tarefa: TDP-1926
 Desenvolvedor: Eu
-Método de code review: 
+Método de code review:
+  - Apresentação
 Responsabilidade:
   - Desenvolver
-Data de início: 
-Data de fim:
+Data de início: 2025-07-15
+Data de fim: 2025-08-05
 ---
 # Quebra técnica (50h/60h)
 
