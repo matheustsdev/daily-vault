@@ -1,33 +1,18 @@
 ---
-Ticket: 
-Status: Em análise
-Data de início: 
-Data de fim:
+Ticket: 520646
+Status: Concluído
+Data de início: 2025-08-09
+Data de fim: 2025-08-09
 ---
 # Problemas
 # Problema 1
 
-
-
+Adicionar novas funcionalidades na tela de listagem das programações. Adicionando em algumas listagens as opções de cancelamento e informações a respeito dos dados de resposta do webservice e atualizações da programação
 ## Solução 1
 
+Foi adicionado o formulário de cancelamento já existente e os demais botões solicitados. 
 
-
-## Solução 2
-
-
-
-
-# Problema 2
-
-
-
-## Solução 1
-
-
-
-## Solução 2
-
+Pontuo também que não foi adicionado botão de cancelamento na listagem de canceladas devida a redundância.
 
 # Casos de teste
 
