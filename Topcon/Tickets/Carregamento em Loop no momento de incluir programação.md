@@ -13,6 +13,8 @@ Nova funcionalidade em homologação que valida disponibilidade de [[Adicionar l
 > Até o momento (09/08) não foi possível reproduzir o erro
 
 
+Luiz mostrou em homologação que o erro acontece quando é adicionado central auxiliar, porém localmente não consegui reproduzir (11/08)
+
 ## Solução 1
 
 

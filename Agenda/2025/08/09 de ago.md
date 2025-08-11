@@ -7,8 +7,8 @@
 - [ ] Rental Management
 	- [ ] Implementar atualização de alugueis
 ## Lazer e outros
-- [ ] Jogar com amigos
-- [ ] Cerâmica fria
+- [x] Jogar com amigos
+- [x] Cerâmica fria
 
 # Planejamento dia seguinte
 ## Trabalho
