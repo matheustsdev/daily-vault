@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Data de início": "date",
-    "Data de fim": "date"
+    "Data de fim": "date",
+    "Data": "date",
+    "Sessão Nº": "number"
   }
 }

@@ -9,12 +9,13 @@
 - [ ] 
 - [ ] 
 ## Estudo
-- [ ] Iniciar novo capítulo faculdade
+- [x] Iniciar novo capítulo faculdade
 - [ ] Finalizar atualização de aluguel no projeto Rental Management
 ## Lazer e outros
-- [ ] Ver o site do casorio 
+- [x] Ver o site do casório 
 - [ ] Se der tempo, jogar lol
 - [ ] Ver se os ingressos no Barato Coletivo ainda são validos
+- [x] Atualizar registro de sessão
 
 # Planejamento dia seguinte
 ## Trabalho
