@@ -1,5 +1,5 @@
 ## Trabalho
-- [ ] Tarefa [[Agenda de programação de bomba]]
+- [x] Tarefa [[Agenda de programação de bomba]]
 	- [x] Filtros para seleção de bomba
 	- [x] Tooltip para eventos com obra e volume
 	- [x] Alterar formato de horário dos dados de programação
