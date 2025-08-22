@@ -6,7 +6,7 @@
 ## Estudo
 - [ ] 
 ## Lazer e outros
-- [ ] 
+- [ ] Trocar substrato das plantinhas
 
 # Planejamento dia seguinte
 ## Trabalho

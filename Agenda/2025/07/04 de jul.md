@@ -1,4 +1,4 @@
-- [ ] Tarefa [[If you have a line helper - Alarmist planning delays
+- [ ] Tarefa [[If you have a line helper - Alarmist planning delays]]
 	- [x] Ajuste dos dados da expedição
 	- [x] Exibir valor salvo na remessa
 	- [x] Testar atualização de programação
