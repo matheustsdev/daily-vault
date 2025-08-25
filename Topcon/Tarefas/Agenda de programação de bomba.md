@@ -1,11 +1,12 @@
 ---
 Tarefa: TDP-2151
 Desenvolvedor: Eu
-Método de code review: 
+Método de code review:
+  - Apresentação
 Responsabilidade:
   - Desenvolver
 Data de início: 2025-08-06
-Data de fim:
+Data de fim: 2025-08-21
 ---
 # Quebra técnica (horas estimadas/total)
 

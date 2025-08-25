@@ -1,12 +1,12 @@
 ## Trabalho
 - [ ] Ticket
-- [ ] Ajustar hotfix com Coutinho
+- [x] Ajustar hotfix com Coutinho
 - [x] SS
 - [ ] 
 ## Estudo
 - [ ] Ajustes no fluxo de criação/atualização de alugueis
 ## Lazer e outros
-- [ ] Começar Pokemon Heart Gold
+- [x] Começar Pokemon Heart Gold
 
 # Planejamento dia seguinte
 ## Trabalho
