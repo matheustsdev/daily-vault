@@ -6,7 +6,7 @@
 	- [x] Integração com Fleet
 	- [x] Usuário com id errado
 	- [ ] Integração do tipo de REASON errado
-		- Nao consigo chamar o endpoint
+		- Debuggar function
 ## Estudo
 - [ ] Finalizar capitulo da faculdade
 - [ ] Avançar no projeto da Dona Rose
