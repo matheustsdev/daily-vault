@@ -1,8 +1,8 @@
 ## Trabalho
 - [ ] Ticket [[Informação de contato da obra não vinculando com dispatch]]
 - [ ] Novo ticket 
-- [ ] Checar atualização da carteira
-- [ ] 
+- [x] Checar atualização da carteira
+- [ ] Sobre aviso
 ## Estudo
 - [ ] Finalizar capitulo da faculdade
 - [ ] Avançar no projeto da Dona Rose

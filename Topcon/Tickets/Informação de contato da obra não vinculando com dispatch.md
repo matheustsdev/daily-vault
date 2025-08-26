@@ -2,7 +2,7 @@
 Ticket: 516051
 Status: Em análise
 Data de início: 2025-08-22
-Data de fim:
+Data de fim: 2025-08-26
 ---
 # Problemas
 # Problema 1
@@ -27,7 +27,7 @@ Tratar a limpeza dos objetos para que os *Manipulates* possuam os campos necess�
     1. Adicionar a trigger no banco do legado
     2. Forçar um update na *con_obras*
 - **Resultado Esperado:** A existência de um evento de contrato daquele vinculado à obra
-- **Status:** ✅ PASSOU | ❌ FALHOU
+- **Status:** ✅ PASSOU
 - **Observações:** 
 
 ## ✅ Caso 2: Chamada à API
