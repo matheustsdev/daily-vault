@@ -1,20 +1,16 @@
 ## Trabalho
-- [x] Ticket [[Informação de contato da obra não vinculando com dispatch]]
 - [ ] Tarefa nova [[Paramêtro para cálculo do valor da Danfe.]]
-	- [x] Quebra técnica
 - [ ] BOs Ciplan
-	- [x] Integração com Fleet
-	- [x] Usuário com id errado
 	- [ ] Integração do tipo de REASON errado
 		- Debuggar function
+		-
+- [x] Ajudar o Ricardo 
 ## Estudo
-- [x] Finalizar capitulo da faculdade
 - [ ] Avançar no projeto da Dona Rose
 	- [ ] Checar validação de medidas no formulário
 	- [ ] Criar função no banco de update
 ## Lazer e outros
-- [x] Volei
-- [x] Reunião com Story Maker
+- [ ] Jogar pokemon focadinho
 
 # Planejamento dia seguinte
 ## Trabalho
@@ -23,7 +19,8 @@
 - [ ] 
 - [ ] 
 ## Estudo
-- [ ] 
+- [ ] Finalizar capitulo da faculdade
 ## Lazer e outros
-- [ ] 
+- [ ] Dentista
+- [ ] Pokemon
 
