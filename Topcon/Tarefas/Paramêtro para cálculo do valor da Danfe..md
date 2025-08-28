@@ -9,7 +9,7 @@ Data de fim:
 ---
 # Quebra técnica (horas estimadas/total)
 
-- [ ]  Converter forma de cálculo dos item em função a parte que considera o tipo de cálculo (1)
+- [x]  Converter forma de cálculo dos item em função a parte que considera o tipo de cálculo (1)
 - [ ] Criar cálculo para valor de material  - DELIVERY TICKET SUPPLY (1.5h)
 - [ ] Criar cálculo para valor de venda - VALOR DO CALCULO ATUAL SEM TAXA DO MUNICIPIO (100%) (1h)
 	- [ ] Condicionado ao CFOP 5101 ou 6101, caso nao seja, bloquear criação e retornar "Parametro de calculo ativo como Valor de venda, porém o CFOP não é um de venda"
