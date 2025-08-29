@@ -1,12 +1,13 @@
 ## Trabalho
-- [ ] Finalizar ticket de integração do Cancellation Reason
+- [x] Finalizar ticket de integração do Cancellation Reason
 - [ ] Tarefa [[Paramêtro para cálculo do valor da Danfe.]]
 - [ ] 
 - [ ] 
 ## Estudo
 - [ ] Finalizar capitulo da faculdade
 ## Lazer e outros
-- [ ] Reunião Casa Maraponga
+- [x] Reunião Casa Maraponga
+- [x] Reunião com Família
 - [ ] Pokemon
 # Planejamento dia seguinte
 ## Trabalho
