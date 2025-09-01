@@ -1,11 +1,12 @@
 ---
-Tarefa: TDP-
+Tarefa: TDP-2242
 Desenvolvedor: Eu
 Método de code review:
+  - Pull Request
 Responsabilidade:
   - Desenvolver
 Data de início: 2025-08-26
-Data de fim:
+Data de fim: 2025-09-01
 ---
 # Quebra técnica (horas estimadas/total)
 

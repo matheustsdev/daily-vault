@@ -1,17 +1,18 @@
 ## Trabalho
 - [ ] Ver o ticket que o Luiz flw em que o valor unitário tá muito bizarro
-- [ ] Ticket [[Informação de contato da obra não vinculando com dispatch]]
-- [ ] Ajustar StorageLocation
-- [ ] 
+- [x] Tarefa [[Paramêtro para cálculo do valor da Danfe.]]
+	- [x] Ajustes do valor de material
+	- [x] Ajustes na HOTFIX
+	- [x] Documentação
+- [x] Planning e Retro
 ## Estudo
 - [ ] Finalizar capitulo da faculdade
 ## Lazer e outros
 - [ ] Pokemon
-- [ ] Sextar
 
 # Planejamento dia seguinte
 ## Trabalho
-- [ ] Sobre aviso
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
