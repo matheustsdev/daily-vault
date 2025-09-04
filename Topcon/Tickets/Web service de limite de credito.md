@@ -1,8 +1,8 @@
 ---
 Ticket: 525027
-Status: Em análise
+Status: Concluído
 Data de início: 2025-09-02
-Data de fim:
+Data de fim: 2025-09-03
 ---
 # Problemas
 # Problema 1
@@ -11,7 +11,7 @@ Está sendo feito análise de limite de crédito ao emitir remessa de bomba mesm
 
 ## Solução 1
 
-
+Adição de validação do parâmetro de análise de crédito
 
 ## Solução 2
 
