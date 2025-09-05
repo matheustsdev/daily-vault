@@ -7,9 +7,9 @@ Responsabilidade:
 Data de início: 2025-09-01
 Data de fim:
 ---
-# Quebra técnica (horas estimadas/total)
+	# Quebra técnica (horas estimadas/total)
 
-- [ ] Criar aba de saturação (1h)
+- [x] Criar aba de saturação (1h)
 - [ ] Criar visualização não filtrada (24h)
 - [ ] Adicionar filtros de banco (24h)
 - [ ] Exibir entregas por cor (4h)

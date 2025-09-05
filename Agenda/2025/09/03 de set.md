@@ -8,7 +8,7 @@
 - [ ] Finalizar capitulo da faculdade
 - [x] Aula de TS
 ## Lazer e outros
-- [ ] Pokemon
+- [x] Pokemon
 
 # Planejamento dia seguinte
 ## Trabalho
