@@ -23,6 +23,7 @@ Aparentemente existe um novo formato de condição para metro cúbico excedente.
 
 # Problema 2
 
+Não há dados na con_taxa_extra
 
 
 ## Solução 1
