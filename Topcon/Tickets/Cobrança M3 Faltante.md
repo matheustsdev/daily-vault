@@ -1,17 +1,20 @@
 ---
-Ticket: 525027
-Status: Concluído
-Data de início: 2025-09-02
-Data de fim: 2025-09-03
+Ticket: 
+Status: Em análise
+Data de início: 
+Data de fim:
 ---
 # Problemas
 # Problema 1
 
-Está sendo feito análise de limite de crédito ao emitir remessa de bomba mesmo que o parâmetro esteja configurado para apenas programação.
+Não está sendo exibido uma taxa de adicional noturno para o contrato 999-3671-25, nem para seleção no Frontend ao emitir remessa.
 
+Aparentemente existe um novo formato de condição para metro cúbico excedente. 
+
+![[Pasted image 20250907115321.png]]
 ## Solução 1
 
-Adição de validação do parâmetro de análise de crédito
+
 
 ## Solução 2
 
@@ -20,6 +23,7 @@ Adição de validação do parâmetro de análise de crédito
 
 # Problema 2
 
+Não há dados na con_taxa_extra
 
 
 ## Solução 1
