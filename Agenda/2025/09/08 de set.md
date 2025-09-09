@@ -3,7 +3,7 @@
 	- [ ] Criar visualização simples sem filtro
 	- [ ] Adicionar seleção de obras
 - [ ] Ticket [[Cobrança M3 Faltante]]
-- [ ] 
+- [ ] Ticket emergencial da Ciplan
 - [ ] 
 ## Estudo
 - [ ] Finalizar capitulo da faculdade
