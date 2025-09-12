@@ -1,38 +1,22 @@
 ---
-Ticket: 
+Ticket: 521672
 Status: Em análise
-Data de início: 
+Data de início: 2025-09-09
 Data de fim:
 ---
 # Problemas
 # Problema 1
-
 Não está sendo exibido uma taxa de adicional noturno para o contrato 999-3671-25, nem para seleção no Frontend ao emitir remessa.
-
-Aparentemente existe um novo formato de condição para metro cúbico excedente. 
-
-![[Pasted image 20250907115321.png]]
+## Causa
+O problema se deu porque na integração não era enviado a propriedade Active do adicional, fazendo com que sempre fosse setado para falso ao integrar, já que falso era o valor default
 ## Solução 1
-
-
-
-## Solução 2
-
-
-
-
+Foi feito ajuste na integração adicionando a propriedade.
 # Problema 2
-
-Não há dados na con_taxa_extra
-
-
+O cálculo para validar a necessidade da cobrança de adicional noturna não está sendo calculado corretamente.
+## Causa
+Não tratava corretamente o horário de fim já que muitas vezes este era menor que o inicial numericamente.
 ## Solução 1
-
-
-
-## Solução 2
-
-
+Alteração da validação numérica apenas para criação de datas em si para comparar. Além disso foi adicionado um condicional para adicionar um dia caso o horário de fim seja menor que horário de início (ex: de 17 à 2).
 # Casos de teste
 
 ## ✅❌ Caso 1: nome do teste
