@@ -1,12 +1,12 @@
 ## Trabalho
-- [x] Ticket [[Cobrança M3 Faltante]]
+- [ ] Ticket [[Cobrança M3 Faltante]]
 - [x] Ticket emergencial da Ciplan
 - [ ] 
 ## Estudo
-- [ ] Projeto dona rose
+- [x] Projeto dona rose
 ## Lazer e outros
 - [ ] Finalizar time de pokemon
-- [ ] Jogar PokeMMO
+- [x] Jogar PokeMMO
 
 # Planejamento dia seguinte
 ## Trabalho
