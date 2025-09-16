@@ -3,10 +3,11 @@
 - [ ] Iniciar tarefa da Concreserv
 - [ ] Pegar ticket por fora
 ## Estudo
-- [x] Finalizar conteúdo da Faculdade
+- [ ] Projeto dona rose
+	- [ ] Quebra técnica
 ## Lazer e outros
 - [ ] Finalizar time de Pokemon de dupla fraqueza
-- [x] Jogar LoL ou PokeMMO
+- [ ] Jogar LoL ou PokeMMO
 
 # Planejamento dia seguinte
 ## Trabalho
@@ -15,8 +16,8 @@
 - [ ] 
 - [ ] 
 ## Estudo
-- [ ] Projeto dona rose
-	- [ ] Quebra técnica
+- [ ] Finalizar conteúdo faculdade
+
 ## Lazer e outros
 - [ ] Jogar LoL ou PokeMMO
 
