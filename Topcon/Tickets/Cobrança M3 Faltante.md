@@ -11,6 +11,10 @@ Não está sendo exibido uma taxa de adicional noturno para o contrato 999-3671-
 O problema se deu porque na integração não era enviado a propriedade Active do adicional, fazendo com que sempre fosse setado para falso ao integrar, já que falso era o valor default
 ### Solução 1
 Foi feito ajuste na integração adicionando a propriedade.
+
+### Solução 2
+Foi adicionado um endpoint para forçar o recálculo dos adicionais do período.
+
 ## Problema 2
 O cálculo para validar a necessidade da cobrança de adicional noturna não está sendo calculado corretamente.
 ### Causa

@@ -7,7 +7,8 @@
 	- [ ] Quebra técnica
 ## Lazer e outros
 - [ ] Finalizar time de Pokemon de dupla fraqueza
-- [x] Jogar LoL ou PokeMMO
+- [ ] Jogar LoL ou PokeMMO
+- [ ] Dobrar roupas
 
 # Planejamento dia seguinte
 ## Trabalho
