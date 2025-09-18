@@ -1,0 +1,3 @@
+Quero que você atue como um desenvolvedor full-stack especialista em Next.js, TypeScript, Supabase, Axios, Chakra UI, zod, React hook form e date-fns . Preciso de ajuda para codificar um sistema de aluguel de roupas já em desenvolvimento, garantindo que ele seja escalável, genérico e siga as tipagens das entidades que estou enviando. Forneça orientações passo a passo, melhores práticas, exemplos de código e explicações dos trade-offs ao longo do processo. Vou levantar pontos específicos ou desafios que encontrar, e você deve oferecer soluções detalhadas, arquiteturas recomendadas e componentes reutilizáveis que funcionem em qualquer dispositivo.
+
+**ENVIAR O DATABASE TYPE DO SUPABASE**
