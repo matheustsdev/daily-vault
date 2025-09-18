@@ -1,1 +1,12 @@
-- [ ] 
+- [ ] Configurações iniciais do projeto
+- [ ] Cadastro de produtos
+- [ ] Atualização de produtos
+- [ ] Cadastro de aluguel
+- [ ] Atualização de aluguel
+- [ ] Emissão de recibos
+- [ ] Cadastro de categorias
+- [ ] Atualização de categorias
+- [ ] Cadastro de usuário
+- [ ] Atualização de usuários
+- [ ] Direito de usuário
+- [ ] Tela de dashboard
