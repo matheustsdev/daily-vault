@@ -1,16 +1,16 @@
 ## Trabalho
 - [ ] Ajustar ticket [[Cobrança M3 Faltante]]
 - [ ] Tarefa [[Insumo fornecido pelo cliente sem baixa de estoque na pesagem]]
-	- [ ] Finalizar ajustes dos parâmetros
+	- [x] Finalizar ajustes dos parâmetros
 	- [ ] Ajustar integração
-- [ ] Avançar na tarefa de [[Ajustes na API Delivery Ticket]]
+- [x] Avançar na tarefa de [[Ajustes na API Delivery Ticket]]
 ## Estudo
 - [ ] Fazer prova da faculdade
 - [x] Finalizar aulas de uma cadeira
 ## Lazer e outros
 - [ ] Dobrar roupa
 - [ ] Ensaio da valsa casamento
-- [ ] Post LinkedIn
+- [x] Post LinkedIn
 
 # Planejamento dia seguinte
 ## Trabalho
