@@ -7,8 +7,8 @@
 	- [ ] Laços de repetição
 - [x] Finalizar lista de exercicio da faculdade 
 ## Lazer e outros
-- [ ] Cortar cabelo
-- [ ] Ler novo livro com Pri
+- [x] Cortar cabelo
+- [x] Ler novo livro com Pri
 
 # Planejamento dia seguinte
 ## Trabalho
