@@ -1,11 +1,9 @@
 ## Trabalho
 - [ ] Ajuste no cálculo de adicional
-- [x] Ajuste da documentação de API do Tax Document
-- [x] Ajuste da integração de remessas
-- [x] Ticket [[Aprovação de Taxa com o status Pendente]]
+- [ ] Ticket [[Aprovação de Taxa com o status Pendente]]
 ## Estudo
 - [ ] Projeto para aleatorizar pokemon
-- [x] Avançar na refatoração projeto dona Rose
+	- [ ] Análise de requisitos
 ## Lazer e outros
 - [x] Jogar
 
