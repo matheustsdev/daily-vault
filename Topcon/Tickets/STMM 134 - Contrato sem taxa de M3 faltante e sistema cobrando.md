@@ -1,17 +1,15 @@
 ---
-Ticket: 530295
-Status: Concluído
-Data de início: 2025-10-07
-Data de fim: 2025-10-09
+Ticket: 509814
+Status: Em análise
+Data de início: 2025-10-09
+Data de fim:
 ---
 # Problemas
 ## Problema 1
-Não é possível alterar status da aprovação de adicional
+Um adicional foi cobrado sem estar no contrato. Porém as fotos que o cliente enviou todas mostram o adicional ativo. Porém é necessário comparar o momento de remoção no legado com o do DISPATCH
 
 ### Causa
-A integração dos eventos na ger_db_events ocorreu fora de ordem ocasionando um update errôneo no DISPATCH.
 
-Paliativamente criamos manualmente um evento de billing_status para atualizar o campo alreadyBilled no DISPATCH
 
 ### Solução 1
 
