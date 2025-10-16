@@ -155,3 +155,8 @@ Quais são as consequências das ações dos personagens? Como a aventura afeta 
 
 Informações adicionais sobre NPCs importantes, monstros, locais, itens mágicos ou qualquer outro detalhe relevante para a aventura.
 
+# 6. Utilidades
+
+![[Loot of Guard.png]]
+
+![[Loot of Goblin.png]]

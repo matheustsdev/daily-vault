@@ -1,15 +1,15 @@
 ## Trabalho
-- [ ] Validar com Luiz [[Cobrança M3 Faltante]]
+- [x] Validar com Luiz [[Cobrança M3 Faltante]]
 - [x] Ticket [[Taxa cobrada m3 faltando indevidamente - SANTA MARIA - PRODUÇÃO]]
 - [x] Ticket [[Ao estornar faturamento remessas perdem atualização]]
 - [ ] Ticket [[Digital invoice]]
 ## Estudo
-- [ ] Avançar nas cadeiras da faculdade
+- [x] Avançar nas cadeiras da faculdade
 ## Lazer e outros
 - [ ] Ler livro com a Pri
-- [ ] Jogar algo
+- [x] Jogar algo
 - [ ] Escrever mais sobre RPG
-- [ ] Pegar câmera
+- [x] Pegar câmera
 
 # Planejamento dia seguinte
 ## Trabalho
