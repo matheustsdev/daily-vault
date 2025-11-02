@@ -1,6 +1,6 @@
 ## Trabalho
-- [ ] Finalizar ticket [[Cobrança M3 Faltante]]
-- [ ] Iniciar tarefa da Concreserv
+- [x] Ticket [[Cobrança M3 Faltante]]
+- [x] Iniciar tarefa da Concreserv
 - [ ] Pegar ticket por fora
 ## Estudo
 - [ ] Projeto dona rose

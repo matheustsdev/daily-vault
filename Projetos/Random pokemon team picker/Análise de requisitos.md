@@ -1,0 +1,2 @@
+# Requisitos funcionais
+- [ ] Exibir bot

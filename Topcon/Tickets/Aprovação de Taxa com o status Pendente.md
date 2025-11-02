@@ -1,17 +1,35 @@
 ---
-Tarefa: TDP-
-Desenvolvedor: Eu
-Método de code review: 
-Responsabilidade:
-  - Desenvolver
-Data de início: 
-Data de fim:
+Ticket: 530295
+Status: Concluído
+Data de início: 2025-10-07
+Data de fim: 2025-10-09
 ---
-# Quebra técnica (horas estimadas/total)
+# Problemas
+## Problema 1
+Não é possível alterar status da aprovação de adicional
 
-- [ ] Tarefa (tempo estimado)
-- [ ] Tarefa (tempo estimado)
-- [ ] Tarefa (tempo estimado) 
+### Causa
+A integração dos eventos na ger_db_events ocorreu fora de ordem ocasionando um update errôneo no DISPATCH.
+
+Paliativamente criamos manualmente um evento de billing_status para atualizar o campo alreadyBilled no DISPATCH
+
+### Solução 1
+
+
+### Solução 2
+
+
+## Problema 2
+
+
+### Causa
+
+
+### Solução 1
+
+
+### Solução 2
+
 
 # Casos de teste
 
@@ -43,11 +61,3 @@ Data de fim:
 - **Status:** ✅ PASSOU | ❌ FALHOU
 - **Observações:** (A ser preenchido se necessário)
 
-<%* 
-await tp.file.move("Topcon/Tickets/Novo ticket");
-%>
-
-
-<%* 
-await tp.file.move("Topcon/Tarefas/Nova tarefa");
-%>

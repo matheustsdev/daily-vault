@@ -45,7 +45,7 @@ Porém nesse momento todos foram abordados, presos e tiveram todos seus pertence
   - HP: 30 / 30:
   - Alteração de recursos: 
 	  - 
-#### Rangel:  
+#### Rangel:  indestrutivel
   - HP: 19 / 19:
   - Alteração de recursos: 
 	  - 

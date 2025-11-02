@@ -1,17 +1,33 @@
 ---
-Tarefa: TDP-
-Desenvolvedor: Eu
-Método de code review: 
-Responsabilidade:
-  - Desenvolver
-Data de início: 
-Data de fim:
+Ticket: 528249
+Status: Concluído
+Data de início: 2025-10-13
+Data de fim: 2025-10-13
 ---
-# Quebra técnica (horas estimadas/total)
+# Problemas
+## Problema 1
+Um adicional de metro cúbico faltante foi adicionado mesmo a entrega sendo a ultima não cancelada.
 
-- [ ] Tarefa (tempo estimado)
-- [ ] Tarefa (tempo estimado)
-- [ ] Tarefa (tempo estimado) 
+### Causa
+Analisando, vi que na verdade no momento da emissão da remessa ela não era a ultima não cancelada e por isso foi gerado
+
+### Solução 1
+Apenas explicar ao cliente
+
+### Solução 2
+
+
+## Problema 2
+
+
+### Causa
+
+
+### Solução 1
+
+
+### Solução 2
+
 
 # Casos de teste
 
@@ -43,11 +59,3 @@ Data de fim:
 - **Status:** ✅ PASSOU | ❌ FALHOU
 - **Observações:** (A ser preenchido se necessário)
 
-<%* 
-await tp.file.move("Topcon/Tickets/Novo ticket");
-%>
-
-
-<%* 
-await tp.file.move("Topcon/Tarefas/Nova tarefa");
-%>

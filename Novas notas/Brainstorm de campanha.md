@@ -22,7 +22,7 @@ Roxigor implorou por Bahamut, Tiamat e até por Io mas nada podia ser feito. Rox
 > [!tip] Sugestão
 > Criar uma aventura (enredo: busca de algo) em que é necessário salvar um mago que possui esse conhecimento ou só criar o mago em si
 - A filacteria
-	- Pensei em ser uma espada lendária, vinda de outro plano e indestrutivel fora do plano de origem. Essa espada ficaria com talvez o proprio devorador ou algum aliado de confiança como o Midias
+	- Pensei em ser uma espada lendária, vinda de outro plano e indestrutível fora do plano de origem. Essa espada ficaria com talvez o proprio devorador ou algum aliado de confiança como o Midias
 
 ## Lista ascendente
 - O dragão se torna DracoLich usando a Espada de Caron como filactéria
