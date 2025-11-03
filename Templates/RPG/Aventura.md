@@ -1,11 +1,8 @@
 ---
 Origem:
 ---
-<% await tp.file.move("/RPG/Soleia - World/Aventuras/" + tp.file.title) %>
-<%*
-const title = await tp.system.prompt("Título");
-await tp.file.rename(title);
-%>
+## Resumo da Sessão
+
 # Premissa
 
 
@@ -158,3 +155,8 @@ Os desafios aqui citados devem ser bem definidos e claros
 -  
 
 
+<% await tp.file.move("/RPG/Soleia - World/Aventuras/" + tp.file.title) %>
+<%*
+const title = await tp.system.prompt("Título");
+await tp.file.rename(title);
+%>
