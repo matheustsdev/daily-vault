@@ -1,20 +1,26 @@
 ## Trabalho
+ 🪴/🥀 *X pomodoros de desenvolvimento*
+
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 ## Estudo
+🪴/🥀 *X pomodoros*
+
 - [ ] 
 ## Lazer e outros
 - [ ] 
 
 # Planejamento dia seguinte
 ## Trabalho
-- [ ] 
-- [ ] 
+ 🪴/🥀 *X pomodoros de desenvolvimento*
+
 - [ ] 
 - [ ] 
 ## Estudo
+🪴/🥀 *X pomodoros*
+
 - [ ] 
 ## Lazer e outros
 - [ ] 

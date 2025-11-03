@@ -1,12 +1,10 @@
 [
   "templater-obsidian",
   "obsidian-admonition",
-  "obsidian-5e-statblocks",
-  "obsidian-banners",
   "dataview",
   "obsidian-git",
-  "obsidian-icon-folder",
+  "highlightr-plugin",
   "obsidian-image-toolkit",
-  "obsidian-style-settings",
-  "highlightr-plugin"
+  "calendar",
+  "copilot"
 ]

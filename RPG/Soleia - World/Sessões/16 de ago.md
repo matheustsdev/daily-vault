@@ -16,7 +16,6 @@ Interrogaram Midias e conseguiram as seguintes informações:
 	- Ele havia sido enviado para uma caverna próxima à [[Valéria]] encontrar um grupo de *Conectados*
 	- Os esquadrões geralmente são de 3 pessoas
 
-
 Em seguida mataram Midias, voltam para [[Vila dos Pinheiros]] que agora está completamente vazia, saqueiam algumas coisas e voltam para [[Valéria]] para repassar as informações Lavínia. Em [[Valéria]] eles se separam: Iefis vai repassar informações para Lavínia, Acad Demis vai atrás de mais proteção (achando um escudo +1), Rangel, Qui Pup e Vicunho seguem em busca de maior poder (apenas Qui Pup conseguiu negociar e comprar um espada +2 precisando trocar também uma espada curta comum e uma +1 que possuia). Quando Iefis falou a Lavinia aquilo que acontecia na [[Vila dos Pinheiros]] ela falou que aquilo confirma suas suspeitas. 
 
 Porém nesse momento todos foram abordados, presos e tiveram todos seus pertences apreendidos. Com algumas encenações de briga, transformações em rato e porradaria. Eles conseguem matar os 2 guardas e ficam ali, na prisão, livres, porém dentro de um quartel e armados apenas com 2 vassouras, 6 baldes e as 2 espadas dos soldados.
