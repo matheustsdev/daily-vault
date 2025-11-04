@@ -1,10 +1,10 @@
 ---
 Tarefa: TDP-
 Desenvolvedor: Eu
-Método de code review: 
+Método de code review:
 Responsabilidade:
   - Desenvolver
-Data de início: 
+Data de início: 2025-11-03
 Data de fim:
 ---
 # Quebra técnica (horas estimadas/total)

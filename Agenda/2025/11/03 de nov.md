@@ -9,7 +9,7 @@
 ## Estudo
 🥀 *2 pomodoros*
 
-- [ ] Foco em Rental Management (2x)
+- [ ] Foco em Rental Management
 ## Lazer e outros
 - [ ] Jogar com Isaac
 - [ ] Foco em ler - *1 pomodoro*
