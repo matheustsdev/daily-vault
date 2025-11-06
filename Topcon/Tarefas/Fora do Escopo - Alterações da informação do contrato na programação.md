@@ -19,7 +19,7 @@ Data de fim:
 
 # Casos de teste
 
-## ✅❌ Caso 1: Fluxo API
+## ✅ Caso 1: Fluxo API
 
 - **Pré-condições:**
     - Possuir contratos cadastrados
@@ -29,5 +29,5 @@ Data de fim:
     3. Iniciar processo de inclusão de programação
     4. Checar contrato alterado
 - **Resultado Esperado:** É esperado que o card de contrato exiba os dados adicionados via API
-- **Status:** ✅ PASSOU | ❌ FALHOU
-- **Observações:** (A ser preenchido se necessário)
+- **Status:** ✅ PASSOU
+- **Observações:** 
