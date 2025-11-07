@@ -5,7 +5,7 @@ Método de code review:
 Responsabilidade:
   - Desenvolver
 Data de início: 2025-11-04
-Data de fim:
+Data de fim: 2025-11-06
 ---
 # Quebra técnica (9h/12h)
  
