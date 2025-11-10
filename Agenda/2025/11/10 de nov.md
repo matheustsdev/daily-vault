@@ -1,9 +1,9 @@
 ## Trabalho
  🪴/🥀 *6 pomodoros de desenvolvimento*
 
-- [ ] Reunião com Fontana sobre o Webhook
+- [x] Reunião com Fontana sobre o Webhook
 - [ ] Ticket [[Redirecionamento não integrou as informações para emissão do danfe]]
-- [ ] Adicionar tratativa do ticket anterior na HF 
+- [x] Adicionar tratativa do ticket anterior na HF 
 - [ ] 
 ## Estudo
 🪴/🥀 *X pomodoros*
