@@ -1,7 +1,7 @@
 ## Trabalho
  🪴 *10 pomodoros de desenvolvimento*
 
-- [ ] CR das tarefas
+- [x] CR das tarefas
 - [ ] Ticket 
 - [ ] 
 - [ ] 
