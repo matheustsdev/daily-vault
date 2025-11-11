@@ -1,5 +1,5 @@
 ## Trabalho
- 🪴/🥀 *6 pomodoros de desenvolvimento*
+ 🪴 *6 pomodoros de desenvolvimento*
 
 - [x] Reunião com Fontana sobre o Webhook
 - [ ] Ticket [[Redirecionamento não integrou as informações para emissão do danfe]]

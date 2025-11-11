@@ -74,3 +74,15 @@ END $$;
 ```
 
 
+
+# Clientes com legado (integrator)
+
+- maxmohr - hml: OK
+- maxmohr - prd: OK  
+- ciplan - hml: OK  
+- ciplan - prd: integrando  
+- Concreserv - hml: OK  
+- Concreserv - prd: OK  
+- Concrelongo - hml:  
+- Concrelongo - prd: ok  
+- Pedreira Costa - prd: ok
