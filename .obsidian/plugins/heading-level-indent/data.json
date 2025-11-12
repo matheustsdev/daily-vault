@@ -1,0 +1,11 @@
+{
+  "h1": "16",
+  "h2": "32",
+  "h3": "48",
+  "h4": "64",
+  "h5": "80",
+  "h6": "96",
+  "enableReading": true,
+  "enableEditing": true,
+  "treatHighestPresentHeadingAsH1": true
+}

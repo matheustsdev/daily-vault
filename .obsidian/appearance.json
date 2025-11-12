@@ -1,3 +1,8 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "main_screen_width"
+  ]
 }

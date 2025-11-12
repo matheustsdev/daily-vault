@@ -1,9 +1,9 @@
 ## Macro acontecimentos
 1. Um dragão vermelho faz um ritual para se tornar um DracoLich e usa uma espada criada em outra dimensão que é indestrutível nesse mundo. Um dragão já havia engolido a espada porém nunca foi digerido e matou o dragão aos poucos.
-2. Um Illitide se une à um dragão, compartilhando seus conhecimentos e proteção para o devorador
+2. Um Illitide se une à um dragão,compartilhando seus conhecimentos e proteção para o devorador
 3. Grandes 
 
-## Dragão vermelho (Roxigor Terragnus)e objetyivos
+## Dragão vermelho (Roxigor Terragnus)e objetivos
 
 Roxigor possuia uma esposa que foi morta por um grupo de avetnureiros
 em busca de tesouros. Roxigor enfurecido destruiu os aventureiros e a cidade natal deles.
@@ -196,7 +196,7 @@ Encaminhar o clímax da campanha, forçando os heróis a enfrentar, de maneira d
 - **Resumo:** Agora aliados com a dragão esmeralda, os heróis são conduzidos até sua superior – a imponente dragão anciã de safira –, cuja sabedoria e poder ancestral podem reverter os efeitos devastadores da fenda.
 - **Pistas:** Rituais ancestrais, referências a velhas alianças e sinais de uma influência mental que se intensifica com a aproximação do lorde dos segredos.
 - **Desafios:** Sobreviver a emboscadas de cultistas determinados a manter o caos, enfrentar testes de coragem e conquistar o apoio das forças dracônicas.
-#### Aventura 11 – O Portal das Dimensões:**
+#### Aventura 11 – O Portal das Dimensões:
     
 - **Resumo:** Em um cenário onde o tecido da realidade está à beira do colapso, os heróis lideram uma expedição para fechar o portal que conecta as forças malignas ao mundo mortal.
 - **Pistas:** Inscrições arcanas reveladoras, visões apocalípticas e a sensação esmagadora de uma influência mental iminente infiltrando os vilões.
@@ -269,4 +269,4 @@ Este modelo de campanha proporciona aos jogadores uma jornada que inicia com eve
 
 A intervenção da dragão esmeralda, disfarçada inicialmente como halfling, não só serve de apoio mas também de catalisadora para novas investigações, conduzindo os heróis à futura aliança com a dragão anciã de safira – elemento decisivo na restauração do equilíbrio em Soleia.
 
-	Com essa estrutura detalhada, você pode explorar investigações, dilemas morais e confrontos épicos, oferecendo uma experiência imersiva e dinâmica em um mundo onde cada descoberta revela novas camadas de intriga e poder.
+Com essa estrutura detalhada, você pode explorar investigações, dilemas morais e confrontos épicos, oferecendo uma experiência imersiva e dinâmica em um mundo onde cada descoberta revela novas camadas de intriga e poder.

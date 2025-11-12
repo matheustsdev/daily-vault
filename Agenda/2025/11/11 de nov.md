@@ -8,10 +8,10 @@
 ## Estudo
 🪴 *2 pomodoros*
 
-- [ ] Rental Management
+- [x] Rental Management
 ## Lazer e outros
-- [ ] Montar árvore de natal
-- [ ] Ler (🪴 *3 pomodoros*)
+- [x] Montar árvore de natal
+- [x] Ler (🪴 *3 pomodoros*)
 - [ ] Escrever/definir mais sobre a campanha (🪴 *1 pomodoros*)
 
 # Planejamento dia seguinte
