@@ -4,7 +4,7 @@ No princípio, não havia luz nem vida – apenas uma escuridão imensurável, u
 
 **O Surgimento de Io e o Confronto com os Valgs**
 
-Da ausência das sombras começou a brotar uma centelha de poder – assim surgiu **Io**, o primeiro dragão, cujo fogo interior iluminava os cantos mais recônditos do vazio. Io era a personificação da criação em meio ao caos, um ser cujo brilho contrastava com a escuridão imortal dos Valgs. O encontro entre Io e os Valgs desencadeou uma guerra monumental que se estendeu por décadas. Em um conflito titânico, a luz nascente e as trevas ancestrais entrechocaram-se em batalhas épicas, moldando os alicerces do mundo que viria a ser.
+Da ausência das sombras começou a brotar uma centelha de poder, centelha que deu origem à **Io**, o primeiro dragão, cujo fogo interior iluminava os cantos mais recônditos do vazio. Io era a personificação da criação em meio ao caos, um ser cujo brilho contrastava com a escuridão imortal dos Valgs. O encontro entre Io e os Valgs desencadeou uma guerra monumental que se estendeu por décadas. Em um conflito titânico, a luz nascente e as trevas ancestrais entrechocaram-se em batalhas épicas, moldando os alicerces do mundo que viria a ser.
 
 **O Exílio dos Valgs e o Nascimento dos Primordiais**
 

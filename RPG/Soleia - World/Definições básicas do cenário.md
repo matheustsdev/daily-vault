@@ -15,4 +15,4 @@ Os emissários são seres que vivem nesse mundo, logo é possível que qualquer 
 # Os dragões entraram em guerra (???)
 
 ...
-# ???
+# A escuridão espreita

@@ -10,5 +10,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Novas notas",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true
 }
