@@ -3,8 +3,8 @@
 
 - [ ] Ticket [[Redirecionamento não integrou as informações para emissão do danfe]] 
 	- [x] Ajuste DISPATCH
-	- [ ] FUNCTION
-	- [ ] Integrator
+	- [x] FUNCTION
+	- [x] Integrator
 - [ ] Iniciar tarefa nova
 	- [ ] Quebra técnica
 # Estudo
