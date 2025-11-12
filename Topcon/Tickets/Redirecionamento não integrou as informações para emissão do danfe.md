@@ -7,7 +7,6 @@ Data de fim:
 # Problemas
 ## Problema 1
 Valores zerados na integração externa do cliente
-
 ### Causa
 Quando há um reaproveitamento ou redirecionamento total da carga, o valor teórico na *DeliveryTicketSupply* fica zerado, ocasionando erros na integração dos clientes que não utilizam legado.
 

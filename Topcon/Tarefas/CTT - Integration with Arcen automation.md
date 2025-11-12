@@ -9,9 +9,9 @@ Data de fim:
 ---
 # Quebra técnica (horas estimadas/total)
 
-- [ ] Estudo do funcionamento do Webhook (3h)
-- [ ] Replicar formato de envio de mensagem do TECH (10h)
-- [ ] Adicionar envio da mensagem para pesagem no DISPATCH para fila (8h)
+- [x] Estudo do funcionamento do Webhook (3h)
+- [x] Replicar formato de envio de mensagem do TECH (10h)
+- [x] Adicionar envio da mensagem para pesagem no DISPATCH para fila (8h)
 - [ ] Criar uma aplicação simples em Node para consumir esse webhook (2h)
 
 # Casos de teste

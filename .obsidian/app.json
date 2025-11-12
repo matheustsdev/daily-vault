@@ -11,5 +11,6 @@
   "newFileFolderPath": "Novas notas",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showIndentGuide": true,
+  "tabSize": 4
 }
