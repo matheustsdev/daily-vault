@@ -1,20 +1,21 @@
 # Trabalho
-🪴/🥀 *6 pomodoros de desenvolvimento*
+🪴 *6 pomodoros de desenvolvimento*
 
 - [ ] Ticket [[Redirecionamento não integrou as informações para emissão do danfe]] 
-	- [x] Ajuste DISPATCH
+	- [ ] Ajuste DISPATCH
 	- [x] FUNCTION
 	- [x] Integrator
-- [ ] Iniciar tarefa nova
-	- [ ] Quebra técnica
+- [x] Iniciar tarefa nova: [[Fora do Escopo - Tamanho da Bomba e Linha]]
+	- [x] Quebra técnica
+	- [x] Adição do novo campo
 # Estudo
-🪴/🥀 *2 pomodoros*
+🥀 *2 pomodoros*
 
 - [ ] Faculdade
 # Lazer e outros
-- [ ] Ler (🪴/🥀 *2 pomodoros*)
-- [ ] Jogar com amigos
-- [ ] Escrever/definir mais sobre a campanha (🪴 *1 pomodoros*)
+- [x] Ler (🪴 *1 pomodoros*)
+- [x] Jogar com amigos
+- [x] Escrever/definir mais sobre a campanha (🥀 *1 pomodoros*)
 
 
 # Planejamento dia seguinte

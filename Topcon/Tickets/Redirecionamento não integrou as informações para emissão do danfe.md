@@ -1,8 +1,8 @@
 ---
 Ticket: 538559
-Status: Em análise
+Status: Concluído
 Data de início: 2025-11-10
-Data de fim:
+Data de fim: 2025-11-13
 ---
 # Problemas
 ## Problema 1
