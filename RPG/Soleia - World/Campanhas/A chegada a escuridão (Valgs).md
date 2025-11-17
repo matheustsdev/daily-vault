@@ -6,4 +6,4 @@
 ### 1. Conhecimento: Tomo dos rituais perdidos
 Tomo escrito por Umbrus em si.
 ### 2. Estabilizador: 
-### 3. Vinculo/direcionador: 
+### 3. Vinculo/direcionador: Um tiefling
