@@ -9,7 +9,7 @@ Data de fim:
 ---
 # Quebra técnica (5h/20h)
 
-- [ ] Adicionar propriedade de tamanho de bomba (1h)
+- [x] Adicionar propriedade de tamanho de bomba (1h)
 - [ ] Adicionar campo com validações para tamanho de bomba (2h)
 - [ ] Garantir/validar a disponibilidade da propriedade nas APIs (2h) 
 
