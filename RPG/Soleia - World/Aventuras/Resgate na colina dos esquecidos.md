@@ -61,8 +61,11 @@ XXXXXXXXXXX (nome do colega) explica que o tutor do monastério foi sequestrado 
 
 Agora ele busca ajuda para conseguir resgatar o tutor. Ele não possui muitos recursos mas a esposa prometeu que poderia dar à ele 100 POs das finanças do casal caso encontrassem o marido, XXXXXX (nome do colega) não aceitou mas informa isso aos aventureiros.
 
-Na rota os mesmos criminosos estão rondando e cobrando taxa de todos que passam, além de vasculharem as cargas em busca de algo de interesse. chat
-  
+Na rota os mesmos criminosos estão rondando e cobrando taxa de todos que passam, além de vasculharem as cargas em busca de algo de interesse (livros, pergaminhos, armas mágicas e etc). Esse grupo de criminosos possui um acampamento em uma clareira à 2km da rota, a clareira é guardada 4 outros criminosos. No acampamento constam 6 barracas, uma fogueira e 2 troncos caídos que são usados como bancos. O professor/tutor não está lá, ele foi levado para o esconderijo na [[Colina dos Esquecidos]]. Para chegar no local é necessário 2 dias de viagem, as rotas continuam sendo atacadas à cada dia de distância.
+
+O esconderijo foi construído dentro de um conjunto de cavernas de formação natural, possuindo uma área de lago e a proximidade dele alaga todas as noites, além de carniçais que estão trancafiados em uma sala e são usados como medida de segurança. O local é repleto de criminosos, sendo muitos aqui da raça *Golias*. O local possui sistema de alarme e diversas armadilhas espalhadas pelo local. O esconderijo é controlado e comandado por gigante da colina que é mandado por um mago poderoso, um arquimago. O arquimago tem como objetivo levar e/ou interrogar todos os acadêmicos e adquirir todos os livros que os criminosos roubarem e leva-os para a biblioteca secreta de Bizanar.
+
+Nesse ponto os aventureiros possuem 2 opções: retornar com o tutor e receber a recompensa ou partir direto dali em busca da biblioteca.
 # Ato 1
 Uma breve descrição do ato
 
