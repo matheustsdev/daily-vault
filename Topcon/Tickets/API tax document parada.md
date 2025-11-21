@@ -1,8 +1,8 @@
 ---
 Ticket: 541382
-Status: Em análise
+Status: Concluído
 Data de início: 2025-11-19
-Data de fim:
+Data de fim: 2025-11-19
 ---
 # Problemas
 ## Problema 1
