@@ -1,9 +1,9 @@
 ## Trabalho
  🪴/🥀 *6 pomodoros de desenvolvimento*
 
-- [ ] Tarefa [[CTT - Integration with Arcen automation]]
-	- [ ] Teste
-- [ ] Novo ticket
+- [x] Tarefa [[CTT - Integration with Arcen automation]]
+	- [x] Teste
+- [ ] Ticket 
 ## Estudo
 🪴/🥀 *1 pomodoros*
 
