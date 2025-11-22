@@ -156,7 +156,7 @@ Para cada dia será rolado 1d12 de possíveis acontecimentos no decorrer da viag
 - **Desafio:** Dilema moral e tático. Eles podem deixar a criatura para morrer. Podem tentar matá-la para acabar com seu sofrimento (e talvez colher componentes valiosos). Ou podem tentar libertá-la, o que exige um plano cuidadoso: um personagem precisa se aproximar para desarmar a armadilha (teste de Prestidigitação ou com Ferramentas de Ladrão) enquanto outros tentam acalmar o animal (testes de Trato com Animais) ou distraí-lo. Se conseguirem, o grifo voará para os céus, talvez deixando para trás uma de suas penas como agradecimento — um item que pode ser usado como componente para magias ou para criar uma flecha especial.
 ##### Fúria de Volantis
 - **Acontecimento:** Nuvens de poeira se formam em uma violenta e súbita tempestade de areia. A visibilidade cai para quase zero, e o som do vento uivante é ensurdecedor.
-- **Desafio/Oportunidade:** Combate ambiental. Dentro da tempestade, 4 ou 5 **Elementais da Poeira** se manifestam e atacam, usando a baixa visibilidade para emboscar o grupo. Sobreviver à tempestade é tanto um desafio de navegação quanto de combate.
+- **Desafio/Oportunidade:** Combate ambiental. Dentro da tempestade, 4 **Elementais da Poeira** se manifestam e atacam, usando a baixa visibilidade para emboscar o grupo. Sobreviver à tempestade é tanto um desafio de navegação quanto de combate. (400 xp total)
 
 ![[Pasted image 20251122145421.png]]
 ##### O Bosque Febril
@@ -167,7 +167,7 @@ Para cada dia será rolado 1d12 de possíveis acontecimentos no decorrer da viag
 - **Desafio/Oportunidade:** Interação social sinistra. Eles são um culto nascente que adora o Devorador de Mentes (a quem chamam de "A Voz na Escuridão"). Eles são pacíficos e estão indo para um local onde acreditam que "ascenderão". Sua presença é um presságio sombrio de que a influência do inimigo está se tornando uma religião.
 ##### Cemitério dos Gigantes
 - **Acontecimento:** A trilha atravessa uma planície vasta e plana, coberta por ossos colossais e fossilizados de criaturas de uma era passada. As costelas de um titã formam arcos sobre a estrada.
-- **Desafio/Oportunidade:** Worldbuilding e exploração. O local é inspirador e um pouco assustador. É um ótimo lugar para encontrar fósseis ou componentes raros (com um teste de Investigação ou Sobrevivência). No entanto, acampar aqui pode atrair 5 **Abutres-Ossudos** e 1 gigante deles, grandes aves carniceiras adaptadas a quebrar ossos fossilizados com seus bicos de pedra.
+- **Desafio/Oportunidade:** Worldbuilding e exploração. O local é inspirador e um pouco assustador. É um ótimo lugar para encontrar fósseis ou componentes raros (com um teste de Investigação ou Sobrevivência). No entanto, acampar aqui pode atrair 5 **Abutres-Ossudos** e 1 gigante deles, grandes aves carniceiras adaptadas a quebrar ossos fossilizados com seus bicos de pedra. (250 xp total)
 
 ![[Pasted image 20251122145940.png]]
 ![[Pasted image 20251122145956.png]]
@@ -197,7 +197,7 @@ Qualquer tentativa de impedir o pedágio ou tentativa de fugir do pagamento, ini
 - **Espinho**, um tiefling com pequenos chifres que se curvam para trás e uma cauda fina que se move impacientemente. Sua pele tem um tom acinzentado e ele não possui sobrenome, apenas o apelido "Espinho". Ele é ressentido e mal-humorado, vendo cada pedágio como uma pequena vingança contra um mundo que o rejeitou;
 - **Miro e Nelo Costa-Larga**, dois humanos irmãos da região costeira que se juntaram ao bando após perderem seu barco para dívidas. Miro é o mais velho e protetor, enquanto Nelo é mais impulsivo. Eles lutam lado a lado, e sua lealdade um ao outro é a única que supera a que têm por Zarel. São os outros dois que conversam com o senhorzinho, tentando parecer mais intimidadores do que realmente são.
 
-Quando o combate se inicia o bandido maior já sinaliza ao besteiro para entrar em combate, que entra apenas no turno seguinte. O local é um zig-zag limitado pelas colinas e, possivelmente, com **Teodoro Solbrando**, **Relâmpago** e a carroça no meio da curva.
+Quando o combate se inicia o bandido maior já sinaliza ao besteiro para entrar em combate, que entra apenas no turno seguinte. O local é um zig-zag limitado pelas colinas e, possivelmente, com **Teodoro Solbrando**, **Relâmpago** e a carroça no meio da curva (625 xp total).
 
 ![[mapa contra os bandidos_10x14 (1).png]]
 
