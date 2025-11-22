@@ -2,6 +2,9 @@
 Tipo: Taverna
 Local: "[[Porto Argenta]]"
 ---
+![[Pasted image 20251122093207.png]]
+Qualidade normal com custo de estadia de 2 PP.
+
 Localização: – Fica na orla central, de frente para os píeres principais. Das janelas do segundo piso dá para ver quase todo o movimento do porto.
 
 Por que esse nome? – Dizem que, anos atrás, durante uma tempestade terrível, um navio quase naufragou diante da cidade. Quando o mar acalmou, a primeira coisa que se ouviu foi uma única gaivota soltando um grito estridente em cima da taverna – parecia uma risada debochada depois da desgraça.  
