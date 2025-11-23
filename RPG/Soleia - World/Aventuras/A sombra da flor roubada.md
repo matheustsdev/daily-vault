@@ -21,7 +21,7 @@ Após derrotarem os ladrões, os jogadores encontram um mapa rabiscado que indic
 
 # Ato 2: Os Segredos da Caverna
 
-Ao entrarem no esconderijo, os jogadores se deparam com uma câmara iluminada por cristais luminescentes roubados de Aeglíria. No centro da câmara, há um altar improvisado com símbolos alquímicos complexos. Uma figura encapuzada está realizando um ritual, manipulando a Essência da Flor Perene. A figura se revela como [[Lysandra]], um alquimista sombrio obcecado em usar a Essência para fins obscuros.
+Ao entrarem no esconderijo, os jogadores se deparam com uma câmara iluminada por cristais luminescentes roubados de [[Aeglíria]]. No centro da câmara, há um altar improvisado com símbolos alquímicos complexos. Uma figura encapuzada está realizando um ritual, manipulando a Essência da Flor Perene. A figura se revela como [[Lysandra]], um alquimista sombrio obcecado em usar a Essência para fins obscuros.
 
 ### Desafios
 
