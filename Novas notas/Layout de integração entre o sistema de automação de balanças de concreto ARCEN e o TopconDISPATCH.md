@@ -25,7 +25,7 @@ Neste documento constam informações necessárias para o devido recebimento e u
 | sentToAutomationAt           | DATETIME | -            | Data/hora de envio para automação. Formato ISO 8601: "yyyy-MM-ddTHH:mm:ss". Pode ser nulo |
 | volume                       | DECIMAL  | -            | Volume em metros cúbicos (máximo duas casas decimais). Pode ser nulo                      |
 | reusedVolume                 | DECIMAL  | -            | Volume reaproveitado em metros cúbicos (máximo duas casas decimais). Pode ser nulo        |
-| loadLabel                    | STRING   | -            | Número do lacre da betoneira                                                              |
+| loadLabel                    | STRING   | 155          | Número do lacre da betoneira                                                              |
 | releaseObservation           | STRING   | 255          | Observações gerais da liberação. Pode ser nulo                                            |
 | waterCut                     | INTEGER  | 4            | Quantidade de água a ser cortada na pesagem. Pode ser nulo                                |
 | operatorName                 | STRING   | 50           | Nome do operador responsável                                                              |
@@ -43,25 +43,27 @@ Neste documento constam informações necessárias para o devido recebimento e u
 | CAMPO        | TIPO   | TAMANHO MAX. | DESCRIÇÃO                                      |
 | ------------ | ------ | ------------ | ---------------------------------------------- |
 | id           | GUID   | -            | Identificador único da central                 |
-| abbreviation | STRING | 20           | Abreviação da central                          |
-| name         | STRING | 100          | Nome completo da central                       |
-| code         | STRING | 20           | Código identificador da central. Pode ser nulo |
+| abbreviation | STRING | 3            | Abreviação da central                          |
+| name         | STRING | 50           | Nome completo da central                       |
+| code         | STRING | 10           | Código identificador da central. Pode ser nulo |
 
 ### PONTO DE CARGA (LoadingPoint)
 
 | CAMPO | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                     |
 | ----- | ------- | ------------ | --------------------------------------------- |
-| name  | STRING  | 100          | Nome do ponto de carregamento                 |
+| name  | STRING  | 50           | Nome do ponto de carregamento                 |
 | code  | INTEGER | -            | Código identificador do ponto de carregamento |
 
 ### VEÍCULO (Vehicle)
 
 | CAMPO             | TIPO   | TAMANHO MAX. | DESCRIÇÃO                                      |
 | ----------------- | ------ | ------------ | ---------------------------------------------- |
-| code              | STRING | 20           | Código identificador do veículo                |
-| licensePlate      | STRING | 20           | Placa do veículo                               |
-| licensePlateState | STRING | 2            | Estado (UF) da placa do veículo. Pode ser nulo |
+| code              | STRING | 50           | Código identificador do veículo                |
+| licensePlate      | STRING | 10           | Placa do veículo                               |
+| licensePlateState | STRING | 50           | Estado (UF) da placa do veículo. Pode ser nulo |
 
+
+fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 ### TRAÇO (ConcreteRecipe)
 
 | CAMPO                             | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                                           |

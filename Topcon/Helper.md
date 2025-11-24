@@ -11,6 +11,9 @@
 | 17473288-488b-4ac5-bd97-bebbdb63c237 | Siajsa                        |
 | dfce6b13-b4b3-4ef2-b464-cf341e709948 | Concrecity                    |
 | 8b0ab8a2-1925-4d2b-bf21-af70af0f8e9a | Supertex                      |
+| 77cde178-5dc5-49d0-81e4-441adb7ddce8 | Concrelongo                   |
+| 5ad98a18-cfb4-4acb-8132-c85d6b394229 | Pedreira Costa                |
+| 749164e1-24db-4f74-80bc-59ba196c7c50 | Sultepa                       |
 ## OCP Apim keys
 ### Homologation
 
