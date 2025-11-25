@@ -4,14 +4,14 @@
 - [x] Ticket [[Faturamento gerando Fatura de Locação indevidamente]]
 - [ ] Documentação [[CTT - Integration with Arcen automation]]
 - [x] Documentação [[Fora do Escopo - Tamanho da Bomba e Linha]]
-- [ ] Ticket
+- [x] Ticket
 ## Estudo
 🪴/🥀 *1 pomodoro*
 
 - [ ] Faculdade
 ## Lazer e outros
 - [ ] Leitura (🪴/🥀 *2 pomodoros*)
-- [ ] Jogar
+- [x] Jogar
 
 # Planejamento dia seguinte
 ## Trabalho

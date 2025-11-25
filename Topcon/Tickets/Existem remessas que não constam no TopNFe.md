@@ -1,18 +1,16 @@
 ---
-Ticket: 539328
-Status: Concluído
-Data de início: 2025-11-21
-Data de fim: 2025-11-24
+Ticket: 537858
+Status: Em análise
+Data de início: 2025-11-25
+Data de fim:
 ---
 # Problemas
 ## Problema 1
-Está integrando o valor mao_obra_prop de forma errônea no legado. Esse campo vem da informação se é utilizado mão de obra própria ou não.
-
+Não integrando na topnfe, parte do problema é 
 ### Causa
-
-
+uma aspa simples ao tentar inserir no sql.
 ### Solução 1
-
+Adicionar tratativa para limpar a aspa
 
 ### Solução 2
 

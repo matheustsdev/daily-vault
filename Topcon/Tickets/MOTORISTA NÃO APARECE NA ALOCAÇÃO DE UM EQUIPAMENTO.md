@@ -1,19 +1,17 @@
 ---
-Ticket: 539328
+Ticket: 542214
 Status: Concluído
-Data de início: 2025-11-21
-Data de fim: 2025-11-24
+Data de início: 2025-11-25
+Data de fim: 2025-11-25
 ---
 # Problemas
 ## Problema 1
-Está integrando o valor mao_obra_prop de forma errônea no legado. Esse campo vem da informação se é utilizado mão de obra própria ou não.
+Na tela de alocação não é exibido o motorista que o cliente deseja selecionar
 
 ### Causa
-
-
+O graphql limita o retorno à 500 itens, como o cliente possui 900 funcionários, não está retornando
 ### Solução 1
-
-
+Ajustar backend para permitir busca filtrando nome tanto maiúsculo quanto minusculo (motivo pelo qual não é possível resolver apenas via frontend)
 ### Solução 2
 
 

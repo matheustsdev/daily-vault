@@ -62,16 +62,14 @@ Neste documento constam informações necessárias para o devido recebimento e u
 | licensePlate      | STRING | 10           | Placa do veículo                               |
 | licensePlateState | STRING | 50           | Estado (UF) da placa do veículo. Pode ser nulo |
 
-
-fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 ### TRAÇO (ConcreteRecipe)
 
 | CAMPO                             | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                                           |
 | --------------------------------- | ------- | ------------ | ------------------------------------------------------------------- |
 | numeration                        | INTEGER | -            | Numeração do traço                                                  |
-| description                       | STRING  | 200          | Descrição completa do traço                                         |
-| externalId                        | STRING  | 50           | Código identificador externo do produto. Pode ser nulo              |
-| specification                     | STRING  | 200          | Especificação técnica do traço. Pode ser nulo                       |
+| description                       | STRING  | 130          | Descrição completa do traço                                         |
+| externalId                        | STRING  | 130          | Código identificador externo do produto. Pode ser nulo              |
+| specification                     | STRING  | 130          | Especificação técnica do traço. Pode ser nulo                       |
 | concreteCharacteristicsType       | OBJETO  | -            | Tipo de característica do concreto (ex: resistência). Pode ser nulo |
 | concreteRecipeCharacteristicValue | DECIMAL | -            | Valor da característica (ex: valor MPa). Máximo duas casas decimais |
 | productGroup                      | OBJETO  | -            | Grupo do produto. Pode ser nulo                                     |
@@ -83,7 +81,7 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 
 | CAMPO        | TIPO   | TAMANHO MAX. | DESCRIÇÃO                                               |
 | ------------ | ------ | ------------ | ------------------------------------------------------- |
-| abbreviation | STRING | 20           | Abreviação do tipo de característica (ex: "MPa", "PSI") |
+| abbreviation | STRING | 30           | Abreviação do tipo de característica (ex: "MPa", "PSI") |
 
 ### GRUPO DE PRODUTO (ProductGroup)
 
@@ -95,7 +93,7 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 
 | CAMPO | TIPO   | TAMANHO MAX. | DESCRIÇÃO               |
 | ----- | ------ | ------------ | ----------------------- |
-| name  | STRING | 100          | Nome/descrição da brita |
+| name  | STRING | 10           | Nome/descrição da brita |
 
 ### SLUMP (Slump)
 
@@ -128,8 +126,8 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 
 | CAMPO                  | TIPO   | TAMANHO MAX. | DESCRIÇÃO                                                  |
 | ---------------------- | ------ | ------------ | ---------------------------------------------------------- |
-| name                   | STRING | 100          | Nome completo do motorista                                 |
-| registrationCode       | STRING | 20           | Código de registro/matrícula do funcionário. Pode ser nulo |
+| name                   | STRING | 200          | Nome completo do motorista                                 |
+| registrationCode       | STRING | 10           | Código de registro/matrícula do funcionário. Pode ser nulo |
 | identificationDocument | STRING | 20           | Documento de identificação (CPF/RG)                        |
 
 ### ENTREGAS RELACIONADAS (LoadTicketDeliveryRelational)
@@ -157,8 +155,8 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 
 | CAMPO        | TIPO   | TAMANHO MAX. | DESCRIÇÃO                                 |
 | ------------ | ------ | ------------ | ----------------------------------------- |
-| name         | STRING | 120          | Nome da frente de obra. Pode ser nulo     |
-| address      | STRING | 200          | Endereço da frente de obra. Pode ser nulo |
+| name         | STRING | 255          | Nome da frente de obra. Pode ser nulo     |
+| address      | STRING | 255          | Endereço da frente de obra. Pode ser nulo |
 | number       | STRING | 20           | Número do endereço. Pode ser nulo         |
 | district     | STRING | 100          | Bairro. Pode ser nulo                     |
 | municipality | OBJETO | -            | Informações do município. Pode ser nulo   |
@@ -167,7 +165,7 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 
 | CAMPO          | TIPO   | TAMANHO MAX. | DESCRIÇÃO                     |
 | -------------- | ------ | ------------ | ----------------------------- |
-| contractNumber | STRING | 50           | Número do contrato            |
+| contractNumber | STRING | 100          | Número do contrato            |
 | seller         | OBJETO | -            | Informações do vendedor       |
 | construction   | OBJETO | -            | Informações da obra principal |
 | client         | OBJETO | -            | Informações do cliente        |
@@ -177,15 +175,15 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 | CAMPO    | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                |
 | -------- | ------- | ------------ | ---------------------------------------- |
 | name     | STRING  | 100          | Nome do vendedor. Pode ser nulo          |
-| fullName | STRING  | 200          | Nome completo do vendedor. Pode ser nulo |
+| fullName | STRING  | 100          | Nome completo do vendedor. Pode ser nulo |
 | code     | INTEGER | -            | Código do vendedor. Pode ser nulo        |
 
 ### OBRA (Construction)
 
 | CAMPO        | TIPO   | TAMANHO MAX. | DESCRIÇÃO                               |
 | ------------ | ------ | ------------ | --------------------------------------- |
-| name         | STRING | 120          | Nome da obra                            |
-| address      | STRING | 200          | Endereço da obra. Pode ser nulo         |
+| name         | STRING | 100          | Nome da obra                            |
+| address      | STRING | 255          | Endereço da obra. Pode ser nulo         |
 | number       | STRING | 20           | Número do endereço. Pode ser nulo       |
 | district     | STRING | 100          | Bairro. Pode ser nulo                   |
 | municipality | OBJETO | -            | Informações do município. Pode ser nulo |
@@ -195,8 +193,8 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 | CAMPO                  | TIPO    | TAMANHO MAX. | DESCRIÇÃO                               |
 | ---------------------- | ------- | ------------ | --------------------------------------- |
 | code                   | INTEGER | -            | Código do cliente. Pode ser nulo        |
-| name                   | STRING  | 200          | Nome do cliente. Pode ser nulo          |
-| address                | STRING  | 200          | Endereço do cliente. Pode ser nulo      |
+| name                   | STRING  | 100          | Nome do cliente. Pode ser nulo          |
+| address                | STRING  | 255          | Endereço do cliente. Pode ser nulo      |
 | number                 | STRING  | 20           | Número do endereço. Pode ser nulo       |
 | complement             | STRING  | 100          | Complemento do endereço. Pode ser nulo  |
 | district               | STRING  | 100          | Bairro. Pode ser nulo                   |
@@ -208,8 +206,8 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 | CAMPO                    | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                  |
 | ------------------------ | ------- | ------------ | ------------------------------------------ |
 | code                     | INTEGER | -            | Código interno do município. Pode ser nulo |
-| name                     | STRING  | 100          | Nome do município                          |
-| state                    | STRING  | 2            | Sigla do estado (UF)                       |
+| name                     | STRING  | 200          | Nome do município                          |
+| state                    | STRING  | 50           | Sigla do estado (UF)                       |
 | countryCode              | INTEGER | -            | Código do país. Pode ser nulo              |
 | officialMunicipalityCode | INTEGER | -            | Código IBGE do município. Pode ser nulo    |
 | zipCode                  | STRING  | 10           | CEP do município. Pode ser nulo            |
@@ -225,8 +223,8 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 | theoreticalHumidityPercentage | DECIMAL | -            | Percentual de umidade teórica (máximo duas casas decimais). Pode ser nulo                  |
 | contractedHumidityPercentage  | DECIMAL | -            | Percentual de umidade contratada (máximo duas casas decimais). Pode ser nulo               |
 | quantityTheoreticalDryTotal   | DECIMAL | -            | Quantidade teórica seca total em KG (máximo duas casas decimais). Pode ser nulo            |
-| supplyCodeinAutomation        | STRING  | 20           | Código identificador do material no sistema de automação. Pode ser nulo                    |
-| localCodeinAutomation         | STRING  | 32           | Número identificador do local de insumo na automação. Pode ser nulo                        |
+| supplyCodeinAutomation        | STRING  | 155          | Código identificador do material no sistema de automação. Pode ser nulo                    |
+| localCodeinAutomation         | STRING  | 155          | Número identificador do local de insumo na automação. Pode ser nulo                        |
 | supply                        | OBJETO  | -            | Informações do insumo. Pode ser nulo                                                       |
 | supplier                      | OBJETO  | -            | Informações do fornecedor. Pode ser nulo                                                   |
 | dosageType                    | ENUM    | -            | Tipo de dosagem (enum EDosageType). Pode ser nulo                                          |
@@ -236,19 +234,19 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 | CAMPO                      | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                             |
 | -------------------------- | ------- | ------------ | ----------------------------------------------------- |
 | code                       | INTEGER | -            | Código do insumo. Pode ser nulo                       |
-| name                       | STRING  | 100          | Nome completo do insumo                               |
-| abbreviation               | STRING  | 20           | Abreviação do insumo                                  |
+| name                       | STRING  | 50           | Nome completo do insumo                               |
+| abbreviation               | STRING  | 10           | Abreviação do insumo                                  |
 | active                     | BOOLEAN | -            | Indica se o insumo está ativo                         |
 | group                      | ENUM    | -            | Grupo do insumo (enum ESupplyGroup)                   |
 | composeMortar              | BOOLEAN | -            | Indica se compõe argamassa                            |
-| externalId                 | STRING  | 50           | Identificador externo. Pode ser nulo                  |
+| externalId                 | STRING  | 1300         | Identificador externo. Pode ser nulo                  |
 | classificationSupplyTypeId | GUID    | -            | Identificador do tipo de classificação. Pode ser nulo |
 
 ### FORNECEDOR (Supplier)
 
 | CAMPO | TIPO   | TAMANHO MAX. | DESCRIÇÃO          |
 | ----- | ------ | ------------ | ------------------ |
-| name  | STRING | 200          | Nome do fornecedor |
+| name  | STRING | 50           | Nome do fornecedor |
 
 ## Observações Importantes
 
@@ -311,27 +309,27 @@ fkwejfklaewrjgeiorgjdkogljdgiogj falta aq
 
 ### CABEÇALHO DA CARGA (LoadTicketReturn)
 
-| CAMPO                   | TIPO     | TAMANHO MAX. | DESCRIÇÃO                                                                                                                                              |
-| ----------------------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| idAutomationIntegration | STRING   | 50           | Identificador único da transação gerado pelo sistema externo. Em retornos manuais, preencher com "MANUAL" ou "NotUsedInLoad"                           |
-| loadTicketCode          | STRING   | 20           | Código do ticket ou número do pedido de produção recebido no webhook. Em modo manual pode ficar vazio                                                  |
-| loadingPointCode        | STRING   | 20           | Código do ponto de carregamento onde a operação ocorreu                                                                                                |
-| weighingStartDatetime   | DATETIME | -            | Momento exato em que a pesagem/dosagem começou. Formato ISO 8601: "yyyy-MM-ddTHH:mm:ss"                                                                |
-| weighingFinishDatetime  | DATETIME | -            | Momento exato em que a pesagem/dosagem terminou. Formato ISO 8601: "yyyy-MM-ddTHH:mm:ss"                                                               |
-| statusProductionOrder   | STRING   | 20           | Estado final da carga. Valores aceitos: "COMPLETED" (concluída com sucesso), "CANCELED" (cancelada), "ERROR" (erro/interrompida), "ABORTED" (abortada) |
-| waterInConcreteMixer    | DECIMAL  | -            | Volume de água presente no caminhão betoneira antes do carregamento (lastro). Máximo duas casas decimais. Valor padrão: 0                              |
-| realWaterCut            | DECIMAL  | -            | Quantidade de água retirada/compensada da receita (corte de água real executado). Máximo duas casas decimais. Valor padrão: 0                          |
-| volume                  | DECIMAL  | -            | Volume real produzido em metros cúbicos. Máximo uma casa decimal. Campo opcional                                                                       |
-| observation             | STRING   | 255          | Campo de observações gerais sobre a pesagem. Campo opcional                                                                                            |
-| returnType              | STRING   | 20           | Classificação do retorno. Valores aceitos: "AUTOMATIC" (pesagem automática baseada em ordem recebida), "MANUAL" (pesagem manual sem ordem prévia)      |
-| loadTicketReturnItems   | ARRAY    | -            | Lista de itens (insumos) efetivamente dosados na pesagem                                                                                               |
+| CAMPO                   | TIPO     | TAMANHO MAX. | DESCRIÇÃO                                                                                                                                         |
+| ----------------------- | -------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| idAutomationIntegration | STRING   | 255          | Identificador único da transação gerado pelo sistema externo. Em retornos manuais, preencher com "MANUAL" ou "NotUsedInLoad"                      |
+| loadTicketCode          | STRING   | 50           | Código do ticket ou número do pedido de produção recebido no webhook. Em modo manual pode ficar vazio                                             |
+| loadingPointCode        | STRING   | 20           | Código do ponto de carregamento onde a operação ocorreu                                                                                           |
+| weighingStartDatetime   | DATETIME | -            | Momento exato em que a pesagem/dosagem começou. Formato ISO 8601: "yyyy-MM-ddTHH:mm:ss"                                                           |
+| weighingFinishDatetime  | DATETIME | -            | Momento exato em que a pesagem/dosagem terminou. Formato ISO 8601: "yyyy-MM-ddTHH:mm:ss"                                                          |
+| statusProductionOrder   | STRING   | 1            | Estado final da carga. Valores aceitos: "C" (concluída com sucesso), "X" (cancelada), "E" (erro/interrompida), "U" (atualizada com sucesso)       |
+| waterInConcreteMixer    | DECIMAL  | -            | Volume de água presente no caminhão betoneira antes do carregamento (lastro). Máximo duas casas decimais. Valor padrão: 0                         |
+| realWaterCut            | DECIMAL  | -            | Quantidade de água retirada/compensada da receita (corte de água real executado). Máximo duas casas decimais. Valor padrão: 0                     |
+| volume                  | DECIMAL  | -            | Volume real produzido em metros cúbicos. Máximo uma casa decimal. Campo opcional                                                                  |
+| observation             | STRING   | 255          | Campo de observações gerais sobre a pesagem. Campo opcional                                                                                       |
+| returnType              | STRING   | 20           | Classificação do retorno. Valores aceitos: "AUTOMATIC" (pesagem automática baseada em ordem recebida), "MANUAL" (pesagem manual sem ordem prévia) |
+| loadTicketReturnItems   | ARRAY    | -            | Lista de itens (insumos) efetivamente dosados na pesagem                                                                                          |
 
 ### ITENS DOSADOS (LoadTicketReturnItem)
 
 | CAMPO                  | TIPO    | TAMANHO MAX. | DESCRIÇÃO                                                                                                   |
 | ---------------------- | ------- | ------------ | ----------------------------------------------------------------------------------------------------------- |
-| supplyCodeinAutomation | STRING  | 20           | Código identificador do insumo/material no sistema de automação                                             |
-| localCodeinAutomation  | STRING  | 32           | Código do silo/caixa ou local físico de onde saiu o material. Campo opcional                                |
+| supplyCodeinAutomation | STRING  | 155          | Código identificador do insumo/material no sistema de automação                                             |
+| localCodeinAutomation  | STRING  | 155          | Código do silo/caixa ou local físico de onde saiu o material. Campo opcional                                |
 | dosedQuantity          | DECIMAL | -            | Quantidade efetiva que foi dosada para este material em KG (quilos). Máximo duas casas decimais             |
 | realHumidityPercentage | DECIMAL | -            | Percentual de umidade medido para o material durante a dosagem. Máximo duas casas decimais. Valor padrão: 0 |
 | supplyCode             | STRING  | 20           | Código do material no padrão Topcon (usado apenas em algumas integrações específicas). Campo opcional       |
@@ -499,7 +497,7 @@ Utilizado quando a pesagem foi executada manualmente no sistema de automação, 
   "loadingPointCode": "001",
   "weighingStartDatetime": "2024-01-15T11:00:00",
   "weighingFinishDatetime": "2024-01-15T11:03:00",
-  "statusProductionOrder": "CANCELED",
+  "statusProductionOrder": "C",
   "waterInConcreteMixer": 0.00,
   "realWaterCut": 0.00,
   "volume": 0.0,
