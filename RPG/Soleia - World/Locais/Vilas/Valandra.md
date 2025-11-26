@@ -10,7 +10,7 @@ Valandra é uma pequena vila mineradora escondida entre colinas e florestas dens
 Valandra é liderada por um ancião local, [[Brenor Caelum]], eleito pelos próprios moradores, que toma as decisões com o auxílio de um conselho informal de mineradores e comerciantes. A liderança é prática e focada na cooperação entre os moradores para manter a prosperidade e segurança da vila.
 # Submundo
 
-Embora pequena, Valandra possui uma presença discreta da facção “[[Sombras de Ébano]]”. Eles operam silenciosamente, principalmente no contrabando de pequenos cristais mágicos, e alguns dos moradores suspeitam de suas atividades, mas evitam confrontos em nome da paz local.
+Embora pequena, Valandra possui uma presença discreta da facção “[[Sombras de ébano]]”. Eles operam silenciosamente, principalmente no contrabando de pequenos cristais mágicos, e alguns dos moradores suspeitam de suas atividades, mas evitam confrontos em nome da paz local.
 # Religião e templos
 
 A vila é dedicada à deusa [[Selene, a deusa da Lua e segredos noturnos|Lyrena]], especialmente por sua influência sobre a lua e as águas que rodeiam Valandra. Pequenos altares dedicados a ela são comuns nas casas e na praça central, onde os moradores se reúnem para pedir bênçãos para as minas e para o riacho que alimenta a vila.

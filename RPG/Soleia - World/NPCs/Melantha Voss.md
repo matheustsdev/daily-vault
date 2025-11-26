@@ -5,12 +5,12 @@ Facção: "[[Sombras de ébano]]"
 ---
 # Descrição
 
-Melantha é uma meio-elfa de 42 anos, conhecida por sua postura reservada e olhar perscrutador. Ela tem pele pálida, olhos de um azul profundo e cabelos escuros, lisos e longos, que costuma prender em um coque discreto. Sua presença é marcante, apesar de seus modos silenciosos e de fala suave, sempre calculada e persuasiva. Como líder do núcleo local dos [[Sombras de Ébano]] em [[Valandra]], ela prefere manter-se na sombra, monitorando todos os detalhes de suas operações. Melantha é extremamente habilidosa em manipular informações e sua rede de informantes é sua maior vantagem.
+Melantha é uma meio-elfa de 42 anos, conhecida por sua postura reservada e olhar perscrutador. Ela tem pele pálida, olhos de um azul profundo e cabelos escuros, lisos e longos, que costuma prender em um coque discreto. Sua presença é marcante, apesar de seus modos silenciosos e de fala suave, sempre calculada e persuasiva. Como líder do núcleo local dos [[Sombras de ébano]] em [[Valandra]], ela prefere manter-se na sombra, monitorando todos os detalhes de suas operações. Melantha é extremamente habilidosa em manipular informações e sua rede de informantes é sua maior vantagem.
 
 ![[Melantha Voss.png]]
 # Objetivo
 
-Consolidar o poder dos [[Sombras de Ébano]] em [[Valandra]], controlando a liderança da vila para avançar os interesses da facção.
+Consolidar o poder dos [[Sombras de ébano]] em [[Valandra]], controlando a liderança da vila para avançar os interesses da facção.
 # Motivação
 
 Melantha busca restabelecer uma ordem em Valandra que beneficie sua visão de justiça — uma onde a força e a estratégia garantem o poder, e os mais preparados mantêm a estabilidade da vila. Ela vê na missão de substituir [[Brenor Caelum|Brenor]] uma maneira de proteger [[Valandra]] de influências que considera nocivas e ampliar o controle estratégico da facção na região.

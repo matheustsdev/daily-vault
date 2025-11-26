@@ -1,28 +1,19 @@
-## Trabalho
- 🪴/🥀 *X pomodoros de desenvolvimento*
-
+## 👨🏻‍💻 Trabalho 
 - [ ] 
 - [ ] 
 - [ ] 
+## 📚 Estudo
 - [ ] 
-## Estudo
-🪴/🥀 *X pomodoros*
-
+## 🤪 Lazer e outros 
 - [ ] 
-## Lazer e outros
-- [ ] 
-
 # Planejamento dia seguinte
-## Trabalho
- 🪴/🥀 *X pomodoros de desenvolvimento*
-
+## 👨🏻‍💻 Trabalho 
 - [ ] 
 - [ ] 
-## Estudo
-🪴/🥀 *X pomodoros*
-
 - [ ] 
-## Lazer e outros
+## 📚 Estudo
+- [ ] 
+## 🤪 Lazer e outros 
 - [ ] 
 
 <%* 
