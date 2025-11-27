@@ -8,9 +8,9 @@
 ## Estudo
 🪴/🥀 *1 pomodoros*
 
-- [ ] Faculdade
+- [x] Faculdade
 ## Lazer e outros
-- [ ] Jogar
+- [x] Jogar
 - [ ] Fazer registro da sessão
 - [ ] Planejar novo ato
 
