@@ -1,12 +1,11 @@
 ## 👨🏻‍💻 Trabalho 
-- [ ] Documentação do [[CTT - Integration with Arcen automation]]
+- [x] Documentação do [[CTT - Integration with Arcen automation]]
 - [ ] 
 - [ ] 
 ## 📚 Estudo
 - [ ] Laboratório da faculdade
 ## 🤪 Lazer e outros 
-- [ ] Currículo do Lipe
-- [ ] Stranger Things
+- [x] Currículo do Lipe
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 
