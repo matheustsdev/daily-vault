@@ -1,9 +1,9 @@
 ## 👨🏻‍💻 Trabalho 
 - [x] Documentação do [[CTT - Integration with Arcen automation]]
-- [ ] 
-- [ ] 
+- [x] Ajuste das remessas da Max
+- [x] Reunião com Secil
 ## 📚 Estudo
-- [ ] Laboratório da faculdade
+- [x] Laboratório da faculdade
 ## 🤪 Lazer e outros 
 - [x] Currículo do Lipe
 # Planejamento dia seguinte

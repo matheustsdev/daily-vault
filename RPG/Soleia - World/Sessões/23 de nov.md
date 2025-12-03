@@ -19,66 +19,37 @@ No dia seguinte eles partem para o resgate com **Iel Pés-de-Vento**, levando 4 
 No quarto dia eles chegam nas colinas, onde escutam alguns bandidos pedindo pedágio para um senhor de idade em sua carroça e seu burrinho. **Iel Pés-de-Vento** identifica que aqueles foram os bandidos que lhe atacaram, fazendo com que o grupo parta pra cima dos bandidos. Na luta que segue, após alguns bandidos derrotados, o líder deles convoca um atirador escondido em um plator da colina fazendo com que Jorginho e Antares tenham que agir para alcança-lo. Para isso Jorginho dá pezinho e empurra Antares para cima que agora está ao lado do atirador e o ataca até ele pedir pela sua vida e eles concordarem em deixa-lo vivo para conseguir informações.
 
 ## Pontos Principais & Eventos Importantes
-- **Encontro com:**  
-  *Ex.: Lavinia apresenta novas informações, a prisão ocorre, etc.*
-- **Conflitos/Combates:**  
-  *Breve descrição dos encontros, desafios e resultados.*
-- **Descobertas:**  
-  *Ex.: Pistas encontradas, segredos revelados, interações com NPCs, etc.*
-- **Decisões Importantes:**  
-  *Ex.: Escolha de fugir ou lutar, aceitação do convite para o Conclave Safira, etc.*
-
+- Encontro com **Iel Pés-de-Vento** que informou sobre o sequestro de **Kelen**.
+- Combate com os bandidos nas **Colinas Argenta**
+- Descobriram que mercenários/bandidos que destruirão a floresta e ocasionou a morte de **Rony Campo Brando**
+- Decidiram ajudar **Iel Pés-de-Vento** devido seus interesses pessoais
+- Deixaram 1 bandido comum e o vigia com besta vivos
 ## Situação dos Personagens
-### Campanha Conclave Esmeralda
-#### Acad Demis:  
-  - HP: 22 / 44:
-  - Alteração de recursos: 
-	  - 
-#### Iefis:  
-  - HP: 24 / 24:
-  - Alteração de recursos: 
-	  - 
-#### Vicunho:  
-  - HP: 30 / 30:
-  - Alteração de recursos: 
-	  - 
-#### Rangel:  indestrutivel
-  - HP: 19 / 19:
-  - Alteração de recursos: 
-	  - 
-#### Concrentrio:  
-  - HP: 16 / 16:
-  - Alteração de recursos: 
-	  - 
-#### Qui Pup:  
-  - HP: 31 / 32:
-  - Alteração de recursos: 
-	  - 
-
 ### Campanha Chegada da Escuridão
-#### Acad Demis:  
-  - HP: 22 / 44:
+#### Jorginho:  
+  - HP: 10 / 10:
+  - Alteração de recursos: 
+	  - Habilidade da espécie para dar dano em um bandido
+#### Kaela:  
+  - HP: 11 / 11:
+  - Alteração de recursos: 
+	  - Usou 2 flechas
+#### Antares:  
+  - HP: 12 / 12:
   - Alteração de recursos: 
 	  - 
-#### Iefis:  
-  - HP: 24 / 24:
+#### Eliam:
+  - HP: 0 / 10:
   - Alteração de recursos: 
-	  - 
-#### Vicunho:  
-  - HP: 30 / 30:
-  - Alteração de recursos: 
-	  - 
-#### Rangel:  indestrutivel
-  - HP: 19 / 19:
-  - Alteração de recursos: 
-	  - 
+	  - Usou 1 flecha
 #### Concrentrio:  
   - HP: 16 / 16:
   - Alteração de recursos: 
 	  - 
-#### Qui Pup:  
+#### Elenia:  
   - HP: 31 / 32:
   - Alteração de recursos: 
+	  - 1 espaço de magia 1 para usar "Tremor de Terra"
 ## Ideias e Ganchos para Futuras Sessões
 - 
 - 
