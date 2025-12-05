@@ -14,22 +14,6 @@ Quando há um reaproveitamento ou redirecionamento total da carga, o valor teór
 Criar novo campo: *TheoricalBalanceQuantity*, para armazenar o valor tratado devido os reaproveitamentos e manter o valor teórico preenchido. 
 
 Dessa forma, é necessário atualizar a *FUNCTION* e o *INTEGRATOR* para utilizarem o novo campo.
-
-### Solução 2
-
-
-## Problema 2
-
-
-### Causa
-
-
-### Solução 1
-
-
-### Solução 2
-
-
 # Casos de teste
 
 ## ✅❌ Caso 1: nome do teste

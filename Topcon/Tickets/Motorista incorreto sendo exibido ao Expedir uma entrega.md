@@ -1,20 +1,18 @@
 ---
-Ticket: 537874
-Status: Concluído
-Data de início: 2025-12-03
-Data de fim: 2025-12-03
+Ticket: 543138
+Status: Em análise
+Data de início: 2025-12-04
+Data de fim:
 ---
 # Problemas
 ## Problema 1
-Erro ao incluir central de apoio na programação
-
+Motoristas exibidos na expedição após selecionar os veículos não respeitam alocação
 ### Causa
-Traço 1893
-Contrato 650-25
+
 
 ### Solução 1
 
-14817
+
 ### Solução 2
 
 

@@ -1,7 +1,7 @@
 ---
-Aventura:
-Data:
-Sessão Nº:
+Aventura: "[[Resgate na colina dos esquecidos]]"
+Data: 2025-11-23
+Sessão Nº: 1
 ---
 ## Resumo da Sessão
 
@@ -42,10 +42,6 @@ No quarto dia eles chegam nas colinas, onde escutam alguns bandidos pedindo ped�
   - HP: 0 / 10:
   - Alteração de recursos: 
 	  - Usou 1 flecha
-#### Concrentrio:  
-  - HP: 16 / 16:
-  - Alteração de recursos: 
-	  - 
 #### Elenia:  
   - HP: 31 / 32:
   - Alteração de recursos: 

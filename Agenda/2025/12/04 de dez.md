@@ -1,11 +1,11 @@
 ## 👨🏻‍💻 Trabalho 
-- [x] Ajuste na tarefa da reforma
-- [x] Ticket [[Romaneio com data incorreta - URGENTE]]
-- [x] Ticket [[Erro ao incluir Central de Apoio na Programação]]
+- [ ] Ticket
+- [ ] 
+- [ ] 
 ## 📚 Estudo
+- [ ] Prova de SO
 - [ ] Rental Management
 ## 🤪 Lazer e outros 
-- [x] Jogar
 - [ ] Escrever RPG
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
