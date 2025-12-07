@@ -12,7 +12,7 @@ Data de fim:
 - [ ] Tarefa (tempo estimado)
 - [ ] Tarefa (tempo estimado)
 - [ ] Tarefa (tempo estimado) 
-
+[[Relação tabelas de envio de email.canvas|Relação tabelas de envio de email]]
 # Casos de teste
 
 ## ✅❌ Caso 1: nome do teste
