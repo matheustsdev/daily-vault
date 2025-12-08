@@ -1,21 +1,34 @@
 ---
-Tarefa: TDP-1879
-Desenvolvedor: Eu
-Método de code review:
-Responsabilidade:
-  - Desenvolver
-Data de início: 2025-12-07
+Ticket: 544321
+Status: Em análise
+Data de início: 2025-12-08
 Data de fim:
 ---
-# Quebra técnica (horas estimadas/total)
-Postmark
-- [ ] Como configurar via SMTP e Postmark (tempo estimado)
-- [ ] Tarefa (tempo estimado)
-- [ ] Tarefa (tempo estimado)
+# Problemas
+## Problema 1
+Contratos da Basefort não integram para DISPATCH
 
-[[Relação tabelas de envio de email.canvas|Relação tabelas de envio de email]]
+### Causa
 
-POssivelmente será usado Postmark e SMTP para enviar emails
+
+### Solução 1
+
+
+### Solução 2
+
+
+## Problema 2
+
+
+### Causa
+
+
+### Solução 1
+
+
+### Solução 2
+
+
 # Casos de teste
 
 ## ✅❌ Caso 1: nome do teste
@@ -45,8 +58,4 @@ POssivelmente será usado Postmark e SMTP para enviar emails
 - **Resultado Esperado:** 
 - **Status:** ✅ PASSOU | ❌ FALHOU
 - **Observações:** (A ser preenchido se necessário)
-
-
-
-
 

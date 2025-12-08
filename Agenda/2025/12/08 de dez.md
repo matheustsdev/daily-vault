@@ -11,7 +11,7 @@
 - [ ] 
 ## 🤪 Lazer e outros 
 - [ ] Dobrar roupa
-- [ ] Lavar roupa
+- [x] Lavar roupa
 - [ ] Estender roupa
 - [ ] Escrever RPG
 - [ ] Jogar

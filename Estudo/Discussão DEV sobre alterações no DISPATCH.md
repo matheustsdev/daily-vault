@@ -8,7 +8,7 @@ A seguir, os principais temas discutidos, detalhados para seu estudo.
 
 #### **1. Arquitetura e Organização de Projetos**
 
-Um dos pontos centrais foi a dificuldade em manter uma arquitetura limpa (Clean Architecture) e aplicar os conceitos de Domain-Driven Design (DDD) no projeto Dispet.
+Um dos pontos centrais foi a dificuldade em manter uma arquitetura limpa (Clean Architecture) e aplicar os conceitos de Domain-Driven Design (DDD) no projeto Dispatch.
 
 - **Problema Identificado:** A implementação falhou em aderir aos princípios. Um exemplo claro foi a presença de **handlers na camada de domínio**, quando, na verdade, eles são serviços de aplicação e deveriam estar na camada de Aplicação (API).
     - **Conceito-chave (Handlers):** Handlers são responsáveis por orquestrar ações. Eles carregam uma entidade (do domínio), executam as regras de negócio nela e persistem as alterações. Esse fluxo é uma responsabilidade da camada de aplicação, que serve como uma porta de entrada para o domínio, mas não é o domínio em si.
