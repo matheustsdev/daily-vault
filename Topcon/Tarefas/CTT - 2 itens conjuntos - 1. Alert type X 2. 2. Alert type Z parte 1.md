@@ -8,8 +8,8 @@ Data de início: 2025-12-07
 Data de fim:
 ---
 # Quebra técnica (horas estimadas/total)
-
-- [ ] Tarefa (tempo estimado)
+Postmark
+- [ ] Como configurar via SMTP e Postmark (tempo estimado)
 - [ ] Tarefa (tempo estimado)
 - [ ] Tarefa (tempo estimado) 
 [[Relação tabelas de envio de email.canvas|Relação tabelas de envio de email]]

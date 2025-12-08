@@ -1,5 +1,5 @@
 ## 👨🏻‍💻 Trabalho 
-- [ ] Estudo e análise da tarefa 
+- [x] Estudo e análise da tarefa 
 - [ ] 
 - [ ] 
 ## 📚 Estudo

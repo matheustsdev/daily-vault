@@ -2,13 +2,13 @@
 Ticket: 543138
 Status: Em análise
 Data de início: 2025-12-04
-Data de fim:
+Data de fim: 2025-12-05
 ---
 # Problemas
 ## Problema 1
 Motoristas exibidos na expedição após selecionar os veículos não respeitam alocação
 ### Causa
-
+Erro ao fazer o include das alocações. Era chamado o GetDaily
 
 ### Solução 1
 

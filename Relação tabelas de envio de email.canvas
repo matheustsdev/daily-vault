@@ -1,15 +1,17 @@
 {
 	"nodes":[
-		{"id":"d90a3936f55c0736","x":-355,"y":100,"width":280,"height":80,"type":"text","text":"Configuração de email de alerta"},
-		{"id":"013b471885673caf","x":-340,"y":-80,"width":250,"height":60,"type":"text","text":"Tipo de alerta"},
-		{"id":"ad9ed31606845c78","x":-340,"y":305,"width":250,"height":60,"type":"text","text":"Destinatários dos emails"},
-		{"id":"51d9373c36e789cb","x":120,"y":305,"width":250,"height":60,"type":"text","text":"Funcionários"},
-		{"id":"3c0b8c7caed32ebb","x":-860,"y":290,"width":330,"height":90,"type":"text","text":"Email enviado (deve conter o ID que será usado para logar quem aprovou cada email)"}
+		{"id":"d90a3936f55c0736","type":"text","text":"Configuração de email de alerta","x":-355,"y":100,"width":280,"height":80},
+		{"id":"013b471885673caf","type":"text","text":"Tipo de alerta","x":-340,"y":-80,"width":250,"height":60},
+		{"id":"ad9ed31606845c78","type":"text","text":"Destinatários dos emails","x":-340,"y":305,"width":250,"height":60},
+		{"id":"51d9373c36e789cb","type":"text","text":"Funcionários","x":120,"y":305,"width":250,"height":60},
+		{"id":"3c0b8c7caed32ebb","type":"text","text":"Email enviado (deve conter o ID que será usado para logar quem aprovou cada email)","x":-860,"y":290,"width":330,"height":90},
+		{"id":"03388f839c507c54","x":-820,"y":80,"width":250,"height":60,"type":"text","text":"Alerta gerado"}
 	],
 	"edges":[
-		{"id":"650b438f93b8a761","fromNode":"013b471885673caf","fromSide":"bottom","toNode":"d90a3936f55c0736","toSide":"top"},
-		{"id":"9f28fdec495880bf","fromNode":"d90a3936f55c0736","fromSide":"bottom","toNode":"ad9ed31606845c78","toSide":"top"},
 		{"id":"01e2a33bef0b672d","fromNode":"ad9ed31606845c78","fromSide":"right","toNode":"51d9373c36e789cb","toSide":"left"},
-		{"id":"fbe13ab76eae91ca","fromNode":"ad9ed31606845c78","fromSide":"left","toNode":"3c0b8c7caed32ebb","toSide":"right"}
+		{"id":"6bd281ad5ef570f0","fromNode":"d90a3936f55c0736","fromSide":"top","toNode":"013b471885673caf","toSide":"bottom"},
+		{"id":"3989e011d89cf897","fromNode":"3c0b8c7caed32ebb","fromSide":"right","toNode":"ad9ed31606845c78","toSide":"left"},
+		{"id":"86e83818ef81a9bc","fromNode":"3c0b8c7caed32ebb","fromSide":"top","toNode":"03388f839c507c54","toSide":"bottom"},
+		{"id":"060a3b92a0e14009","fromNode":"ad9ed31606845c78","fromSide":"top","toNode":"d90a3936f55c0736","toSide":"bottom"}
 	]
 }
