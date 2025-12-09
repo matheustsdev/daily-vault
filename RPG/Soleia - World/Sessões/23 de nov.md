@@ -51,5 +51,5 @@ No quarto dia eles chegam nas colinas, onde escutam alguns bandidos pedindo pedÃ
 - 
 - 
 ## Notas do Mestre
-
+- Os personagens ganharam **205 de XP** cada
 
