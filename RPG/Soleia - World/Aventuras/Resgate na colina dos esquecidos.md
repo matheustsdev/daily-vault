@@ -217,13 +217,15 @@ Nos encontros aleatórios eles também podem conseguir alguns itens ou recursos 
 *NPCs que serão importantes nesse ato.*
 ### Cena 1: Título da Cena 1
 
-Das **Colinas Argenta** até a **Colina dos Esquecidos** são mais XXX dias de viagem que podem ser rolado mais dias de encontros aleatórios, de preferência removendo os números que ja foram obtidos anteriormente e adicionando os abaixo 
+Das **Colinas Argenta** até a **Colina dos Esquecidos** são mais XXX dias de viagem que podem ser rolado mais dias de encontros aleatórios, de preferência removendo os números que já foram obtidos anteriormente e adicionando os abaixo 
 
 Adicionar tabela adicional de encontros aleatórios 
 
-A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a distância. A entrada possui algumas pedras grandes que os bandidos usam para se interter jogando algo ou so descansando um pouco mesmo. Essas pedras podem ser usadas como proteção. Além disso, existe uma torre de vigia que consegue ver os personagens de longe com apenas um dos bandidos a distância.
+A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a distância. A entrada possui algumas pedras grandes que os bandidos usam para se entreter jogando algo ou só descansando um pouco mesmo. Essas pedras podem ser usadas como proteção. Além disso, existe uma torre de vigia que consegue ver os personagens de longe com apenas um dos bandidos a distância.
 
-Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ai. 
+Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali.
+
+
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
 #### Desafios
