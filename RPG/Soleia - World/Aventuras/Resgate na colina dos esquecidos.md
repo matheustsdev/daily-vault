@@ -62,7 +62,7 @@ Nesse ponto os aventureiros possuem 2 opções: retornar com o tutor e receber a
 ## Gancho de aventura
 *Detalhes sobre o local da aventura, incluindo a atmosfera, os habitantes e a situação geral. Descreva o ambiente e as condições que afetam a história.*
 # Estrutura da Aventura
-## Ato I: Título do Ato I
+## Ato I: A região de Argenta
 Nesse ato inicial os aventureiros são apresentados ao problema dos custos altos das mercadorias e dos furtos acontecendo na região principalmente por um conhecido de alguns do grupo: Iel Pés‑de‑Vento, um halfling monge amigo do monge e da halfling do grupo. Ele, machucado, fala sobre o professor que foi levado, da esposa que pedia ajuda no monastério mas o monastério não age de impulso e precisa organizar os grupos de resgate, o que pode levar semanas. Ele convence o grupo à ajudar no resgate, um resgate que leva ao grupo criminoso que está realizando esses ataques.
 ### NPCs importantes
 - **Iel Pés-de-Vento**, o halfling monge amigo do monge e da halfling;
@@ -226,13 +226,13 @@ A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a d
 Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali.
 
 
-| **Obstáculos**      | Monstros    | Boss | Itens mágicos | Flavor |
-| ------------------- | ----------- | ---- | ------------- | ------ |
-| Névoa das almas     | Carniceiros |      |               |        |
-| Armadilha de prisão | Bandidos    |      |               |        |
-| Múltiplos caminhos  | Orcs        |      |               |        |
-| Escuro              |             |      |               |        |
-| Os esquecidos       |             |      |               |        |
+| **Obstáculos**      | Monstros    | Boss          | Itens mágicos | Flavor |
+| ------------------- | ----------- | ------------- | ------------- | ------ |
+| Névoa das almas     | Carniceiros | Esquadrão Orc |               |        |
+| Armadilha de prisão | Bandidos    |               |               |        |
+| Múltiplos caminhos  | Orcs        |               |               |        |
+| Escuro              | Fantasma    |               |               |        |
+| Os esquecidos       |             |               |               |        |
 
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
