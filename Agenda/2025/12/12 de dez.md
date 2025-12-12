@@ -5,7 +5,7 @@
 ## 📚 Estudo
 - [ ] 
 ## 🤪 Lazer e outros 
-- [x] Power Training
+- [ ] 
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 
@@ -15,3 +15,4 @@
 - [ ] 
 ## 🤪 Lazer e outros 
 - [ ] 
+
