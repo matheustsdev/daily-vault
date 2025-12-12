@@ -11,6 +11,8 @@ Erro ao emitir a nota devido não existir contato do tipo telefone
 Erro na integração do contato do tipo telefone e não obrigatoriedade dele no legado
 ### Solução 1
 Validar a integração dos contatos
+
+Quando é puxado um dado do banco, mesmo que ele não seja setado na propriedade, caso o ID da entidade bata, ele é vinculado automaticamente. Mesmo que faça a requisição separadamente das entidades
 ### Solução 2
 Ajustar emissão de nota para tentar usar telefone, mas caso não exista, usar fixo
 
