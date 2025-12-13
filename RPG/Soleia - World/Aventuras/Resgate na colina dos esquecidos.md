@@ -217,23 +217,35 @@ Nos encontros aleatórios eles também podem conseguir alguns itens ou recursos 
 *NPCs que serão importantes nesse ato.*
 ### Cena 1: Título da Cena 1
 
-Das **Colinas Argenta** até a **Colina dos Esquecidos** são mais XXX dias de viagem que podem ser rolado mais dias de encontros aleatórios, de preferência removendo os números que já foram obtidos anteriormente e adicionando os abaixo 
+Das **Colinas Argenta** até a **Colina dos Esquecidos** são mais 8 dias de viagem que podem ser rolado mais dias de encontros aleatórios, de preferência removendo os números que já foram obtidos anteriormente e deixando como dias em que não há encontros.
 
-Adicionar tabela adicional de encontros aleatórios 
+| 1d12 | Encontro aleatório           | 1d12 | Encontro aleatório              |
+| ---- | ---------------------------- | ---- | ------------------------------- |
+| 1    | Nada ocorre nesse dia        | 11   | O campo dos sussursos           |
+| 2    | Nada ocorre nesse dia        | 12   | O Santuário Esquecido de Lumina |
+| 3    | Manada de Pastadores Solares | 13   | O Patrulheiro do Crepúsculo     |
+| 4    | O Mercador Paranoico         | 14   | O Grifo Aprisionado             |
+| 5    | Caçadores de mentes          | 15   | Nada ocorre nesse dia           |
+| 6    | Eco da trama                 | 16   | Nada ocorre nesse dia           |
+| 7    | Nada ocorre nesse dia        | 17   | Nada ocorre nesse dia           |
+| 8    | Nada ocorre nesse dia        | 18   | Nada ocorre nesse dia           |
+| 9    | A Fúria de Volantis          | 19   | Peregrinos do Silêncio          |
+| 10   | O Bosque Febril              | 20   | Cemitério dos Gigantes          
 
-A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a distância. A entrada possui algumas pedras grandes que os bandidos usam para se entreter jogando algo ou só descansando um pouco mesmo. Essas pedras podem ser usadas como proteção. Além disso, existe uma torre de vigia que consegue ver os personagens de longe com apenas um dos bandidos a distância.
-
+A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a distância. A entrada possui algumas pedras grandes que os bandidos usam para se entreter jogando algo ou só descansando um pouco mesmo (essas pedras podem ser usadas como proteção). Além disso, existe uma torre de vigia que consegue ver os personagens de longe com apenas um dos bandidos a distância.
+![[Pasted image 20251213113607.png]]
 Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali.
 
+| **Obstáculos**      | Monstros    | Boss          | Itens mágicos                 | Flavor                                           |
+| ------------------- | ----------- | ------------- | ----------------------------- | ------------------------------------------------ |
+| Névoa das almas     | Carniceiros | Esquadrão Orc | Cristais iridescente (1d10)   | O ar se torna frio ao se aproximar da região     |
+| Armadilha de prisão | Bandidos    |               | Pergaminhos de magia (Truque) | Almas sussurram e sibilam pela caverna           |
+| Múltiplos caminhos  | Orcs        |               | Poção de cura x2              | O local é úmido e se escuta som de água corrente |
+| Escuro              | Fantasma    |               | Azagaia de relâmpago          |                                                  |
+| Os esquecidos       |             |               | Manto de proteção             |                                                  |
+| Runa paralizante    |             |               |                               |                                                  |
 
-| **Obstáculos**      | Monstros    | Boss          | Itens mágicos            | Flavor |
-| ------------------- | ----------- | ------------- | ------------------------ | ------ |
-| Névoa das almas     | Carniceiros | Esquadrão Orc | Cristais iridescente     |        |
-| Armadilha de prisão | Bandidos    |               | Pergaminhos de magia     |        |
-| Múltiplos caminhos  | Orcs        |               | Poção de cura            |        |
-| Escuro              | Fantasma    |               | Escudo atração de míssil |        |
-| Os esquecidos       |             |               |                          |        |
-
+Na caverna 
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
 #### Desafios
