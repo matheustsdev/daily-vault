@@ -234,7 +234,8 @@ Das **Colinas Argenta** até a **Colina dos Esquecidos** são mais 8 dias de via
 
 A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a distância. A entrada possui algumas pedras grandes que os bandidos usam para se entreter jogando algo ou só descansando um pouco mesmo (essas pedras podem ser usadas como proteção). Além disso, existe uma torre de vigia que consegue ver os personagens de longe com apenas um dos bandidos a distância.
 ![[Pasted image 20251213113607.png]]
-Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali.
+
+Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali. Uma alma surge confusa, buscando a luz e se indagando: _"Onde... onde está a luz? Não consigo ver a luz..."_
 
 | **Obstáculos**      | Monstros    | Boss          | Itens mágicos                 | Flavor                                           |
 | ------------------- | ----------- | ------------- | ----------------------------- | ------------------------------------------------ |
@@ -245,7 +246,20 @@ Nas rochas que fazem o corredor de entrada existem muitas inscrições em divers
 | Os esquecidos       |             |               | Manto de proteção             |                                                  |
 | Runa paralizante    |             |               |                               |                                                  |
 
-Na caverna 
+Logo na entrada da caverna uma névoa ofusca a visão daqueles que ousam passar por ela e não há como evita-las já que ocupam todo o espaço da do vão. Da névoa é emitido diversos sons em diferentes línguas, ao adentra-la os personagens estarão sob os seguintes efeitos:
+- A visibilidade é reduzida a 3 metros. Personagens ouvem sussurros indistintos em idiomas antigos e sentem toques gelados.
+- A cada minuto dentro dela, os personagens devem fazer um **Teste de Constituição CD 12** ou sofrer **1d6 de dano necrótico**
+- 
+> [!quote] Descrição
+> *"Ao contato com a névoa, o frio encontra vocês... porém um frio que não vem da ausência do calor, mas da presença daqueles que já não deveriam estar nesse plano. Algo tão denso de morte que torna opaca qualquer fonte de luz, engolindo a visão de vocês que só enxergam poucos metros à frente. Mas o som... é o som que mais perturba. Não há silêncio. A névoa carrega um coro de **sussurros sobrepostos**: preces, choros,  gritos de guerra... últimas palavras daqueles que partiram.*
+
+![[Pasted image 20251213183813.png]]
+
+> [!hint] Sugestão
+> É possível que algum conhecido ou amigo que morreu recentemente pela região possa estar por ali e acabe sendo um aliado guiando os jogadores.
+
+A caverna possui diversos bandidos como exibidos no mapa da dungeon e as legendas. Segue um detalhamento dessa dungeon:
+- A armadilha de runas de alarme são acionadas ao toque, fazendo com que um som extremamente alto ecoe pela caverna, chamando atenção de todos. Elas estão ocultas por poeira de forma proposital mas podem ser identificadas com um teste de sobrevivência CD 12 e desarmadas apenas por alguma magia de anulação de magia.
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
 #### Desafios

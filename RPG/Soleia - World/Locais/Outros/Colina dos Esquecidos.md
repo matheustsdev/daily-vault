@@ -37,7 +37,7 @@ Algumas almas retêm fragmentos de suas memórias e personalidades. Elas vagam p
 Uma névoa espectral e fria cobre partes da colina, especialmente ao anoitecer e durante a noite:
 
 - **Efeito:** Dentro da névoa, a visibilidade é reduzida a 3 metros. Personagens ouvem sussurros indistintos em idiomas antigos e sentem toques gelados.
-- **Perigo:** A névoa drena a vitalidade. A cada hora dentro dela, os personagens devem fazer um **Teste de Constituição CD 12** ou sofrer **1 nível de exaustão**.
+- **Perigo:** A névoa drena a vitalidade. A cada minuto dentro dela, os personagens devem fazer um **Teste de Constituição CD 12** ou sofrer **1d6 de dano necrótico**
 
 **Narrativa:** A névoa é composta literalmente da essência fragmentada das almas presas. Ela se move de forma antinatural, como se tivesse vontade própria.
 
@@ -50,36 +50,6 @@ Algumas almas, presas por tempo demais, perderam toda humanidade e se tornaram c
 - **Aparência:** Sombras retorcidas com olhos brilhantes e vazios, garras espectrais.
 - **Comportamento:** Atacam os vivos com ódio cego, tentando arrastar suas vítimas para o limbo junto com elas.
 - **Encontro:** Use estatísticas de **Espectros** ou **Sombras** (MM).
-
----
-
-## **A Caverna e a Fenda**
-
-### **Descrição da Caverna:**
-
-O esconderijo dos bandidos foi construído dentro de um complexo de cavernas naturais. No fundo dessas cavernas, em uma câmara profunda e esquecida os bandidos fizeram sua sala de tesouros.
-
----
-
-## **Conexão com os Bandidos e o Arquimago**
-
-### **Os Bandidos:**
-
-A maioria dos bandidos comuns não sabe a verdadeira natureza da colina. Eles evitam as áreas mais "assombradas" e atribuem os fenômenos estranhos a "espíritos vingativos" ou "maldições antigas".
-
-### **O Gigante da Colina:**
-
-O líder dos bandidos, o **Gigante da Colina**, é mais perceptivo. Ele sente o poder na Fenda e tem medo dela, mas foi instruído pelo arquimago a permanecer e proteger o local.
-
-### **O Arquimago:**
-
-O arquimago que comanda a operação **sabe exatamente o que é a Fenda**. Ele está interessado em:
-
-1. **Estudar a Fenda** para entender como manipular a passagem entre planos.
-2. **Procurar o "Tomo dos Rituais Perdidos"**, que ele acredita conter o conhecimento para **estabilizar** ou **controlar** as Fendas.
-3. **Potencialmente aprisionar ou usar as almas presas** como fonte de energia para rituais necromânticos.
-
-**Gancho para o Futuro:** Kelen, o arquivista sequestrado, pode ter informações sobre a localização do Tomo, ou o arquimago acredita que ele tenha. Isso cria uma urgência: o arquimago pode tentar extrair essa informação de Kelen através de meios mágicos ou tortura.
 
 ---
 

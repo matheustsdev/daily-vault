@@ -55,3 +55,23 @@
     • Magos que pesquisam além dos limites “seguros” temem atrair o “Olho Velado” de Umbrus.  
     • Artefatos ligados a ele sempre cobram preço em sanidade ou liberdade.  
     • Dentro da Cripta de Tharion circula a lenda de que Umbrus ainda oferece “o último segredo” a quem provar ser digno – conhecimento capaz de fechar (ou ampliar) todas as Fendas.
+# Para enviar
+**Deuses Primordiais:**
+*   **Io:** Criação e magia.
+*   **Tiamat:** Paixões e fúria.
+*   **Bahamut:** Justiça e sabedoria.
+
+**Deuses da Humanidade:**
+*   **Aeliana:** Ambição e poder.
+*   **Vorlag:** Lealdade e honra. 
+*   **Lumina:** Cura e harmonia._
+*   **Volantis**: Força e fúria da natureza.
+*   **Vestra:** Profecia e escolhas. 
+*   **Aldrin:** Estratégia e coragem. 
+*   **Demira:** Fertilidade e prosperidade.
+*   **Umbrus:** Conhecimento proibido. 
+*   **Lyra:** Música e inspiração. 
+*   **Theron:** Comércio e viagens.
+*   **Nix:** Sonhos e descanso. 
+*   **Artos:** Forja e artesanato.
+*   **Selene:** Lua e segredos noturnos. 
