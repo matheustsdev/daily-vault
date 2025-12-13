@@ -226,13 +226,13 @@ A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a d
 Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali.
 
 
-| **Obstáculos**      | Monstros    | Boss          | Itens mágicos | Flavor |
-| ------------------- | ----------- | ------------- | ------------- | ------ |
-| Névoa das almas     | Carniceiros | Esquadrão Orc |               |        |
-| Armadilha de prisão | Bandidos    |               |               |        |
-| Múltiplos caminhos  | Orcs        |               |               |        |
-| Escuro              | Fantasma    |               |               |        |
-| Os esquecidos       |             |               |               |        |
+| **Obstáculos**      | Monstros    | Boss          | Itens mágicos            | Flavor |
+| ------------------- | ----------- | ------------- | ------------------------ | ------ |
+| Névoa das almas     | Carniceiros | Esquadrão Orc | Cristais iridescente     |        |
+| Armadilha de prisão | Bandidos    |               | Pergaminhos de magia     |        |
+| Múltiplos caminhos  | Orcs        |               | Poção de cura            |        |
+| Escuro              | Fantasma    |               | Escudo atração de míssil |        |
+| Os esquecidos       |             |               |                          |        |
 
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
