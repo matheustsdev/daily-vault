@@ -237,19 +237,10 @@ A entrada da caverna esta guardada por 4 bandidos, sendo 2 corpo a corpo e 2 a d
 
 Nas rochas que fazem o corredor de entrada existem muitas inscrições em diversas línguas falando sobre "casa da almas perdidas", "alma perdida pode ser a sua ao prosseguir" e sobre a lenda que explica como as almas se perdem ali. Uma alma surge confusa, buscando a luz e se indagando: _"Onde... onde está a luz? Não consigo ver a luz..."_
 
-| **Obstáculos**      | Monstros    | Boss          | Itens mágicos                 | Flavor                                           |
-| ------------------- | ----------- | ------------- | ----------------------------- | ------------------------------------------------ |
-| Névoa das almas     | Carniceiros | Esquadrão Orc | Cristais iridescente (1d10)   | O ar se torna frio ao se aproximar da região     |
-| Armadilha de prisão | Bandidos    |               | Pergaminhos de magia (Truque) | Almas sussurram e sibilam pela caverna           |
-| Múltiplos caminhos  | Orcs        |               | Poção de cura x2              | O local é úmido e se escuta som de água corrente |
-| Escuro              | Fantasma    |               | Azagaia de relâmpago          |                                                  |
-| Os esquecidos       |             |               | Manto de proteção             |                                                  |
-| Runa paralizante    |             |               |                               |                                                  |
-
 Logo na entrada da caverna uma névoa ofusca a visão daqueles que ousam passar por ela e não há como evita-las já que ocupam todo o espaço da do vão. Da névoa é emitido diversos sons em diferentes línguas, ao adentra-la os personagens estarão sob os seguintes efeitos:
 - A visibilidade é reduzida a 3 metros. Personagens ouvem sussurros indistintos em idiomas antigos e sentem toques gelados.
 - A cada minuto dentro dela, os personagens devem fazer um **Teste de Constituição CD 12** ou sofrer **1d6 de dano necrótico**
-- 
+
 > [!quote] Descrição
 > *"Ao contato com a névoa, o frio encontra vocês... porém um frio que não vem da ausência do calor, mas da presença daqueles que já não deveriam estar nesse plano. Algo tão denso de morte que torna opaca qualquer fonte de luz, engolindo a visão de vocês que só enxergam poucos metros à frente. Mas o som... é o som que mais perturba. Não há silêncio. A névoa carrega um coro de **sussurros sobrepostos**: preces, choros,  gritos de guerra... últimas palavras daqueles que partiram.*
 
