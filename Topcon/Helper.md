@@ -15,7 +15,7 @@
 | 5ad98a18-cfb4-4acb-8132-c85d6b394229 | Pedreira Costa                |
 | 749164e1-24db-4f74-80bc-59ba196c7c50 | Sultepa                       |
 | 28a10344-dc94-4221-b527-a4a0c9b63ad6 | Ciplan                        |
-|                                      |                               |
+| 2e4a8353-4c1a-4178-8362-98dcdc7b636a | Basefort                      |
 ## OCP Apim keys
 ### Homologation
 

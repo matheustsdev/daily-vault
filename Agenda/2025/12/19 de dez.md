@@ -1,12 +1,9 @@
 ## 👨🏻‍💻 Trabalho 
-- [ ] Ticket [[Telefone do cliente não encontrado]]
-- [x] Ticket API da versão da familia
-- [x] Reunião Secil
+- [ ] 
 ## 📚 Estudo
 - [ ] 
 ## 🤪 Lazer e outros 
-- [x] Cortar cabelo
-- [x] Assistir com pipina
+- [ ] 
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 

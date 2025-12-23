@@ -1,8 +1,8 @@
 ---
 Ticket: 544051
-Status: Em análise
+Status: Concluído
 Data de início: 2025-12-10
-Data de fim:
+Data de fim: 2025-12-23
 ---
 # Problemas
 ## Problema 1
