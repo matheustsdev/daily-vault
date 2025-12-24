@@ -28,6 +28,8 @@ Os rastros levam os jogadores a passar pela estátua do herói antigo, já cober
     - Atrás de uma pilha de caixas, os jogadores encontram uma pequena bolsa de couro contendo alguns **pips** (moeda do jogo) e um dente de peixe afiado — um item estranho para um rato do campo.
     - Cheiro forte de peixe e chuva molhada emana do local, sobrepondo-se ao cheiro doce das conservas.
 
+![[Pasted image 20251224195546.png]]
+
 - **Desafios:**
     - **Investigação:** Encontrar as pistas no armazém pode exigir um teste de **VON** para notar os detalhes sutis em meio à bagunça.
     - O barulho no armazém pode atrair o guarda do povoado, que fará perguntas. Os jogadores precisarão convencê-lo de que estão ajudando (Teste de **VON**).
@@ -46,6 +48,8 @@ Seguindo o cheiro de peixe e os rastros que saem do armazém, os jogadores entra
     - **Combate Simples:** Os jogadores encontram dois **Ratos Capangas**, brutamontes a serviço do Lorde Gato. Eles estão fazendo uma pausa e zombando da fraqueza dos ratos que sequestraram. Este é o momento ideal para uma emboscada.
         - **Ratos Capangas (2):** FOR 8, DES 10, VON 6, PR 3. Usam Porretes (d6 de dano).
         - Esta luta permite aos jogadores testarem as regras de ataque e dano em um cenário controlado.
+
+![[Pasted image 20251224201715.png]]
 
 ## Cena 2: O Covil da Raiz Oca
 Após derrotarem os capangas, os jogadores podem seguir as direções do bilhete (ou continuar na trilha) até chegarem a uma árvore antiga e massiva, cujas raízes formam uma entrada escura para uma toca subterrânea. A entrada é guardada.
@@ -72,6 +76,8 @@ Na câmara final, a cena é bizarra. **Lorde Órion**, um gato preto, elegante e
 
 - **A Revelação:**
     - Se confrontado, Órion explicará (com arrogância) que o povoado de Ponto Coruja lhe fornece um "tributo" para que ele possa continuar seus estudos arcanos. Ele não tem interesse em caçar os ratos, pois os considera ingredientes, não comida. Seu objetivo é entrar no Reino das Fadas para recuperar um artefato (ou um amor perdido) que lhe foi roubado há muito tempo.
+
+![[Pasted image 20251224201524.png]]
 
 - **Desafios (Confronto Final):**
     - **Lorde Órion, o Gato Arcano:** FOR 14, DES 12, VON 15, PR 8, Armadura Natural 1.
