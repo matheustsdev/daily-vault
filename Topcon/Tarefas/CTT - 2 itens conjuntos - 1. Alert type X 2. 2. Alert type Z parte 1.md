@@ -9,9 +9,10 @@ Data de fim:
 ---
 # Quebra técnica (horas estimadas/total)
 Postmark
-- [ ] Como configurar via SMTP e Postmark (tempo estimado)
-- [ ] Tarefa (tempo estimado)
-- [ ] Tarefa (tempo estimado)
+- [ ] Como configurar via SMTP e Postmark (6h)
+- [ ] Criar entidades de configuração do corpo do email (6h)
+- [ ] Criar página do Frontend para configurar o corpo dos emails (15h)
+- [ ] Criar chamada de aprovação/rejeição de alertas (6h)
 
 [[Relação tabelas de envio de email.canvas|Relação tabelas de envio de email]]
 
