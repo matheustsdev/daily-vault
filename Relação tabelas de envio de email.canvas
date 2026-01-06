@@ -1,17 +1,25 @@
 {
 	"nodes":[
 		{"id":"d90a3936f55c0736","type":"text","text":"Configuração de email de alerta","x":-355,"y":100,"width":280,"height":80},
-		{"id":"013b471885673caf","type":"text","text":"Tipo de alerta","x":-340,"y":-80,"width":250,"height":60},
+		{"id":"013b471885673caf","type":"text","text":"Tipo de alerta\n","x":-340,"y":-80,"width":250,"height":60},
 		{"id":"ad9ed31606845c78","type":"text","text":"Destinatários dos emails","x":-340,"y":305,"width":250,"height":60},
 		{"id":"51d9373c36e789cb","type":"text","text":"Funcionários","x":120,"y":305,"width":250,"height":60},
-		{"id":"3c0b8c7caed32ebb","type":"text","text":"Email enviado (deve conter o ID que será usado para logar quem aprovou cada email)","x":-860,"y":290,"width":330,"height":90},
-		{"id":"03388f839c507c54","x":-820,"y":80,"width":250,"height":60,"type":"text","text":"Alerta gerado"}
+		{"id":"3c0b8c7caed32ebb","type":"text","text":"**Email enviado** \n(deve conter o ID que será usado para logar quem aprovou cada email)","x":-860,"y":290,"width":330,"height":90},
+		{"id":"a285c9f9f763b248","type":"text","text":"Centrais","x":120,"y":110,"width":250,"height":60},
+		{"id":"03388f839c507c54","type":"text","text":"**Alerta gerado**\n- Tipo de Alerta ID\n- Status (Pendente, aprovado ou reprovado)\n- User ID\n- Data de atualização do Status\n- Entidade ENUM (SCHEDULING / RESERVATION)\n- JSON com os valores atuais","x":-885,"y":-120,"width":380,"height":260},
+		{"id":"9a54313828cdca1e","type":"text","text":"Relação de alerta gerado para programação","x":-1300,"y":-110,"width":250,"height":60},
+		{"id":"263418e667df3d30","type":"text","text":"Relação de alerta gerado para reserva","x":-1300,"y":102,"width":250,"height":60},
+		{"id":"59f993c57de5e74f","type":"text","text":"Tipo de grupo de alerta","x":120,"y":-80,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"01e2a33bef0b672d","fromNode":"ad9ed31606845c78","fromSide":"right","toNode":"51d9373c36e789cb","toSide":"left"},
 		{"id":"6bd281ad5ef570f0","fromNode":"d90a3936f55c0736","fromSide":"top","toNode":"013b471885673caf","toSide":"bottom"},
 		{"id":"3989e011d89cf897","fromNode":"3c0b8c7caed32ebb","fromSide":"right","toNode":"ad9ed31606845c78","toSide":"left"},
 		{"id":"86e83818ef81a9bc","fromNode":"3c0b8c7caed32ebb","fromSide":"top","toNode":"03388f839c507c54","toSide":"bottom"},
-		{"id":"060a3b92a0e14009","fromNode":"ad9ed31606845c78","fromSide":"top","toNode":"d90a3936f55c0736","toSide":"bottom"}
+		{"id":"060a3b92a0e14009","fromNode":"ad9ed31606845c78","fromSide":"top","toNode":"d90a3936f55c0736","toSide":"bottom"},
+		{"id":"bdc95c5b1b3f77c0","fromNode":"d90a3936f55c0736","fromSide":"right","toNode":"a285c9f9f763b248","toSide":"left"},
+		{"id":"6039cf910edcb2c6","fromNode":"013b471885673caf","fromSide":"right","toNode":"59f993c57de5e74f","toSide":"left"},
+		{"id":"76738022abbe0eb0","fromNode":"263418e667df3d30","fromSide":"right","toNode":"03388f839c507c54","toSide":"left"},
+		{"id":"ac1cf7bcf4f467cf","fromNode":"9a54313828cdca1e","fromSide":"right","toNode":"03388f839c507c54","toSide":"left"}
 	]
 }
