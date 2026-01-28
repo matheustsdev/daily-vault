@@ -1,18 +1,18 @@
 ## 👨🏻‍💻 Trabalho 
 - [ ] [[CTT - 2 itens conjuntos - 1. Alert type X 2. 2. Alert type Z parte 1 |Criação de alertas e envio de emails]]
-	- [x] Finalizar pagina de ação de Alerta
-		- [x] Finalizar query que traz como inicial o alerta destacado
-		- [x] Exibir de forma destacada o alerta inicial
-		- [x] Adicionar todas traduções
 	- [ ] Ajustar o erro de envio duplicado no Email.Sender
-	- [x] Testar liberação da programação
-	- [ ] Adicionar Link do alerta como keywords gerais
+	- [ ] Resolver problema de redirecionamento ao abrir pagina
+	- [x] Adicionar Link do alerta como keywords gerais
+	- [ ] Adicionar fluxo de liberação via notificação
+		- [ ] Bloquear programação
+		- [ ] Criar modal de seleção
+		- [ ] Atualizar busca de alertas
 - [ ] 
 - [ ] 
 ## 📚 Estudo
-- [ ] Projeto Rental Management
+- [ ] Rental Management
 ## 🤪 Lazer e outros 
-- [x] Algo com Pipina
+- [ ] Soloq
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 
