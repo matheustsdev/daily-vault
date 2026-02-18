@@ -10,5 +10,7 @@
   "heading-level-indent",
   "multi-column-markdown",
   "mermaid-tools",
-  "gemini-scribe"
+  "gemini-scribe",
+  "periodic-notes",
+  "obsidian-rollover-daily-todos"
 ]

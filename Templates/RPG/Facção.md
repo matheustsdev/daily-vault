@@ -35,7 +35,3 @@ await tp.file.rename(title);
 
 
 # NPCs
-```dataview
-TABLE Descrição FROM "Soleia - World/NPCs"
-WHERE Facção = [[]]
-```

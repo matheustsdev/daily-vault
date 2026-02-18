@@ -4,7 +4,6 @@ O Pesadelo de Outro Mundo, originalmente destinado a [[Aeglíria]], percebeu a o
 
 Alatar, o Lich Alhoon:
 
-
 Aparência: O corpo de Alatar é uma paródia grotesca de sua antiga forma. Sua pele, antes pálida e macia, agora é um pergaminho ressecado, esticado sobre ossos nodosos. Seus olhos brilham com uma luz verde esmeralda fria, emanando a energia necromântica que o anima. Tentáculos psíquicos brotam de suas órbitas vazias, sussurrando promessas de poder e loucura. Trapos de suas vestes arcanas originais ainda o adornam, rasgados e manchados pelo sangue da fenda. Ele carrega consigo um grimório profano, encadernado em pele humana e escrito com tinta feita de essência de devoradores de mentes, um receptáculo para seus feitiços mais poderosos e suas memórias roubadas.
 
 Personalidade: Alatar, o Lich Alhoon, é uma amálgama distorcida das ambições originais de Alatar Zanin e da natureza calculista e manipuladora do Alhoon. Ele busca o poder absoluto, não apenas para si, mas para dominar e corromper Soleia, transformando-a em um reino de sombras e escravidão mental. Sua memória de Zanin e sua busca por seus pais biológicos permanecem, mas distorcidas por sua nova natureza. Ele vê Zanin como uma ferramenta, um peão em seu plano para dominar o mundo. Seus objetivos são insidiosos e de longo alcance, e ele manipula eventos nos bastidores, usando sua influência psíquica para semear a discórdia e o caos entre as nações de Soleia.
