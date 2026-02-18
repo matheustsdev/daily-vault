@@ -9,5 +9,6 @@
   "copilot",
   "heading-level-indent",
   "multi-column-markdown",
-  "mermaid-tools"
+  "mermaid-tools",
+  "gemini-scribe"
 ]
