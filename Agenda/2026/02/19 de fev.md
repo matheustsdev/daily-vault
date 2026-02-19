@@ -1,12 +1,12 @@
 ## 👨🏻‍💻 Trabalho 
-- [x] Alinhamento pós férias
 - [ ]  [[CTT - 2 itens conjuntos - 1. Alert type X 2. 2. Alert type Z parte 1 |Tarefa de alertas]]
-	- [x] Criar handler para retornar listagem de programações por alerta (Não foi necessário)
 	- [ ] Ajustar listagem de programação com problema financeiro
+- [ ] 
+- [ ] 
 ## 📚 Estudo
-- [ ] Rental Management
+- [ ] -
 ## 🤪 Lazer e outros 
-- [ ] Flex da DAMN
+- [ ] Tempo de qualidade com Pri
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 
