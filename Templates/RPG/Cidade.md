@@ -56,16 +56,9 @@ Estado:
 - Locais escondidos ou esquecidos.
 - Conspirações e segredos obscuros.
 
-```dataview
-TABLE Tipo FROM "Soleia - World/Tavernas"
-WHERE Local = [[]]
-```
-
 # NPCs
-```dataview
-TABLE Descrição FROM "Soleia - World/NPCs"
-WHERE Local = [[]]
-```
+
+*Descrição simples deles*
 
 <% await tp.file.move("/RPG/Soleia - World/Locais/Cidades/" + tp.file.title) %>
 <%*
