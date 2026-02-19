@@ -51,7 +51,7 @@ Regras e interface para a operação principal do negócio.
 ### 🛠️ Funcionalidades Pendentes
 
 - [ ] **Busca Avançada:** Adicionar busca rápida por disponibilidade e busca insensível a acentos.
-- [ ] **Resumo do Aluguel:**
+- [x] **Resumo do Aluguel:**
     - Ajustar layout para suportar textos longos (descrições).
     - Exibir medidas do item selecionado no resumo.
 - [ ] Validar integridade da função de atualização de aluguel.
