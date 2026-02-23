@@ -1,3 +1,0 @@
-- Uma maga banida -> Morgana
-- Cajado de Valon, cajado que canaliza magia do universo pode em Soleia canalizar as fendas
-- 
