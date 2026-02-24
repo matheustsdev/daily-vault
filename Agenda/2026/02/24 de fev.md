@@ -1,15 +1,14 @@
 ## 👨🏻‍💻 Trabalho 
 - [ ] [[CTT - 2 itens conjuntos - 1. Alert type X 2. 2. Alert type Z parte 1 |Tarefa de alertas]]
-	- [x] Adicionar "Tipo de Aprovação" na tabela de histórico de liberação de restrições
-	- [ ] Adicionar tratativa de URL para envio de email
+	- [ ] Adicionar tratativa de URL para envio de emails
+	- [ ] Validar o botão de "Reanalisar todos" na pagina de restrições financeiras
+	- [ ] Estudar SignalR e como implementar para alertas
 - [ ] 
 - [ ] 
 ## 📚 Estudo
-- [ ] Rental Management
-	- [ ] Adicionar verificação rápida de disponibilidade
+- [ ] 
 ## 🤪 Lazer e outros 
-- [ ] Cortar cabelo
-- [ ] Conversar sobre a carta do Kyurem
+- [ ] Volei do Aquarela
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 

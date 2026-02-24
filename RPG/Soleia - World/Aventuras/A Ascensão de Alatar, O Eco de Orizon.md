@@ -13,9 +13,10 @@ Após derrotarem o esquadrão na caverna, os aventureiros possuem informações 
 ### NPCs importantes
 *NPCs que serão importantes nesse ato.*
 ### Cena 1: A Chegada em Orizon
-Os aventureiros chegam a Orizon, uma cidade construída sobre desfiladeiros. O clima é de opressão; embora não haja uma guerra declarada, o "Zumbido" constante e a falta de contato visual dos habitantes criam uma atmosfera de desconfiança.
+Os aventureiros chegam a Orizon, uma cidade construída sobre desfiladeiros. O clima é hostil e assustador, o "zumbido" constante e a falta de contato visual dos habitantes criam uma atmosfera de desconfiança.
 #### Ações
-*O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
+- Perceber o comportamento síncrono dos habitantes (tropeços coletivos, pausas na fala).
+- Ouvir rumores sobre o isolamento do Mestre Valerius em sua torre;
 
 |     |                        |                                                                                                                                   |                                                                                                                                                                         |
 | --- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +28,7 @@ Os aventureiros chegam a Orizon, uma cidade construída sobre desfiladeiros. O c
 | 5   | O Teste do Espelho     | Um NPC importante (ex: o capitão da guarda) está se olhando no espelho, mas seus movimentos estão com um atraso de milissegundos. | Sucesso: Percebem que o Devorador de Intelecto ainda está "calibrando" o controle do corpo.                                                                             |
 | 6   | A Transmissão Coletiva | De repente, todos os cavalos da rua relincham e todas as pessoas Conectadas param e olham para a Torre de Valerius.               | Sucesso: Um jogador com alta Percepção ou Intuição sente uma "pontada" na base do crânio; Alatar acabou de enviar um comando.                                           |
 #### Desafios
-*Quais são os obstáculos que os personagens enfrentam nesta cena? Inclua testes de habilidade, enigmas, combates e outros desafios.*
+- Teste de Percepção (CD 14) para notar que os guardas da cidade possuem pupilas que não reagem à luz (sinal de conexão) e não olham diretamente para os personagens.
 ### Cena 2: Título da Cena 2
 *Detalhes sobre o que acontece na cena, incluindo o local, os NPCs presentes e a situação inicial.*
 #### Ações
