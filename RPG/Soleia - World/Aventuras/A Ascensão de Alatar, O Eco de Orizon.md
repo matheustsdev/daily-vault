@@ -1,5 +1,5 @@
 ---
-Origem:
+Origem: "[[Orizon, A Cidade dos Mirantes]]"
 ---
 
 
@@ -110,14 +110,23 @@ A torre começa a desmoronar. Valerius abre uma fenda dimensional instável (cri
 - Decidir se levam Valerius com eles ou se ele ficará para trás para selar o segredo.
 #### Desafios
 - Testes de Atletismo ou Acrobacia para não serem atingidos pelos escombros durante a transição dimensional.
-### Cena 2: Título da Cena 2
-*Detalhes sobre o que acontece na cena, incluindo o local, os NPCs presentes e a situação inicial.*
+### Cena 2: Visões do Outro Mundo
+Dentro da fenda, os jogadores veem vislumbres da dimensão de onde veio a espada de Alatar. Eles veem o metal indestrutível e a escala do poder que o vilão quer dominar.
 #### Ações
-*O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
+- Coletar informações visuais sobre o local para uma futura expedição.
+- Resistir às tentações mentais da Colmeia que ainda ecoam no vazio.
+#### Desafios
+*Quais são os obstáculos que os personagens enfrentam nesta cena? Inclua testes de habilidade, enigmas, combates e outros desafios.*
+
+### Cena 3: O Reagrupamento no Salão Esmeralda
+Os jogadores retornam ao esconderijo do Conclave em Valéria ou em um local seguro. Orizon caiu, mas o conhecimento do ritual está seguro com o grupo.
+#### Ações
+- Relatar o poder de Alatar para Lavínia.
+- Traçar o plano para buscar o metal na outra dimensão e impedir que Alatar se conecte à espada.
 #### Desafios
 *Quais são os obstáculos que os personagens enfrentam nesta cena? Inclua testes de habilidade, enigmas, combates e outros desafios.*
 ### Desdobramento
-*Consequências desse ato*
+O ódio por Alatar está consolidado. O mundo agora sabe que a Mente Colmeia não busca apenas controle, mas a imortalidade absoluta através de um "Lich Coletivo".
 ### Recompensas
 *Quais recompensas os personagens recebem ao completar a aventura? Isso pode incluir ouro, itens mágicos, experiência, etc.*
 # Conclusão

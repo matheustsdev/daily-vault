@@ -1,14 +1,14 @@
 ## 👨🏻‍💻 Trabalho 
 - [ ] [[CTT - 2 itens conjuntos - 1. Alert type X 2. 2. Alert type Z parte 1 |Tarefa de alertas]]
-	- [x] Adicionar tratativa de URL para envio de emails
 	- [ ] Validar o botão de "Reanalisar todos" na pagina de restrições financeiras
 	- [ ] Estudar SignalR e como implementar para alertas
 - [ ] 
 - [ ] 
 ## 📚 Estudo
-- [ ] 
+- [ ] Rental Management
+	- [ ] Adicionar verificação rápida de produto
 ## 🤪 Lazer e outros 
-- [x] Volei do Aquarela
+- [ ] Jogar com amigos
 # Planejamento dia seguinte
 ## 👨🏻‍💻 Trabalho 
 - [ ] 
