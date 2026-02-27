@@ -14,14 +14,41 @@ Após derrotarem o esquadrão na caverna, os aventureiros possuem informações 
 Os aventureiros chegam a Orizon, uma cidade construída sobre desfiladeiros. O clima é de opressão; embora não haja uma guerra declarada, o "Zumbido" constante e a falta de contato visual dos habitantes criam uma atmosfera de desconfiança.
 
 Segue os pontos de interesse e destaque da cidade:
-- **Torre de Safira**: 
-- Bazar das Sombras
+- **Taverna "O Éter Embriagado":** 
+	Uma taverna onde a magia está em todo lugar. As bebidas flutuam até as mesas, as cores das paredes mudam conforme a música tocada por bardos ilusórios e os clientes discutem teorias arcanas em mesas com campos de silêncio individuais. O dono, um Conectado, observa tudo com um sorriso imóvel.
+	
+	- **Uma mesa com apenas 2 cadeiras e uma pessoa em pé, na mesa existe uma uma bebida mudando de cor**:
+		- **Descrição:** Uma bebida experimental que flutua num copo de cristal, mudando de cor e densidade de acordo com os pensamentos de quem a segura. Diz-se que o sabor é uma memória perdida e o jogo é chamado de **Gole de Zanin**.
+		- **Teste:** **Salvaguarda de Constituição (CD 14)**.
+		- **Sucesso:** O jogador recupera o fôlego e sente uma clareza súbita, ganhando **Vantagem** no próximo teste de Inteligência ou Sabedoria que realizar na cidade.
+		- **Falha:** O líquido torna-se cinzento e amargo. O jogador é inundado por uma visão perturbadora da fenda, aumentando o seu **Nível de Zumbido em +1** e sofrendo 1d6 de dano psíquico.
+	- **2 pessoas jogam um jogo de cartas que brilham muito. Uma delas possui o olhar vazio e distante**:
+		- **Descrição:** Um jogo de azar popular em Orizon onde as cartas são feitas de luz sólida. Os jogadores devem usar a sua força de vontade para "esconder" os seus blefes na trama da magia.
+	    - **Teste:** **Enganação (Carisma) ou Jogo (CD 13)**.**
+	    - **Sucesso:** O jogador ganha uma bolsa com 20 po e uma **Lente de Precisão** (componente para o Liceu de Prismas ou reparação de itens).
+	    - **Falha:** O jogador perde a aposta e, pior, a sua mente fica exposta durante o jogo. Um dos jogadores à mesa (um Conectado) descobre o motivo real de eles estarem na cidade, enviando essa informação telepaticamente para Alatar.
+	- **A taverneiro cumprimenta os personagens e já se apresenta, oferecendo uma bebida **:
+		- **Descrição:** O dono da estalagem, oferece uma rodada "por conta da casa" para os novos visitantes, observando-os com um sorriso que não atinge os seus olhos completamente imóveis.
+		- **Teste:** **Intuição (Sabedoria) (CD 16)**.
+	    - **Sucesso:** O jogador percebe que o Estalajadeiro não pisca os olhos há vários minutos e que ele está a mover os lábios silenciosamente, repetindo as palavras exatas que um dos jogadores está a dizer em tempo real. O grupo percebe a natureza da colmeia antes de serem expostos.
+	    - **Falha:** O grupo aceita o brinde e o reconhece como um gesto amigável. O Estalajadeiro toca no ombro de um jogador, estabelecendo um "link" sutil que dá **Desvantagem** na próxima salvaguarda contra o Zumbido.
+
+- **A Hora do Silêncio:** Um costume antigo de meditação mágica que Alatar distorceu. Agora, os 15 minutos de silêncio ao pôr do sol servem para que o "Zumbido" se torne a única coisa audível na mente dos cidadãos.
+	- **Ao tocar do sino, todos param exatamente onde estão**
+		- **Descrição:** Assim que o sino toca, todos os cidadãos — do minerador ao mago — param exatamente onde estão. Se os jogadores continuarem se movendo, falando ou até mesmo respirando de forma ofegante, eles se tornam alvos óbvios para a percepção aguçada dos Conectados.
+		- **Teste:** **Furtividade (Destreza)** ou **Atuação (Carisma)** CD 14 para permanecer perfeitamente imóvel e mimetizar o estado de transe da cidade.
+		- **Sucesso:** O grupo passa despercebido e consegue observar um grupo de Conectados trocando mensagens silenciosas através de gestos rituais.
+	    - **Falha:** Alguém derruba um item ou tropeça. O som ecoa pelos desfiladeiros silenciosos. Dezenas de cabeças de NPCs próximos viram em uníssono para o grupo. O **Nível de Alerta da Colmeia** sobe em +1 imediatamente.
+
+
+- **Liceu de Prismas:** A mais prestigiosa escola de magia do reino. Suas salas de aula flutuam nos vãos entre os penhascos. O Liceu foca em artifício e teoria dimensional. É o sonho de qualquer jovem mago, mas sua entrada exige testes de intelecto exaustivos.
+- **Torre de Safira:** O local mais seguro da cidade. É um laboratório fortificado que abriga a maior fenda conhecida, sob custódia direta de Valerius e do **Conclave Safira**. O acesso ao material bruto da fenda é restrito e considerado crime de alta traição se violado.
 
 **Itens**:
 - **Gancho de Vácuo (Sucata):**
 - Lampião de Luz Estática:
 - Espada de Metal Instável:
-- Sinete de Zaninito Bruto (mudar o metal)
+- Sinete de Obsidiana da Fenda
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
 
@@ -60,15 +87,14 @@ _A pressão aumenta. Os pensamentos dos outros começam a vazar para a sua mente
 ##### Tabela de Nível 3: Ruptura Sináptica
 _Você está a um passo de se tornar um Conectado. Alatar pode ver através dos seus olhos._
 
-|   |   |
-|---|---|
-|d6|Efeito (Imediato e Severo)|
-|1|Marionete Mental: Alatar assume o controle por um breve segundo. Use sua próxima ação para realizar um ataque básico contra o aliado mais próximo.|
-|2|Grito Revelador: Você solta um grito agudo (o som da colmeia), revelando sua localização exata para todos os guardas em Orizon.|
-|3|Sobrecarga Psíquica: Sua mente "trava". Você sofre 3d6 de dano psíquico e fica Atordoado até o final do seu próximo turno.|
-|4|Colapso de Memória: Você esquece como usar uma arma ou magia específica até fazer um descanso curto.|
-|5|Farol da Colmeia: Você começa a emitir um brilho púrpura tênue. Inimigos Conectados têm vantagem em ataques contra você.|
-|6|Conexão Total: Por 10 minutos, Alatar sabe tudo o que você sabe e vê o que você vê. Ele usará isso para antecipar todos os planos do grupo.|
+| d6  | Efeito (Imediato e Severo)                                                                                                                         |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Marionete Mental: Alatar assume o controle por um breve segundo. Use sua próxima ação para realizar um ataque básico contra o aliado mais próximo. |
+| 2   | Grito Revelador: Você solta um grito agudo (o som da colmeia), revelando sua localização exata para todos os guardas em Orizon.                    |
+| 3   | Sobrecarga Psíquica: Sua mente "trava". Você sofre 3d6 de dano psíquico e fica Atordoado até o final do seu próximo turno.                         |
+| 4   | Colapso de Memória: Você esquece como usar uma arma ou magia específica até fazer um descanso curto.                                               |
+| 5   | Farol da Colmeia: Você começa a emitir um brilho púrpura tênue. Inimigos Conectados têm vantagem em ataques contra você.                           |
+| 6   | Conexão Total: Por 10 minutos, Alatar sabe tudo o que você sabe e vê o que você vê. Ele usará isso para antecipar todos os planos do grupo.        |
 
 #### Desafios
 - Evitar atrair a atenção dos "Cidadãos Preocupados" (Conectados) que tentam impedir perguntas sobre o Mestre.
