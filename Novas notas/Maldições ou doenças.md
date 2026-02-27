@@ -1,2 +1,0 @@
-- Uma doença mágica que afeta arcanistas, fazendo com que sejam obrigados a rolar um possível efeito de refluxo mágico
-- 
