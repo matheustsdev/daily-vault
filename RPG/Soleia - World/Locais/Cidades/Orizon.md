@@ -2,6 +2,8 @@
 Tipo: Cidade
 Estado:
 ---
+legendinha + 1 a 4 objetyos interativos + nome descrição teste e danopp
+
 # Visão Geral:
 
 *   Uma breve descrição da cidade (1-2 parágrafos). Incluir:
