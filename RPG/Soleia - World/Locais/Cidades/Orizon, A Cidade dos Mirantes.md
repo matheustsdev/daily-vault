@@ -52,7 +52,7 @@ Orizon é uma metrópole vertical esculpida nos **Penhascos de Vidro**. Suas tor
 - **A Infiltração do Liceu:** Alatar começou a substituir os professores mais brilhantes do Liceu de Prismas, garantindo que a próxima geração de magos já nasça "conectada".
 # NPCs
 
-- **Mestre Valerius (Humano, Mago):** O único que sabe o custo real de destruir a espada.
+- **Mestre Valerius (Elfo, Mago):** O único que sabe o custo real de destruir a espada.
 - **Capitã Elara (Meio-Elfa, Guerreira):** Líder da guarda que ainda resiste à conexão, mas sofre de dores de cabeça constantes.
 - **Kaelen (Gnomo, Aprendiz):** Um jovem gênio que descobriu um padrão no zumbido, mas está sendo caçado pelos Conectados por saber demais.
 - **O Estalajadeiro "Vazio" (Humano):** Dono da estalagem _O Pouso do Viajante_, o primeiro Conectado que os jogadores encontrarão (como descrito no monólogo/cenas).
