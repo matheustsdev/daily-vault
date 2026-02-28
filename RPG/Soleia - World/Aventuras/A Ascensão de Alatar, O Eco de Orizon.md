@@ -9,25 +9,38 @@ Após derrotarem o esquadrão na caverna, os aventureiros possuem informações 
 # Estrutura da Aventura
 ## Ato I: A Paranoia Silenciosa
 ### NPCs importantes
-*NPCs que serão importantes nesse ato.*
+#### Valerius
+- Elfo
+- Mago
+- Anda mancando levemente a perna esquerda
+- Olheiras profundas e avermelhadas
+- Cabelo perfeitamente liso e já grisalho
+- Sabe a localização de uma fenda secreta de Zanin.
+#### Grumbar Cisco
+- Gnomo
+- Artificie
+- Verifica suas ferramentas à cada 30 segundos
+- Uma das suas mãos é uma protese de madeira, que se mexe atraves do seu uso constante de magia
+- Usa um tapa olho para ajustar seu pequeno brinquedo de sapo de metal
+- É o verdadeiro herdeiro de uma familia falida
 ### Cena 1: A Chegada em Orizon
 Os aventureiros chegam a Orizon, uma cidade construída sobre desfiladeiros. O clima é de opressão; embora não haja uma guerra declarada, o "Zumbido" constante e a falta de contato visual dos habitantes criam uma atmosfera de desconfiança.
 
-Segue os pontos de interesse e destaque da cidade:
+Segue os pontos de interesse e destaque da cidade, durante a exploração alguns items podem ser encontrados pelo jogadores.
+
 - **Taverna "O Éter Embriagado":** 
 	Uma taverna onde a magia está em todo lugar. As bebidas flutuam até as mesas, as cores das paredes mudam conforme a música tocada por bardos ilusórios e os clientes discutem teorias arcanas em mesas com campos de silêncio individuais. O dono, um Conectado, observa tudo com um sorriso imóvel.
-	
 	- **Uma mesa com apenas 2 cadeiras e uma pessoa em pé, na mesa existe uma uma bebida mudando de cor**:
 		- **Descrição:** Uma bebida experimental que flutua num copo de cristal, mudando de cor e densidade de acordo com os pensamentos de quem a segura. Diz-se que o sabor é uma memória perdida e o jogo é chamado de **Gole de Zanin**.
 		- **Teste:** **Salvaguarda de Constituição (CD 14)**.
 		- **Sucesso:** O jogador recupera o fôlego e sente uma clareza súbita, ganhando **Vantagem** no próximo teste de Inteligência ou Sabedoria que realizar na cidade.
 		- **Falha:** O líquido torna-se cinzento e amargo. O jogador é inundado por uma visão perturbadora da fenda, aumentando o seu **Nível de Zumbido em +1** e sofrendo 1d6 de dano psíquico.
-	- **2 pessoas jogam um jogo de cartas que brilham muito. Uma delas possui o olhar vazio e distante**:
+	- **2 pessoas jogam um jogo de cartas que brilham muito. Uma delas possui o olhar vazio e distante, já o outro parece animado e uma luz roxa chama atenção em sua mão**:
 		- **Descrição:** Um jogo de azar popular em Orizon onde as cartas são feitas de luz sólida. Os jogadores devem usar a sua força de vontade para "esconder" os seus blefes na trama da magia.
-	    - **Teste:** **Enganação (Carisma) ou Jogo (CD 13)**.**
-	    - **Sucesso:** O jogador ganha uma bolsa com 20 po e uma **Lente de Precisão** (componente para o Liceu de Prismas ou reparação de itens).
+	    - **Teste:** **Enganação (Carisma) ou Jogo (CD 13)**.
+	    - **Sucesso:** O jogador ganha uma bolsa com 20 po ou pode negociar o anel que o oponente esta usando (Sinete de Obsidiana da Fenda).
 	    - **Falha:** O jogador perde a aposta e, pior, a sua mente fica exposta durante o jogo. Um dos jogadores à mesa (um Conectado) descobre o motivo real de eles estarem na cidade, enviando essa informação telepaticamente para Alatar.
-	- **A taverneiro cumprimenta os personagens e já se apresenta, oferecendo uma bebida **:
+	- **A taverneiro cumprimenta os personagens e já se apresenta, oferecendo uma bebida:
 		- **Descrição:** O dono da estalagem, oferece uma rodada "por conta da casa" para os novos visitantes, observando-os com um sorriso que não atinge os seus olhos completamente imóveis.
 		- **Teste:** **Intuição (Sabedoria) (CD 16)**.
 	    - **Sucesso:** O jogador percebe que o Estalajadeiro não pisca os olhos há vários minutos e que ele está a mover os lábios silenciosamente, repetindo as palavras exatas que um dos jogadores está a dizer em tempo real. O grupo percebe a natureza da colmeia antes de serem expostos.
@@ -40,15 +53,22 @@ Segue os pontos de interesse e destaque da cidade:
 		- **Sucesso:** O grupo passa despercebido e consegue observar um grupo de Conectados trocando mensagens silenciosas através de gestos rituais.
 	    - **Falha:** Alguém derruba um item ou tropeça. O som ecoa pelos desfiladeiros silenciosos. Dezenas de cabeças de NPCs próximos viram em uníssono para o grupo. O **Nível de Alerta da Colmeia** sobe em +1 imediatamente.
 
-
 - **Liceu de Prismas:** A mais prestigiosa escola de magia do reino. Suas salas de aula flutuam nos vãos entre os penhascos. O Liceu foca em artifício e teoria dimensional. É o sonho de qualquer jovem mago, mas sua entrada exige testes de intelecto exaustivos.
-- **Torre de Safira:** O local mais seguro da cidade. É um laboratório fortificado que abriga a maior fenda conhecida, sob custódia direta de Valerius e do **Conclave Safira**. O acesso ao material bruto da fenda é restrito e considerado crime de alta traição se violado.
-
-**Itens**:
-- **Gancho de Vácuo (Sucata):**
-- Lampião de Luz Estática:
-- Espada de Metal Instável:
-- Sinete de Obsidiana da Fenda
+	- **Uma série de estantes circulares com milhares de prismas flutuando no vácuo entre elas:**
+		- **Descrição:** O Arquivo de Vidro armazena conhecimento em cristais em vez de livros. Para acessar as informações, o estudante deve canalizar mana e sintonizar sua mente com o prisma escolhido. Os jogadores podem buscar registros proibidos de James Zanin sobre a verdadeira natureza das fendas.
+		- **Teste:** Inteligência (Arcanismo ou Investigação) CD 15.
+		- **Sucesso:** O jogador acessa um "eco" de Zanin explicando que as fendas não são buracos, mas "feridas que tentam se fechar". Isso dá ao grupo uma pista sobre como enfraquecer a conexão de Alatar.
+		- **Falha:** O sistema de segurança detecta uma mente não autorizada. O prisma emite um flash de luz branca, deixando o jogador com a condição **Cego** por 1 minuto e alertando os monitores do Liceu.
+	- **Uma parede de energia líquida e translúcida que brilha conforme os alunos passam por ela:**
+		- **Descrição:** O Mural de Ressonância é usado para calibrar magias, refletindo a cor da aura do usuário. Jogadores astutos podem observar o mural para notar se a aura dos professores presentes é individual ou se está estranhamente sincronizada com a mente colmeia.
+		- **Teste:** Sabedoria (Intuição) CD 16 ou Inteligência (Arcanismo) CD 14.
+		- **Sucesso:** O jogador percebe que as cores de três professores brilham em um ritmo idêntico e mecânico — um sinal claro de que já são Conectados de Alatar.
+		- **Falha:** O mural detecta a "dissonância" da mente livre do jogador e emite um som agudo e discordante, atraindo olhares e subindo o **Nível de Alerta da Colmeia**.
+	- **Um constructo de latão com múltiplas lentes de cristal giratórias no lugar do rosto:**
+		- **Descrição:** O Supervisor Autômato protege a Ala Restrita. Ele não busca armas, mas sim irregularidades rítmicas no cérebro. Como os jogadores ainda possuem individualidade, eles precisam enganar o sensor ou esvaziar a mente para parecerem "vazios".
+		- **Teste:** Carisma (Enganação) CD 15 ou Salvaguarda de Sabedoria CD 13.
+		- **Sucesso:** As lentes do autômato param de girar e ele se afasta, permitindo a entrada do grupo por confundi-los com assistentes ou alunos autorizados. Dentro da área restrita, após o constructo de latão, uma espada esta prostada em uma mesa. A espada oscila como se não pertencesse à esse mundo. Anotações na mesa mostram estudos sobre ela. Em outras mesas é possível encontrar o Gancho de Vácuo de Sucata.
+		- **Falha:** O autômato trava a passagem e emite um alerta sonoro: "Inconsistência detectada. Individualidade acima dos níveis permitidos." Dois guardas da Falange de Vidro chegam para investigar em 1 rodada.
 #### Ações
 *O que os personagens devem fazer nesta cena? Quais são as ações que eles podem realizar para avançar na história?*
 
@@ -99,8 +119,54 @@ _Você está a um passo de se tornar um Conectado. Alatar pode ver através dos 
 #### Desafios
 - Evitar atrair a atenção dos "Cidadãos Preocupados" (Conectados) que tentam impedir perguntas sobre o Mestre.
 - Obter o Diapasão da Individualidade
-### Cena 3: O Santuário de Valerius
-Os aventureiros conseguem entrar na Torre de Observação. Valerius está exausto, mantendo uma barreira mental para proteger o conhecimento do ritual de Lichdom e a localização da Espada Interdimensional.
+### Cena 2: O Santuário de Valerius
+Os aventureiros conseguem entrar na Torre de Safira e precisam convencer o guarda à deixa-los passarem. O gnomo Grumbar Cisco está sentado na 
+
+**Entrada:**
+- Protegida por um gnomo sentado em um pequeno banco enquanto aperta parafusos de algo na sua mão
+	- **Descrição**: O gnomo chamado Grumbar Cisco está ajustando seu pequeno sapo de sucata para que volte a pular. Grumbar é serio e não gosta de estar sendo interrompido, ele reforça que ninguem pode entrar no local e que são ordens diretas de Valerius.
+	- **Teste**: Persuasão CD 16 para convence-lo ou Enganação CD 16 para engano-lo.
+	- **Sucesso:** Ele compreende os desejos e preocupações dos aventureiros e permite que passem;
+	- **Falha**: Grumbar puxa 2 pequenos aparelhos do seu bolso com um botão neles. Ele aperta cada um deles e cristais no chão começam a vibrar e se erguer, dando origem à 2 golems de vidro da fenda
+- Janelas muito altas
+
+No centro do salão, a luz púrpura e instável da fenda atravessa o chão de cristal, projetando sombras longas e distorcidas nas paredes. A esquerda, uma mesa de trabalho repleta de mapas estelares, lentes e um diário que parece tremer sozinho ou com a energia dissipida pela fenda. No fim do salão, a **Porta de Platina** ergue-se, majestosa e fria. No centro dela, há três grandes círculos esculpidos em relevo: um no topo, um no meio e um na base.
+Gravado em élfico elegante ao redor do selo central, lê-se a seguinte poesia:
+
+> _"O alicerce é o ferro que o abismo aqueceu,_ _O elo é a seda que o vento teceu,_ _O cume é o vidro que o céu conheceu._ _Dá peso ao que dorme, amarra o que voa e foca o que brilha,_ _Pois só o equilíbrio revela a trilha."_
+
+- **Um abismo circular no centro do salão, onde uma fenda massiva flutua, contida por campos de força:**
+		- **Descrição:** Esta é a fenda principal que Valerius estuda. Ela emite uma luz de safira pulsante que ilumina toda a torre. Estar tão perto da fonte permite aos jogadores tentarem "ancorar" sua própria realidade para resistir ao Zumbido, mas o risco de ser sugado pela consciência da fenda é altíssimo.
+		- **Teste:** Salvaguarda de Carisma CD 16.
+		- **Sucesso:** O jogador canaliza a energia da fenda para fortalecer sua mente, resetando seu **Nível de Zumbido** para 0 e ganhando resistência a dano psíquico por 1 hora.
+		- **Falha:** A fenda "puxa" a mente do jogador para o vácuo. Ele sofre 2d10 de dano psíquico e sofre imediatamente um efeito da tabela de **Nível de Zumbido 3**.
+- **Uma mesa de trabalho repleta de mapas estelares, lentes e um diário que parece tremer sozinho:**
+		- **Descrição:** O grupo pode encontrar as anotações reais sobre o ritual fracassado de James Zanin. O diário está protegido por uma armadilha de "confusão mental" desenhada para impedir que qualquer um, exceto Valerius, entenda os segredos de Alatar.
+		- **Teste:** Inteligência (Investigação) ou Sabedoria (Percepção) CD 15.
+		- **Sucesso:** O grupo encontra a página que descreve como o Zaninito da espada de Alatar é o único ponto fraco da conexão, permitindo que planejem o golpe final com precisão
+
+Para abrir a porta de forma mágica, os jogadores devem interagir com os três círculos (selos) da porta. Cada selo responde a um tipo de energia ou material que representa as três camadas de Orizon.
+
+**1. O Selo da Base (O Peso da Terra)**
+- **A Dica:** _"Dá peso ao que dorme"_ / _"O alicerce é o ferro"_
+- **Ação Necessária:** O selo inferior precisa de **impacto ou massa**.
+- **Como resolver:** * **Uso de Item:** Encaixar um fragmento de **Aço de Fenda** no relevo (o selo o absorve e brilha em laranja).
+    - **Sem Item:** Um jogador deve realizar um ataque físico pesado (golpe de martelo, espada ou um teste de **Atletismo CD 15**) para "despertar" o metal.
+
+**2. O Selo do Meio (O Elo do Vento)**
+- **A Dica:** _"Amarra o que voa"_ / _"O elo é a seda"_
+- **Ação Necessária:** O selo central precisa de **tensão ou conexão**.
+- **Como resolver:** * **Uso de Item:** Enrolar uma corda de **Seda Cinzenta** ao redor da maçaneta central esculpida (a seda brilha em prateado).
+    - **Sem Item:** Um teste de **Destreza (Prestidigitação) CD 15** para manipular as engrenagens internas expostas através de frestas, ou usar um feitiço de movimento (como _Mãos Mágicas_ ou _Lufada de Vento_) para girar o mecanismo.
+
+**3. O Selo do Topo (O Foco do Céu)**
+- **A Dica:** _"Foca o que brilha"_ / _"O cume é o vidro"_
+- **Ação Necessária:** O selo superior precisa de **luz focada**.
+- **Como resolver:** * **Uso de Item:** Encaixar uma **Lente de Precisão** ou uma **Obsidiana de Fenda** no centro (ela começa a brilhar em azul safira).
+    - **Sem Item:** Usar um feitiço de _Luz_ ou _Chama Sagrada_, ou utilizar um espelho para refletir o brilho púrpura que vem do **alçapão no chão** diretamente para o selo do topo.
+
+
+Quando os personagens conseguem finalmente subir até o alto da torre onde Valerius se encontra, eles encontram um elfo esgotado, suando e prestes a desmaiar. Valerius já resistiu à tempo demais à tentativa de controle de Alatar. Conversando com personagens ele pode falar sobre seu conhecimento da mente colmeia e de Alatar, porém logo logo ele é interrompido pela visão de Alatar.
 #### Ações
 - Convencer Valerius de que são aliados
 - Descobrir a conexão entre as fendas de James Zanin e o metal necessário para destruir a filactéria de Alatar.
