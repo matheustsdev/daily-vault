@@ -12,7 +12,3 @@ Uma civilização focada na exploração e no comércio, situada em terras exube
 - Névoalma
 
 ## Cidades
-```dataview 
-TABLE Tipo FROM "Soleia - World/Locais"
-WHERE Estado = [[Maravina]]
-```
